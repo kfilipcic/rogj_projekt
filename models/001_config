@@ -1,0 +1,36 @@
+{
+    "config": [
+        {
+            "key": "runIdx",
+            "value": "1"
+        },
+        {
+            "key": "timestamp",
+            "value": "2021-04-27, 2021-04-27"
+        },
+        {
+            "key": "hostname",
+            "value": "c8699e44aacc"
+        },
+        {
+            "key": "runPath",
+            "value": "/root/models/"
+        },
+        {
+            "key": "username",
+            "value": ""
+        },
+        {
+            "key": "gflags",
+            "value": "--flagfile=\n--fromenv=\n--tryfromenv=\n--undefok=\n--tab_completion_columns=80\n--tab_completion_word=\n--help=false\n--helpfull=false\n--helpmatch=\n--helpon=\n--helppackage=false\n--helpshort=false\n--helpxml=false\n--version=false\n--ipl_maxisz=1.7976931348623157e+308\n--ipl_maxtsz=9223372036854775807\n--ipl_minisz=0\n--ipl_mintsz=0\n--ipl_relabel_epoch=10000000\n--ipl_relabel_ratio=1\n--ipl_seed_model_wer=-1\n--ipl_use_existing_pl=false\n--unsup_datadir=\n--unsup_train=\n--adambeta1=0.90000000000000002\n--adambeta2=0.999\n--am=\n--am_decoder_tr_dropout=0\n--am_decoder_tr_layerdrop=0\n--am_decoder_tr_layers=1\n--arch=/root/am_conformer_ctc_stride3_letters_25Mparams_distill.arch\n--attention=content\n--attentionthreshold=2147483647\n--attnWindow=no\n--attnconvchannel=0\n--attnconvkernel=0\n--attndim=0\n--batching_max_duration=0\n--batching_strategy=none\n--batchsize=4\n--beamsize=2500\n--beamsizetoken=250000\n--beamthreshold=25\n--channels=1\n--criterion=asg\n--critoptim=sgd\n--datadir=/root/\n--decoderattnround=1\n--decoderdropout=0\n--decoderrnnlayer=1\n--decodertype=wrd\n--devwin=0\n--emission_dir=\n--emission_queue_size=3000\n--enable_distributed=false\n--encoderdim=0\n--eosscore=0\n--everstoredb=false\n--features_type=mfsc\n--fftcachesize=1\n--filterbanks=80\n--fl_amp_max_scale_factor=32000\n--fl_amp_scale_factor=4096\n--fl_amp_scale_factor_update_interval=2000\n--fl_amp_use_mixed_precision=false\n--fl_benchmark_mode=true\n--fl_log_level=\n--fl_log_mem_ops_interval=0\n--fl_optim_mode=\n--fl_vlog_level=0\n--flagsfile=/root/flagsfile\n--framesizems=25\n--framestridems=10\n--gamma=1\n--gumbeltemperature=1\n--highfreqfilterbank=-1\n--inputfeeding=false\n--isbeamdump=false\n--iter=2500\n--itersave=false\n--labelsmooth=0\n--leftWindowSize=50\n--lexicon=/root/lexicon.txt\n--linlr=-1\n--linlrcrit=-1\n--linseg=0\n--lm=\n--lm_memory=5000\n--lm_vocab=\n--lmtype=kenlm\n--lmweight=0\n--lmweight_high=4\n--lmweight_low=0\n--lmweight_step=0.20000000000000001\n--localnrmlleftctx=0\n--localnrmlrightctx=0\n--logadd=false\n--lowfreqfilterbank=0\n--lr=0.001\n--lr_decay=9223372036854775807\n--lr_decay_step=9223372036854775807\n--lrcosine=false\n--lrcrit=0\n--max_devices_per_node=8\n--maxdecoderoutputlen=200\n--maxgradnorm=0\n--maxload=-1\n--maxrate=10\n--maxsil=50\n--maxword=-1\n--melfloor=1\n--mfcccoeffs=13\n--minrate=3\n--minsil=0\n--momentum=0\n--netoptim=sgd\n--nthread=1\n--nthread_decoder=1\n--nthread_decoder_am_forward=1\n--numattnhead=8\n--onorm=none\n--optimepsilon=1e-08\n--optimrho=0.90000000000000002\n--pctteacherforcing=100\n--pcttraineval=100\n--pretrainWindow=0\n--replabel=0\n--reportiters=1\n--rightWindowSize=50\n--rndv_filepath=\n--rundir=/root/models/\n--samplerate=16000\n--sampletarget=0\n--samplingstrategy=rand\n--saug_fmaskf=27\n--saug_fmaskn=2\n--saug_start_update=-1\n--saug_tmaskn=2\n--saug_tmaskp=1\n--saug_tmaskt=100\n--sclite=\n--seed=0\n--sfx_config=\n--sfx_start_update=2147483647\n--show=false\n--showletters=false\n--silscore=0\n--smearing=none\n--smoothingtemperature=1\n--softwoffset=10\n--softwrate=5\n--softwstd=5\n--sqnorm=false\n--stepsize=9223372036854775807\n--surround=\n--test=test.lst\n--tokens=/root/tokens.txt\n--train=train.lst\n--trainWithWindow=false\n--transdiag=0\n--unkscore=-inf\n--use_memcache=false\n--uselexicon=true\n--usewordpiece=false\n--valid=val.lst\n--validbatchsize=-1\n--warmup=1\n--weightdecay=0\n--wordscore=0\n--wordseparator=|\n--world_rank=0\n--world_size=1\n--alsologtoemail=\n--alsologtostderr=true\n--colorlogtostderr=false\n--drop_log_memory=true\n--log_backtrace_at=\n--log_dir=\n--log_link=\n--log_prefix=true\n--logbuflevel=0\n--logbufsecs=30\n--logemaillevel=999\n--logfile_mode=436\n--logmailer=/bin/mail\n--logtostderr=false\n--max_log_size=1800\n--minloglevel=0\n--stderrthreshold=2\n--stop_logging_if_full_disk=false\n--symbolize_stacktrace=true\n--v=0\n--vmodule=\n"
+        },
+        {
+            "key": "commandline",
+            "value": "./fl_asr_train train --flagsfile=/root/flagsfile"
+        },
+        {
+            "key": "programname",
+            "value": "./fl_asr_train"
+        }
+    ]
+}
