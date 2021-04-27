@@ -1,0 +1,11 @@
+--datadir=/root/
+--rundir=/root/models/
+--tokens=/root/tokens.txt
+--lexicon=/root/lexicon.txt
+--valid=val.lst
+--train=train.lst
+--test=test.lst
+--lr=0.001 
+--reportiters=1
+--iter=25000 
+--arch=/root/am_conformer_ctc_stride3_letters_25Mparams_distill.arch

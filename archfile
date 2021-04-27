@@ -1,0 +1,5 @@
+# Comments like this are ignored
+# the output tensor will have the shape (Time, 1, NFEAT, Batch)
+# View
+# the output should be with the shape (NLABEL, Time, Batch, 1)
+# Linear layer
