@@ -1,0 +1,699 @@
+|T|: a l i | t r e b a | n a p r a v i t i | j a s n u | r a z l i k u | i z m e } u | p r o f e s i o n a l n o g | p r o p u s t a | i | k a z n e n o g | d i j e l a | v r e m e n s k a | p r o g n o z a | z a | p o s l i j e p o d n e | d j e l o m i c e | s u n ~ a n o | u z | p r o m j e nj i v u | n a o b l a k u | u z d a h
+|P|: a k r l i e t e b l o | n a | p r o i t i j a s t u r a z s k u o j i m i } u | p r o v i s a n a n o | p r o p u s t a u l i | t s a s n e a n a o | t i j a | l j l | i | d | v r e m e a | s k a | p r g n o u o z | z a | p o s lj e j | f u o v o m n e | u | i | i j e l o m i c e | s u n ~ o n o | o | u s p n o m j e nj i u | n a o | b l a k o u | d u z u h a h
+[sample: sm04310105125, WER: 109.524%, TER: 43.9024%, total WER: 109.524%, total TER: 43.9024%, progress (thread 0): 0.429185%]
+|T|: d a | p r e b r o j a v a nj e | g l a s o v a | t e ~ e | b e z | p r o b l e m a | i | d a | b i | t a j | p r o c e s | m o g a o | t r a j a t i | d o | d e s e t | d a n a | u z d a h | d u ` n i c i | p o v j e r e n s t v a | p r o c j e nj u j u | d a | j e | n a | i z b o r e | u | n e d j e lj u | i z a { l o | o k o | o s a m | m i l i j u n a | lj u d i | u z d a h
+|P|: n d a | p r b r e j a nj n | g l a | s u v a | t j e ~ e | d e z s p r o | v l e a e i m a | j i d a b p | t a e r o d e a | s m o g o | t r j r a t i | d o | d e s e | t a n a | u z l d a h | d u m ` n d v c i p o v j e r e n s t r | b r o d c s j lj e nj n nj g | u | d a j e n e | i z b o r | u n a e d j i lj u b i z a | { p a o | p o k | o | o s a m i | d | u m n a | lj u d i u | v h
+[sample: sm04310105312, WER: 96.875%, TER: 36.7021%, total WER: 101.887%, total TER: 40.0568%, progress (thread 0): 0.858369%]
+|T|: b i o m e t e o r o l o { k a | p r o g n o z a | z a | s u t r a | u z d a h | b i o m e t e o r o l o { k e | ^ e | p r i l i k e | u | v e ^ e m | d i j e l u | n a { e | z e m lj e | b i t i | r a z m j e r n o | n e p o v o lj n e | a | u | l i c i | i | g o r s k o m | k o t a r u | n e p o v o lj n e | u z d a h
+|P|: s i n i m b i o m e t e o r o l o { k a | p r o n o z a | z a | s u t r a | a h a | b i o m e t e | r o l o { k o e ^ e r i l i k e o | v e ^ j e m d v i e l u z | n a { i | z e m lj e | b i t i r a z b e | n o | i | n a | p o v o r lj n u | a l | a o u l i c i | g o s k o m | k o t a r u | u | e | p o v o lj | n e | i z u z l
+[sample: sm04310105325, WER: 91.6667%, TER: 30.1887%, total WER: 98.7013%, total TER: 36.9863%, progress (thread 0): 1.28755%]
+|T|: u z d a h | a | n a | j u ` n o m | j a d r a n u | k i { a | i | g r m lj a v i n a | u d a r a c | p a p i r | t i j e k o m | n o ^ i | u m j e r e n | s j e v e r nj a k | i | s j e v e r o i s t o ~ nj a k | u d a r a c | n a | j a d r a n u | k | j a k a | u z d a h | n a | s j e v e r n o m | d i j e l u | m j e s t i m i c e | i | o l u j n a | b u r a
+|P|: u z a h | a | j i u v n o m | j a d r a n u | i { e | i | r a nj a e v i n { e g a | a p i j | a o | n | o ^ u | m i r e n e a m o | p | i j e a d r i nj j a | i | s j e v r a d i s a ~ nj a | i l | n a | j a d r n u | i | j a k a | z u | a h a | s j e v r o m d i j e r u | m j e s t i m i c e | e | i | o l v i n e a o | b o u r a
+[sample: sm04311202403, WER: 79.3103%, TER: 41.1111%, total WER: 93.3962%, total TER: 38.0608%, progress (thread 0): 1.71674%]
+|T|: i n a ~ e | t a l i j a n s k a | t v r t k a | g r a d i | p e t | t i s u ^ a | s e d a m s t o | { e z d e s e t | m e t a r a | d u g i | t u n e l | m a l a | k a p e l a | a | b u d u ^ i | d a | j e | nj e g o v a | i z g r a d nj a | p r i | k r a j u | u p r a v o | d a n a s | v e ^ i n a | nj i h o v i h | d j e l a t n i k a | u z d a h
+|P|: i n e ~ e | p r n t n s k e | p v r t k a g r a d i | p e j e t i s u ^ e a | s e n a p s t o ` { e z d e s e t | n e t a r a | d u | j i p u | n e l | m a l a | k a ~ p e l a | a | b u d u ^ i | u z nj g i r | d a e nj e g | o e i z i | r a j nj lj a p r i | p r a j e | u | u | r | v o d a n a s v | t ^ i | a i l i h | v i o h | n d j a n i k a | z
+[sample: sm04310105305, WER: 96.2963%, TER: 36.2069%, total WER: 93.985%, total TER: 37.6879%, progress (thread 0): 2.14592%]
+|T|: p a p a | i v a n | p a v a o | d r u g i | o d g o d i o | j e | p r e d v i } e n e | a u d i j e n c i j e | z b o g | g r i p e | o b j a v i o | j e | { e f | u r e d a | z a | t i s a k | s v e t e | s t o l i c e | ` o a k i n | n a v a r o v a l s | u z d a h
+|P|: s i t a | p v r a | i v a e n m | p a v a | d r u | j i j i | o d r g o d i o j | j | p r e d u i } e n e | a | o d i j e n c i j e l z b o g | b d i t p r e | s | a | o | b j a v i v i j | { e k e p u r e d e | z a t i s a | s v e t e s t o l i c e | r ` a | i m n m | n a v a r o v a l c s | z
+[sample: sm04310105316, WER: 109.524%, TER: 36.5672%, total WER: 96.1039%, total TER: 37.5375%, progress (thread 0): 2.57511%]
+|T|: u j e d i nj e n i | n a r o d i | z a k lj u ~ i l i | s u | d a | u | d a r f u r u | n i j e | b i l o | g e n o c i d a | u z d a h | n a i m e | nj i h o v o | d u g o | o ~ e k i v a n o | i z v j e { ^ e | o | k r { e nj u | lj u d s k i | p r a v a | u | t o j | s u d a n s k o j | p o k r a j i n i | u z d a h
+|P|: u z o u | j e d n | i | i | n | a r d o d i | z a p u lj u ~ i l i e | s u | d a | u | t a r v s u | z o m n m n j i j | i l o g e n o | c i j e d a k c i r t s u | d | n e m n e | i h v o d u g o ~ e k | e | v o n o | i z v i o { ^ e | o | k r j o { e a n l | l i u d s k i | p r a v e | u t o | s u d a n s k i j | p o k r i n i | u z a
+[sample: sm04310105208, WER: 100%, TER: 42.4051%, total WER: 96.648%, total TER: 38.2022%, progress (thread 0): 3.00429%]
+|T|: p a s k o | b u r # e l e z | u z d a h | a l e n | f l o r i n ~ i ^ | u z d a h | z l a t a n | d u m a n i ^ | i | b o r i s | { i n c e k | r e ~ e n o | j e | n a | k o n f e r e n c i j i | z a | n o v i n s t v o | o d r ` a n o j | u | m i n i s t a r s t v u | k u l t u r e | u z d a h
+|P|: a s k u | b p u r | } e a e l e s | u h a h | a l a n m | v l o r i nj i ~ i ^ | a | a | a t a | d u m a n i ^ | i | b o r n i t s | { i n c e u k z u | s | n r e ~ a r n a k o g a r e m e j e z a e d n o i n s t v o d r ` n a n o | u | i u | m k n i | s t a r t v u | k p u | p u r e | u | d | a
+[sample: sm04310105321, WER: 100%, TER: 41.8919%, total WER: 97.0149%, total TER: 38.6207%, progress (thread 0): 3.43348%]
+|T|: d j e l o m i c e | s u n ~ a n o | u z | p r o m j e nj i v u | n a o b l a k u | z b o g | s u m nj e | d a | j e | u | n e p o s r e d n o j | b l i z i n i | t u n e l a | m a l a | k a p e l a | i s p u s t i l a | o k o | d e s e t | t i s u ^ a | l i t a r a | k e m i k a l i j a | u z d a h
+|P|: v l d j e l o n i c e | s u n ~ a e n o | u s t p o a m | j | a i g u | n a o | o | l a k u | i | l z l o g s u m n lj e | d a j e | e | u | n a k o | e u | m i | l | i z i n i u t u | n e j a l a v m a l a | k a p i e l a v i s k p u s t e i l | o g o d e s j e | t i | s u i ^ a | l i t a r a k i v i | k a l i j a | u z a h
+[sample: sm04310105105, WER: 113.636%, TER: 37.5839%, total WER: 98.6547%, total TER: 38.5144%, progress (thread 0): 3.86266%]
+|T|: n i t i | i z i ^ i | i z | f i k s n e | t e l e f o n i j e | d o | d v i j e | t i s u ^ e | { e s t e | g o d i n e | u z d a h | u l a g a nj e | u | a d e s e l | u s l u g u | { i r o k o | p o j a s n o g | p r i s t u p a | i n t e r n e t u | u z d a h
+|P|: m n i d i z i ^ i z | z | j u r p i s n e | t r a f o n i | j e | d o d v i t i s u ^ j | { e t e | g o d i n e | u l z h t u | u | u l a g a e l nj i j e | u | p a d e s e a l u | u s l u g u | { i l o k o | p o a s n o | r i s p | p r i n t a | n e t u | r h
+[sample: sm04310105206, WER: 95%, TER: 36.6412%, total WER: 98.3539%, total TER: 38.3596%, progress (thread 0): 4.29185%]
+|T|: t r e b a | d o b i t i | r a s k i d | r a d n o g | u g o v o r a | d o k | j e | u | p o d u z e ^ u | p r o g l a { e n | s t e ~ a j | u z d a h | k a k o | n e s l u ` b e n o | d o z n a j e m o | h r v a t s k e | a u t o c e s t e | v e ^ | s e | n e k o l i k o | m j e s e c i | s p o r e | s | t v r t k o m | u z d a h
+|P|: u t r e b d a | d o v i t i r a s k i | t | r a d a o | k u | g o r a | s | i d | d o | k t i | u | p o d u | z u e ^ u | p r o g l { s a n s t e a ~ e a e j | u | a | a | k | n | s u ` g e | n | d o z n a e m a o m | l n | r v a c u | a | u d r c e s t e v e c | c e | n j e k o l r k o m i s e c i | s | p o r e | s t v r t k o m | u
+[sample: sm04310105306, WER: 120%, TER: 40.9639%, total WER: 100.373%, total TER: 38.6065%, progress (thread 0): 4.72103%]
+|T|: m o r e | m a l o | d o | u m j e r e n o | v a l o v i t o | p o n e g d j e | n a | o t v o r e n o m | k r a j nj e g | d i j e l a | j u ` n o g | j a d r a n a | v a l o v i t o | u z d a h | p o s t u p n o | n a o b l a ~ e nj e | i | m a l o | t o p l i j e | z a t i m | p o n e g d j e | s l a b a | k i { a
+|P|: i m o r e j e | m a l | o d u | u m j e r e n i | g o a l o v j | t o | l p o n e g i d j e n a | u o t v r e n o | m | k r a nj e g i | d i j e l v a | j u | n o g | j a d r a n | v a l o j i u t | o | u i l m a j | p o t u p | o n | a | b r u o a ^ u e o nj e | z d | h i n a | o t o p i z a t d m | p o n e i d i j e | s l a | b a | k i ~ { a
+[sample: sm04310105220, WER: 121.739%, TER: 35.443%, total WER: 102.062%, total TER: 38.3447%, progress (thread 0): 5.15021%]
+|T|: u | { v i c a r s k o j | ^ e | d o p u { t e n a | k o l i ~ i n a | a l k o h o l a | u | k r v i | z a | v o z a ~ e | o d | s u t r a | b i t i | n u l a | c i j e l i h | s i l | p e t | u m j e s t o | d o s a d a { nj i h | n u l a | c i j e l i h | s i l | o s a m | p r o m i l a
+|P|: u z d | u | u { k i z a s k o j i ^ e | d o p u { t | n a | k o l i ^ ~ i | n a | a l o k o | k o l | o | k a r v j i | z a v o | z a ~ e | o d | s u t r a v m b i | t i | n u l a c j e l i | i | p r e j e t | t k u | m j e s t o u | d o | s a | d e o | nj i j | n o u n a c j e l i z | o s a m | p r o a m i nj i e i l a
+[sample: sm04311204430, WER: 104.167%, TER: 38.8889%, total WER: 102.222%, total TER: 38.3829%, progress (thread 0): 5.5794%]
+|T|: d e s e t | b r i t a n s k i h | v o j n i k a | n a j v j e r o v a t n i j e | j e | p o g i n u l o | n a k o n | e s b r i t a n s | b r i t a n s k i | v o j n i | t r a n s p o r t n i | t r a | z r a k o p l o v | t i p a | h e r k u l | j u ~ e r | s r u { i o | u | i r a k u | u z d a h
+|P|: n m d e | j e | b i t k a | s k i h v o i n i k a e | n a | j i b r a t k n i j | p o g m n u l o | u z d a | n a k o n l | o | a d | r o l t z o e | v r i t a n s k i | b o n i | t | r a n s | p r t n m i | t r a | s a k o | p o e o t p i | p a e r k u | s | s u | { e | s z | u { j g u | u | i r a k u | z u a
+[sample: sm04310105309, WER: 135%, TER: 46.9799%, total WER: 104.179%, total TER: 38.9646%, progress (thread 0): 6.00858%]
+|T|: j u t r o s | s u | p o g i n u l a | p e t o r i c a | g e r i l a c a | a | p e t o r i c a | p o l i c a j a c a | s u | r a nj e n a | u z d a h | p u c nj a v a | j e | p o ~ e l a | d v a d e s e t a k | k i l o m e t a r a | j u ` n o | o d | g l a v n o g a | g r a d a | k u v a j t a | u z d a h
+|P|: s t j u | o r o | s | u | p o g i n u l a | p e t o r i c a | d g e r i l a c s a | u z d h a | a p e t o r i | a | p o l i c s a | a c a | s u r a nj e m n a | i d z o d h | p u i c nj n e m v o j | p o ~ e l a | d v a d i | s e t a e | p k i l o v a e a t a | a | j u n o l | d l a v n o | g a | g r a d a k u v o e t a | u d z d a h
+[sample: sm04310105119, WER: 100%, TER: 30.9211%, total WER: 103.922%, total TER: 38.4452%, progress (thread 0): 6.43777%]
+|T|: j e r | n i j e | i s p u n i l a | d i o | u g o v o r e n i h | o b v e z a | u z d a h | p r i | i z g r a d nj i | t u n e l a | n a | v r i j e m e | u z d a h | p a | j o j | s e | o s p o r a v a | p o s e b a n | b o n u s | o d | ~ e t r d e s e t | p e t | m i l i j u n a | k u n a | u z d a h
+|P|: l a j e r | n i | i | s u n i p l a d i | u | g o v r n i | o g b o | v e | z a | u d h a | h i | p r i z g r a nj i a t u r n e n m l | a n | r i j e m e | u | p a j e | s e | m s t p o r o d v a | p | o s e v a | g o n u s | o | o | k ~ e t r d e s e t | t e t | t | m n i a i | n a | u n a j | i u | a
+[sample: sm04310105112, WER: 120%, TER: 41.4474%, total WER: 104.974%, total TER: 38.6273%, progress (thread 0): 6.86695%]
+|T|: m a l o | d o | u m j e r e n o | o b l a ~ n o | u z d a h | i | p r o g n o z a | z a | s lj e d e ^ i h | d v a n a e s t | s a t i | u z d a h | s l a b | d o | u m j e r e n | s j e v e r o z a p a d n i | v j e t a r | p o n e g d j e | u z | o b a l u | s l a b a | d o | u m j e r e n a | b u r a | u z d a h
+|P|: m a l o | d o u m j e n o | o b l a ~ n o | u d a h | p r o g n o z a | z a | s l i j e d e ^ i h | d v a n a e s t | s e a t i | u z u | h | s l | o b | d u m i e r e n m | s i g e r | z a p a d n a g v j e d t a r | p o n e i d j | u z r o b a l u s l a | b a o | d | u m j e r e n a | b u r a | i z u a | h
+[sample: sm04310105219, WER: 76%, TER: 22.1519%, total WER: 103.194%, total TER: 37.6502%, progress (thread 0): 7.29614%]
+|T|: n i t i | z n a | { t o | s u | d j e c a | i z j a v lj i v a l a | u | s v o j i m | p i s m i m a | u z d a h | r a v n a t e lj i c a | v u k m a n | k a k o | u | d o m u | s v a k o g | d a n a | i m a | l i j e p i h | i | r u ` n i h | d o g a } a j a | u z d a h
+|P|: v nj i k | t i | g | z n a { t o s u | j e c a e | i z a v l i j i l a l a v u | s k m i m | b i s n i m a | l z d a | r e n t e i c a j v g u k n a n | k a { ` a e | z d | h | k a k | o | u | d o m u | s o a k o | d a n a i | n a | i l i j e i k i h | i j r u ` n i h | d | o g a e | } e u | u z i | h
+[sample: sm04310105124, WER: 108.696%, TER: 44.4444%, total WER: 103.488%, total TER: 37.9778%, progress (thread 0): 7.72532%]
+|T|: n a | k o j e | ^ e | s e | u | v e n e c i j i | r e f e r i r a t i | p o v j e r e n i k | h r v a t s k e | i z l o ` b e | s l a v e n | t o lj | i | { e s t o r i c a | a u t o r a | g o r a n | t r b u lj a k | t o m o | s a v i ^ | g e c a n | u z d a h
+|P|: n a | k o j i e ^ o | s e | u | v e n e i c i | s l o | r e { a e r i r e t i | k o v j o e n i k e r v a t k i | i z l o ` b e | s l a v e n | d o v a | i | i | { e s t o r c a | u t k a r a | s | l | i g l o r a n d r | n b i | j a | g o m n m a o | u | s a v lj i o ^ | j e s a m n | u d a h
+[sample: sm04310105320, WER: 95.2381%, TER: 40.7692%, total WER: 103.104%, total TER: 38.1017%, progress (thread 0): 8.15451%]
+|T|: p r o t i v | t a l i j a n s k e | t v r t k e | k o p | k o s t r u t o r i | u z d a h | p o l i c i j a | i | i n s p e k c i j a | u z d a h | s l u ` b a | m i n i s t a r s t v a | z a { t i t e | o k o l i { a | p o k r e n u l i | s u | i s t r a g u | u z d a h
+|P|: v a o t j i c a n i j e a s k e | t v r u r p k p k e | k o | s i k o | s p r u | t o r i | e h s | o l i c i j a | i nj s p e i c i j a | s t l u z l | s | s l u ` b o v n i s t a s t v a | o | z a { t i t d a o k o l i { a | p o k r e j e u i | s u | i s t r a k u | s p d s h
+[sample: sm04310105106, WER: 94.4444%, TER: 38.2353%, total WER: 102.772%, total TER: 38.1077%, progress (thread 0): 8.58369%]
+|T|: s | t i m e | d a | s e | t a j | b r o j | p o v e ^ a v a | z a | s t o | d v a d e s e t | r a k e t a | s v a k e | g o d i n e | s i l | u | s u k o b u | k u v a j t s k i h | s n a g a | s i g u r n o s t i | s | r a d i k a l n i m | i s l a m i s t i m a | u z d a h
+|P|: s t i n e d e | s e t a i e | b r o j | p o v e ^ l e o v a | z a | s t o d v a d e s e t r e a k e t a | s l a k e g o d i n | a s | l i | u | k a | p u | k o u o j | c s k i h | s n a j a e s i | g u r n o s t i | i l n r | s e r a i t a l n i m | i s l a m i | s t i m a | u z d a
+[sample: sm04310105118, WER: 95.6522%, TER: 30.4348%, total WER: 102.439%, total TER: 37.7771%, progress (thread 0): 9.01288%]
+|T|: t e h a t e | p r i o p ^ i o | j e | j u ~ e r | r e a g i r a j u ^ i | n a | n a p i s e | u | d n e v n o m | t i s k u | u z d a h | d a | n e | n a m j e r a v a | o t p u s t i t i | t r i | t i s u ^ e | s e d a m s t o | s e d a m d e s e t | p e t | r a d n i k a | u z d a h
+|P|: u t a j e | h a | t ~ e | j e | p i j o ^ e | i u ~ j e a r v | g | a | j a p i r j | ^ n e n a | n a p i s e | d n j v o m | t i s k u | d a h | d a | m | n e | n a | m j e r a v a | v o | p u s t i | n t i | k i r i t i s u ^ a e | s a | n a m v s k t | o | s e a d a m d e s e t p e t p r a d n i k a | u z a h
+[sample: sm04310105205, WER: 109.091%, TER: 38.4615%, total WER: 102.724%, total TER: 37.8063%, progress (thread 0): 9.44206%]
+|T|: p r e m a | nj e g o v i m | r i j e ~ i m a | p a p a | s e | p r i d r u ` i o | m i l i j u n i m a | t a l i j a n a | k o j i | i m a j u | g r i p u | u z d a h | d o d a j u ^ i | d a | i m a | l a g a n u | g r o z n i c u | k o j a | n i j e | r a z l o g | z a | b r i g u | u z d a h
+|P|: p | p r e m a j e v i a m r j e ^ ~ ^ i m a | p a p o a z s e | d r i d r u ` b o m i | l i u n i m a l i j a n a | k o j i m a e | d r i e p u t | u | z a h | d o d a j u ^ i | d a | j i m a | g l a m u g r e o s n i c u k o j | d n i j h r a | z v o g | z a d b r i u | s
+[sample: sm04310105317, WER: 91.3043%, TER: 35.3741%, total WER: 102.235%, total TER: 37.704%, progress (thread 0): 9.87124%]
+|T|: o d | d v a n a e s t o g a | l i p nj a | d o | { e s t o g a | s t u d e n o g a | h r v a t s k a | ^ e | m e } u | o s a m d e s e t a k | z e m a lj a | n a s t u p i t i | n a | p e d e s e t | i | p r v o m | v e n e c i j a n s k o m | b i j e n a l u | u z d a h
+|P|: u o p o d i d | d o v a n e s t o p a l i | i j e | a d o | e s t o g a e s t u d e n o g a | a h r v a t s k a ^ e m | } u | u o s a m d e o | s e t a | z e m a lj a n a | s t u o p i t i | n a p e d e s e t i | p r v o m | v e n e i c i a n s k o m b i j i n a v l r u | s | z d a h
+[sample: sm04310105318, WER: 94.7368%, TER: 27.4074%, total WER: 101.978%, total TER: 37.3208%, progress (thread 0): 10.3004%]
+|T|: n a k o n | { t o | j e | o p ^ i n s k o | d r ` a v n o | o d v j e t n i { t v o | u | s p l i t u | p r i j e | n e k o l i k o | d a n a | p o d n i j e l o | z a h t j e v | d a | s e | p r o v e d e | i s t r a g a | p r o t i v | { e s t | d j e l a t n i k a | d j e ~ j e g | d o m a | m a e s t r a l | u z d a h
+|P|: a n a k o | n { t o e g r o ^ ~ i n s k o u | d r ` o v n l o b j e u lj i | { t u v o v o s k p l i | p t u | p r i n e k r o l i | k o d a n a | p o d i l o | z a t k i e | d a o s e | p r o v e | d e | i s t r e g a | a p o t i | { e z i j e l a t n i k a | d i j e ~ ^ e | d o b a m e s t r a l a | u | z a
+[sample: sm04310105121, WER: 100%, TER: 35.8025%, total WER: 101.897%, total TER: 37.2559%, progress (thread 0): 10.7296%]
+|T|: n e | o p i s u j e | n a s i lj e | n a d | m j e { t a n i m a | d a r f u r s k i h | s e l a | k a o | g e n o c i d | u z d a h | o b j a v i o | j e | t a m o { nj i | m i n i s t a r | v a nj s k i h | p o s l o v a | m u s t a f a | o s m a n | i s m a i l | u z d a h
+|P|: d a n e o | p i s i j | n a z s e i lj i nj e n a | m i j e a { t a n i m a | d a r v u s k i k | s r e o l a | k a | u | b j e n a c i e | u d i h | o b j a v j e t a m o { | m i | s t a r v o n i n s k i | p o s l o v a | u s t a v a | o s | m a | i s m a i e d | u | z u | s
+[sample: sm04310105209, WER: 105%, TER: 37.2263%, total WER: 102%, total TER: 37.2549%, progress (thread 0): 11.1588%]
+|T|: t r e b a t | ^ e | k r a t k o r o ~ n u | p o m o ^ | u | h r a n i | r e k a o | j e | g l a s n o g o v o r n i k | s v j e t s k o g a | p r o g r a m a | z a | h r a n u | u j e d i nj e n i h | n a r o d a | u z d a h | e u r o p s k a | k o m i s i j a | p r i o p ^ i l a | j e | p a k | u z d a h
+|P|: u t r e v o e a o ^ e | t k r a | r p r n | p o m o ^ | u | h r a n i | l t a r e | a o j | l a s n a g | o r n i g | s v k e d s k o g a | p r o g r a m a | z a | h r a n u | u | j e | d n i | n a r o d a | u | u a | h | e | r o | t s k | o | k o m i s j e | p i o d o ^ l a e | p a | u z a
+[sample: sm04310105314, WER: 100%, TER: 33.3333%, total WER: 101.929%, total TER: 37.1078%, progress (thread 0): 11.588%]
+|T|: i n a ~ e | t a l i j a n s k a | t v r t k a | g r a d i | p e t | t i s u ^ a | s e d a m s t o | { e z d e s e t | m e t a r a | d u g i | t u n e l | m a l a | k a p e l a | u z d a h | a | b u d u ^ i | d a | j e | nj e g o v a | i z g r a d nj a | p r i | k r a j u | u z d a h
+|P|: i t i n e | ~ e t r i j n s k a | t v r t k | k a | g r a d i | p i j e | t i s u | t ^ a | s e | d a i s o t o | { ` e z d e s e | n e a t a r e a | d u | j i | t l u n a l | m a | l a | k a p e l a | a h | h | o | b u d u i | d a e j e | nj e g o v o j i z | r a p r i k h r a j e u | d
+[sample: sm04310105109, WER: 108.696%, TER: 34.7518%, total WER: 102.171%, total TER: 37.0291%, progress (thread 0): 12.0172%]
+|T|: s p o r a z u m | s u | r a t i f i c i r a l e | s v e | z e m lj e | ~ l a n i c e | u n i j e | e u r o p s k i | p a r l a m e n t | u z d a h | i | h r v a t s k i | s a b o r | u z d a h | p a | o d | s u t r a | m o ` e | p o ~ e t i | nj e g o v a | p r o v e d b a | s i l
+|P|: s p | s t o r o a z u n | s u r a t i r i c i r a d e | s v r j e | z e m | lj e | ~ a n i | c | o u n i j e | e u r o s k i | p a l a m e n m | t u z a h a h | i | h r v a t k | i | s a b o | z h | a | o | s u t r a o m o | o ` r | p o ~ e t j i nj e | o v a | p r o r k a | d a | u | lj i t l
+[sample: sm04310105204, WER: 118.182%, TER: 32.1429%, total WER: 102.699%, total TER: 36.8723%, progress (thread 0): 12.4464%]
+|T|: v u l k a n | e t n a | n a | s i c i l i j i | r a n o | j e | u j u t r o | u z d a h | p o ~ e o | j e | i z b a c i v a t i | p e p e o | k i l o m e t a r | u | v i s i n u | i z | k r a t e r a | n a | v r h u | v u l k a n s k e | p l a n i n e | u z d a h
+|P|: d u g a k a n | e t | n a | n a | s i c i l | i | r a n a | j | u | t r o u z a h | k o ~ j a o j | z s d a | c i v e t i | p e | t p a | o g | i l o m a | t e r u v i j s i n u i s k r a t e r a n a d r o | u | u t g n a s k j e l a n i n e | u l i l | u a
+[sample: sm04310105210, WER: 95.4545%, TER: 42.4242%, total WER: 102.467%, total TER: 37.0354%, progress (thread 0): 12.8755%]
+|T|: s t o g a | b i | o s o b e | o s j e t lj i v e | n a | v r i j e m e | m o g l e | b i t i | s l a b i j e | r a s p o l o ` e n e | t e | i m a t i | s m e t nj e | u | k o n c e n t r a c i j i | u z d a h | t e g o b e | m o g u | i m a t i | i | k r o n i ~ n i | b o l e s n i c i
+|P|: s t o m d a | b i | o s o b e o | l j e t i u e | n | r e j e m e | m o | l e | b i t i | s l a b i g a s k o p o ` r a | n e t i | m a | t i s n m e t i m | s k o n s e n t r a c i | d | d h | t e g o b p e m | g u l i m a t i | i | k h r o n i ^ ~ k i | b o l e s n i c
+[sample: sm04310105326, WER: 90.9091%, TER: 30.7692%, total WER: 102.11%, total TER: 36.8421%, progress (thread 0): 13.3047%]
+|T|: m a l o | v i { e | o d | { e z d e s e t | p o s t o | u z d a h | r e g i s t r i r a n i h | b i r a ~ a | s i l | o k o | s e d a m s t o | d e v e d e s e t | t i s u ^ a | i n d o n e ` a n a | s t r a d a l i h | u | c u n a m i j u | u z d a h
+|P|: a v m a l o v i { e o | { e z d e s e t | p o s t o | a | r j e g i s t r e a n i d b i r a ~ a { a | o k o | o | s e | d a m s t o d e | v e d e s e t i s u ^ o e g | m | a | n e j e { ` a n a s t r a d a l i k u ^ | u n a m i j u | a h
+[sample: sm04310105313, WER: 88.8889%, TER: 34.127%, total WER: 101.783%, total TER: 36.7703%, progress (thread 0): 13.7339%]
+|T|: a n a | o p a l i ^ | i | b o r i s | c v j e t a n o v i ^ | u z d a h | p r i p r e m u | n a s t u p a | o r g a n i z i r a t | ^ e | u m j e t n i ~ k a | g a l e r i j a | d u b r o v n i k | i | a r t | r a d i o n i c a | l a z a r e t i
+|P|: a n a | o p a l i ^ i | b o r i s t i e | a n o v i ^ | lj u s | h | r i | a j r u | n | a s t d o | p a u r l a n i z i r e ^ e | u m i e k n i ~ k a | g a l e r l i j a | d u b r o v n i g k i | a r l d t r a d i m a n i c a | k l a | z a r e t i
+[sample: sm04310105323, WER: 94.1176%, TER: 30.0813%, total WER: 101.609%, total TER: 36.6018%, progress (thread 0): 14.1631%]
+|T|: v r e m e n s k a | p r o g n o z a | z a | s u t r a | u z d a h | n a | s j e v e r n o m | i | s r e d nj e m | j a d r a n u | d j e l o m i c e | s u n ~ a n o | u | u n u t r a { nj o s t i | u m j e r e n o | d o | z n a t n o | o b l a ~ n o
+|P|: o v r e i m i nj n s k a | p r o g n o z a | z a | s u t u t r a | a | s j e n o | m a | e | s r e d | e m | j a d r a n u | j e l o m i s e | s u m n ~ a n o | u | u o | t r a { a s | i | u m j r e n o | d | z n a | n o b l a ~ n o
+[sample: sm04311202401, WER: 94.4444%, TER: 25%, total WER: 101.44%, total TER: 36.3146%, progress (thread 0): 14.5923%]
+|T|: i z | i r a k a | j e | v i j e s t | d a | j e | p e t n a e s t | b r i t a n s k i h | v o j n i k a | p o g i n u l o | s i n o ^ | u | p a d u | v o j n o g | t r a n s p o r t n o g | z r a k o p l o v a | n e d a l e k o | o d | b a g d a d a | u z d a h
+|P|: i k i z | i r g e a k a | i lj j e s t | d a e | p e t n a e i s | b r i t a e n s k i | i | v u | j | n i k a | p o g i n | l o | s i | n o n ^ | u i | p a d u | u | v u j n u | d r a n s k p o r t n o | z r a k o p l o v a | n e d a n e k o d b a g | g z a d a | u | z a
+[sample: sm04310105113, WER: 110%, TER: 31.2977%, total WER: 101.658%, total TER: 36.1868%, progress (thread 0): 15.0215%]
+|T|: a | p o s l i j e p o d n e | ^ e | s l a b j e t i | i | o k r e t a t i | n a | s j e v e r o z a p a d nj a k | u z d a h | n a j v i { a | d n e v n a | t e m p e r a t u r a | o d | m i n u s | ~ e t i r i | d o | p l u s | j e d a n | u z d a h
+|P|: a z a p o z j e | p o d n e ^ e | s l a b i e t s i | i | i u o g k e t o t i n a | s i e v o z | a p v e lj nj a | l | l u h | h | n a j v e { s a e r d n e | n a t e | b r a t u | r a o d b d l | m i n u s t | ~ e t i r i | t o | p l u s j e d z a | u z d a h
+[sample: sm04310105128, WER: 100%, TER: 37.6%, total WER: 101.619%, total TER: 36.2203%, progress (thread 0): 15.4506%]
+|T|: v r e m e n s k a | p r o g n o z a | z a | j a d r a n | z a | p r v i h | d v a n a e s t | s a t i | u z d a h | b u r a | i | s j e v e r o z a p a d n i | v j e t a r | { e s t | d o | { e s n a e s t | ~ v o r o v a | i | m o r e | d v a | d o | t r i | u z d a h
+|P|: u v r v e n s k a | p r g n o z a | z a | j a d r a n | z a | p r v i h | d v a n a e s t | s a t i | u z d i h | b u g a | i s e v e r | z a p a | d n i j e t a { e t z b d o { e s n a e { | ~ | v o r o v a | m o r e | b v a d o t r i | u z u z h
+[sample: sm04310105216, WER: 69.5652%, TER: 20.7407%, total WER: 100.726%, total TER: 35.8333%, progress (thread 0): 15.8798%]
+|T|: p r i o p ^ i l a | d a | j e | o d g o v o r n a | z a | r u { e nj e | z r a k o p l o v a | u z d a h | i r a ~ k o | i z b o r n o | p o v j e r e n s t v o | p r i o p ^ i l o | j e | u z d a h | d a | p r e b r o j a v a | g l a s o v e | s i l
+|P|: p r i o | ^ n l a d a | o j e j e | e | o b g o v o r g n m a | z a v u { e i nj e z r a k u | t l o v a | u | i r e a ~ k | i z b o r n o | p o v j r e n s t v o | p r i o p ^ u l o j e | z d | h | a | p r | b r i a | a | g l a | s o l v e
+[sample: sm04310105311, WER: 105.556%, TER: 32%, total WER: 100.829%, total TER: 35.7466%, progress (thread 0): 16.309%]
+|T|: i | p l u s | d v a | s t u p nj a | s i l | n a | j a d r a n u | s i l | n a j n i ` a | t e m p e r a t u r a | o d | p e t | d o | d e s e t | a | n a j v i { a | u z d a h | o d | o s a m | d o | t r i n a e s t | s t u p nj e v a
+|P|: v i s p l u s t v a s t u t u | p | nj e | p m s r | n a | j a d r a n u | n a j u m | r a t n o m | d r a u r a o | o | p e t | d o | d e s e t a | n a j v i { a | u | a | h | o n | o s a m | d o d t r e i n a s t a | u k nj a v a
+[sample: sm04311202405, WER: 81.8182%, TER: 36.7521%, total WER: 100.346%, total TER: 35.7675%, progress (thread 0): 16.7382%]
+|T|: u z d a h | p o s l i j e p o d n e | v j e t a r | s l a b i j i | p a p i r | o s j e t n o | h l a d n i j e | n e g o | d a n a s | o s o b i t o | u | u n u t r a { nj o s t i | s | t e m p e r a t u r o m | i z m e } u | m i n u s | t r i | u z d a h
+|P|: a u d a h | v o z l e p o d n e | i | v j e a t a r s l a b i | h | v | k u | o s e t n o | k l a d n i nj e | lj e v o d a s | s k o s o b t i t o | u | u n u t u r a { nj o s t i s t a m t p r a t u r o m | i | m e } u g a o | m i n u | s | t r i | z | a | h
+[sample: sm04311202404, WER: 105.556%, TER: 32.0312%, total WER: 100.452%, total TER: 35.6846%, progress (thread 0): 17.1674%]
+|T|: i z v j e { t a j | p o m o r s k o g a | m e t e o r o l o { k o g a | c e n t r a | s p l i t | d r ` a v n o g a | h i d r o m e t e o r o l o { k o g a | z a v o d a | o d | t r i n a e s t | s a t i | s t a nj e | u z d a h
+|P|: u i z v j e { t a j | p o m o r s k o g a o a | i n e t o l o { k o g a | s e n d e r a s p l i t d | d r ` a o v n o g a | h i d r m e | r o l o { k o g a | z a v o d a | o | t r i n a i s t s a t i | s | s t a nj e | z h a | h
+[sample: sm04310105214, WER: 92.3077%, TER: 22.807%, total WER: 100.334%, total TER: 35.4351%, progress (thread 0): 17.5966%]
+|T|: p r o t i v | t a l i j a n s k e | t v r t k e | k o p | k o n s t r u t o r i | p o l i c i j a | i | i n s p e k c i j s k a | s l u ` b a | m i n i s t a r s t v a | z a { t i t e | o k o l i { a | p o k r e n u l i | s u | i s t r a g u | u z d a h
+|P|: h p u a o t j i t | a l i j a n s k p e | p v r t k j e j | a | k o | s u o k m n | t r u t o r i | p o l i z u c i j e | i e s p e i c i | s k a | s l ` b a m n i s t a r s t a | z a { k o i t e o k o l i { a | p o k r j e m u l i s u i s t r a k a u | l a z | z u a u
+[sample: sm04310105302, WER: 100%, TER: 35.4331%, total WER: 100.329%, total TER: 35.435%, progress (thread 0): 18.0258%]
+|T|: t o n s k a | r e a l i z a c i j a | z l a t k o | v i d i ^ | s p i k e r i | z d e n k a | p o c | i | d u b r a v k o | s i d o r | u z d a h | e m i s i j u | u r e d i l a | s nj e ` a n a | k r i z m a n i ^ | u z d a h
+|P|: p t o n s k r a l i z a c e | z l a t k o v i d i | ^ | l i r k s p i t e r i | i | z d e a m i k a | p o c s i | d u b r | s i d o a | u d h | l | o m i c s i | v r e d i l a | s i ` n a | t r i t k m o n i o ^ e | i
+[sample: sm04310105130, WER: 100%, TER: 42.4779%, total WER: 100.323%, total TER: 35.565%, progress (thread 0): 18.4549%]
+|T|: a u t o r i | ^ e | n a | o v o g o d i { nj o j | p r i r e d b i | i z l a g a t i | u | p a l a ~ i | f o r t u n i | u z d a h | i s t o m e | p r o s t o r u | u | k o j e m | s u | n a s | n a | p r o t e k l o m e | b i j e n a l u | p r e d s t a v lj a l i | u z d a h
+|P|: h a | u t r v u ^ e | n o | o v o d b i { n i | r i lj e d b i | d l a g r e a t i u | u | p a l a | ~ i | f v o r | p u n i | z | i | i s t o m a | r o t r u | k o i m | s u n s | s | z | n a | p r o v t e r k n o m e | i j i n a l | p r e s t a | e l i | u
+[sample: sm04310105322, WER: 109.524%, TER: 39.1304%, total WER: 100.526%, total TER: 35.6436%, progress (thread 0): 18.8841%]
+|T|: n a k o n | j u ~ e r a { nj e g | o b j a { nj e nj a | n a | s a s t a n k u | b i v { e | i | s a d a { nj e | v l a d e | o | n o v c u | { t o | g a | j e | h r v a t s k i m | a u t o c e s t a m a | o d o b r i l a | b i v { a | v l a d a
+|P|: i nj s a k i j u ~ e j e a | ~ nj e k o g i r o | { nj i j e i nj j a | n a | s a r s { v a p t o u | b i | { e i | s a d a | { nj j e v r l a d a o r | u o | s u s t o g a | j | e j e | h r v a t s k i m | p a | o u t o s c j e s t a | m a o | u ` o u r i l a | i v { a o | v l a d a
+[sample: sm04300104316, WER: 94.7368%, TER: 47.1074%, total WER: 100.413%, total TER: 35.8609%, progress (thread 0): 19.3133%]
+|T|: a n t i c i k l o n a | s a | z a p a d n e | e u r o p e | p r u ` a | g r e b e n | p r e m a | j a d r a n u | s a | s j e v e r a | s e | p r i m i ~ e | o s l a b lj e n a | h l a d n a | f r o n t a | u z d a h
+|P|: a n t i k o p o n a | s a | z a p a d n | e u r o p e | p r u ` l a v g r e b e n | p r e m a | j a d r a n u | s z a r l | s | s j e | e r a o s e | p r i m i ~ r e | o s l a m b lj a e n a | h l a | n a o f r o m e u t a | l | h
+[sample: sm04310105215, WER: 87.5%, TER: 24.0741%, total WER: 100.203%, total TER: 35.6648%, progress (thread 0): 19.7425%]
+|T|: u p r a v o | d a n a s | v e ^ i n a | nj i h o v i h | d j e l a t n i k a | t r e b a l a | b i | d o b i t i | r a s k i d | r a d n o g a | u g o v o r a | u z d a h | a | u | p o d u z e ^ u | j e | p r o g l a { e n | s t e ~ a j | u z d a h
+|P|: u p r e g o d a m a | s v e ^ } i n a nj i | h o j v i h | t j e l a t n i n k a t r e b a l a o p i | d o v b i | t | i | r a s k i | d r a n o g a | u | u g o r | d | h | o | p o d u | z u i j e ^ | k i | p r o g l a | e a n s t e ~ e | z | h | d z d h
+[sample: sm04310105110, WER: 115.789%, TER: 38.7097%, total WER: 100.498%, total TER: 35.7218%, progress (thread 0): 20.1717%]
+|T|: z b o g | s u m nj e | d a | j e | u | n e p o s r e d n o j | b l i z i n i | t u n e l a | m a l a | k a p e l a | i s p u s t i l a | o k o | d e s e t | t i s u ^ a | l i t a r a | k e m i k a l i j a | u z d a h
+|P|: u z r a ~ h z a d h | z v u o s u | o u n nj ^ i e | d a | j e | u i n e | p o | l i e d m e b p l i z i k d u o n e l a m a | l a r | a r t e l a | i s p u s t i l a | a o | k o u | d e s e t | t i | s u ^ a l i t a r a k e l i g k a l i j a | u z a h
+[sample: sm04310105301, WER: 88.2353%, TER: 45.3704%, total WER: 100.294%, total TER: 35.8768%, progress (thread 0): 20.6009%]
+|T|: i | s v e | o n e | k o j i | p o k u { a v a j u | o l a k { a t i | p a t nj e | s t r a d a l o g | s t a n o v n i { t v a | j u g o i s t o ~ n e | a z i j e | u z d a h | p a p a | j e | p o z v a o | n a | h i t n u | m e } u n a r o d n u | p o m o ^
+|P|: u s p l i s | s r e a o n j | k o e | p o k u { a v j u | p l a k { a o t i | p a nj j e s t a r a z e l o s a m | m i { t a j u | i s t r ` n e a z i j e | d a | p a | p o j | p o z v o n a h j i | n u m e } u | n a l o d o | i b o m o m s ^
+[sample: sm04311204410, WER: 100%, TER: 41.8605%, total WER: 100.288%, total TER: 35.9895%, progress (thread 0): 21.03%]
+|T|: nj e m a ~ k i | k a n c e l a r | { r e d e r | u z d a h | p r e d l o ` i t | ^ e | ~ l a n i c a m a | e u r o p s k e | u n i j e | d u g o r o ~ n u | s t r a t e g i j u | p o m o ^ i | u | o b n o v i | r a z o r e n i h | p o d r u ~ j a
+|P|: nj j e m a { k i k a | z e a r a v k s { | { e r u e d e r | d | p r e d l o ^ i | ^ e | ~ a l a l n i c a | m a | e u r o p s k a m | u n i j e | e d u r | ~ n o s t e r a t d r i | i j | p o m o ^ e | o b m o v j i | p r a z v r e d n i j | p o d l u ~ i a
+[sample: sm04311204407, WER: 93.75%, TER: 38.2114%, total WER: 100.189%, total TER: 36.0287%, progress (thread 0): 21.4592%]
+|T|: k a k o | d o z n a j e m o | n i j e | p o z n a t o | j e l i | o t p a d | t e h n o l o { k i | i l i | o p a s a n | u z d a h | n o | s i g u r n o | j e | r i j e ~ | o | n e z a k o n i t o m | o d l a g a nj u | u z d a h
+|P|: k a o d o z n a j e n m o | n i j e | p o z n a t j e l i | o p a t e | m n o u l o { k p i | j i | o p v a s a | u | a s h | o s l | j u | r n e | r i e ~ k o | m o | z a k o n i t u m | o | l a v e nj u | i p
+[sample: sm04310105107, WER: 100%, TER: 36.5217%, total WER: 100.186%, total TER: 36.0367%, progress (thread 0): 21.8884%]
+|T|: r a v n a t e lj i c a | d o m a | t a t j a n a | v u k m a n | u z d a h | i z j a v i l a | j e | d a | j e | t o | s a z n a l a | i z | t i s k a | t e | n e | z n a | n a | k o g a | s e | z a h t j e v | o d n o s i | u z d a h
+|P|: r a m n t g e lj i | s a d | d o m a | k r a t i e m a o m u v u k m e n | u z a | i z j a i a l a | j | e | d a e t o s a z a l a i s t i s k a | i | i e | n e | e z | n a | n a | k o g a e | s e | z a l k lj i v o d n s i
+[sample: sm04310105122, WER: 90.9091%, TER: 39.3162%, total WER: 100%, total TER: 36.0899%, progress (thread 0): 22.3176%]
+|T|: v l a s t i | u | h o n g | k o n g u | z a t v o r i l e | s u | p r i s t u p | p r i r o d n o m | r e z e r v a t u | u | k o j e m u | s v a k e | g o d i n e | p r e z i m i | o k o | p e d e s e t | t i s u ^ a | p t i c a
+|P|: k g j m l a e s t i u | u o a | k o e a | u | z a | t v o d e l e | s u p r i s t i u | p r i r j e d n o b m r d z e | r a v a t a | u | p | e m | s k o a p e p o d e m n e j e | k r e z i m i e | o k o | p e d e s e t | i s u ^ a | t i c | c s a
+[sample: sm04300104235, WER: 88.8889%, TER: 40%, total WER: 99.8205%, total TER: 36.1513%, progress (thread 0): 22.7468%]
+|T|: o s t a c i | z r a k o p l o v a | r a z a s u t i | s u | { i r | n a | { i r e m | p o d r u ~ j u | i | s t r u ~ nj a c i | s m a t r a j u | u z d a h | k a k o | j e | m o g u ^ e | d a | s u | g a | p o g o d i l i | p o b u nj e n i c i
+|P|: { u o s t a c i z a k g o p l o v a r a e z a | s u p i j | s u | u { i v | a | { i j e a m | p o d r u t ~ { e u | i s t u ~ ^ n e | i z | s m a t e r i u z a i h | h | k a k o j i | m o u | ^ i e | d o | s | d e a | p o g o l d i l | p o m nj i e n i c u
+[sample: sm04310105114, WER: 95%, TER: 39.3443%, total WER: 99.7354%, total TER: 36.2037%, progress (thread 0): 23.176%]
+|T|: p o s l a t | ^ e | p o ~ e t k o m | s l i j e d e ^ e | g o d i n e | m e } u n a r o d n o m | s u d u | z a | r a t n e | z l o ~ i n e | u | h a g u | k a z n e n u | p r i j a v u | p r o t i v | p r e d s j e d n i k a | s r b i j e | b o r i s a | t a d i ^ a
+|P|: p o s o ^ s | e | p o ~ e t k o m | s e j e ^ e | g o d i n a m e } e n a r o d n o n m | s u | d u z a | n | z | o ~ i n e o | u | h a g u | k a t n a n u | r i j e v u p u v o d i | p r e d s e d n i k a | s r b i | o i s a t a d i ^ a
+[sample: sm04311204419, WER: 84.2105%, TER: 26.1194%, total WER: 99.4796%, total TER: 36.0253%, progress (thread 0): 23.6052%]
+|T|: t r i | t i s u ^ e | t r i s t o | m e t a r a | i z l a z i | i z | k r a t e r a | n a | j u g o i s t o k u | i | r a s i p a | p e p e o | n a | s nj e ` n i | p o k r i v a ~ | k o j i m | j e | p r e k r i v e n a | e t n a | s i l
+|P|: p t r i t i s u ^ e | t r i s t o m e t a r a | i z a z i | j i s k | r a t e r a n | g o j i s t o | k u | r a s j t p l a | p e | t o n a | s i j e ` n i p o | k a l i v a ~ s k o i m i | p r e p r i v e n a | o e t u k n a | s | l
+[sample: sm04310105212, WER: 100%, TER: 31.9328%, total WER: 99.4885%, total TER: 35.9621%, progress (thread 0): 24.0343%]
+|T|: n a j b o lj e | o p o v r g a v a | t v r d nj u | k a k o | t e h a t e | u z d a h | n a m j e r a v a | i z i ^ i | i z | f i k s n e | t e l e f o n i j e | i s t i ~ e | s e | u | p r i o p ^ e nj u | u z d a h
+|P|: p | n a j b o lj | o p o u v r g a v a t v o r e d nj j | u | k a k o | p t e l k a | t r e | d | h | n a | i j r a v a | i z i ^ i | s v i | s n a e | t a l r v o a n i j e | i s t i ~ e s e u p r i u o ^ e nj m u | h z | h
+[sample: sm04310105207, WER: 106.25%, TER: 36.4486%, total WER: 99.5795%, total TER: 35.9687%, progress (thread 0): 24.4635%]
+|T|: p r v o g | d a n a | v e l i k o g o d i { nj e g | h o d o ~ a { ^ a | m u s l i m a n a | p r e m a | m i n i | d o l i n i | n e d a l e k o | o d | m e k e | u | s a u d i j s k o j | a r a b i j i
+|P|: p r e v o u g u d a n r | e r v | k o | o d | { ^ e k | v o e o d o e ~ a { | { ^ e n o s t e | m a n a | t | p a r e g m a d m | n i e i n i | g | i | d o | v i j e n i n nj j e d a l e | k o d | e k | a | u | a d i r s k | a r a | b i
+[sample: sm04300104225, WER: 150%, TER: 58.4158%, total WER: 100.166%, total TER: 36.2555%, progress (thread 0): 24.8927%]
+|T|: i | k r o z | t u n e l | u ~ k u | u z d a h | c e s t a r i n a | j e | z a | o s o b n a | v o z i l a | s k u p lj a | j e d n u | k u n u | i z n o s i | d v a d e s e t | o s a m | k u n a | u z d a h
+|P|: i k o r o u s t u n e | u | u r k u | z d | h | e s o a r i n a e | z a | o s u | n a | v o z o i v a s k u p j lj e | h | j e a d n u | k u | n u i z n o s i | d v a d a e s e | o s a m a p k u p u n a | h z | h
+[sample: sm04311204439, WER: 100%, TER: 33.0097%, total WER: 100.164%, total TER: 36.2138%, progress (thread 0): 25.3219%]
+|T|: a | p r e d s t a v lj e n | j e | j a v n o s t i | k a o | p r a v n i | t e m e lj | i | s a d r ` a j n i | o k v i r | o d n o s a | r e p u b l i k e | h r v a t s k e | i | e u r o p s k e | u n i j e | u z d a h
+|P|: u a p r e d s a v lj e j nj e | j a v n o | s t i k a | o | p r a d n | i | d e m e | i | i | s a d ` a e n i | o k i r o d n o s t | j e b u b u i g k | h r v a t s k i | i | e u r o s k j | u n u n nj i j e | h | d
+[sample: sm04310105203, WER: 94.1176%, TER: 31.1927%, total WER: 100.081%, total TER: 36.1464%, progress (thread 0): 25.7511%]
+|T|: t r i n a e s t | j e | s a t i | i | d e s e t | i | p o l | m i n u t a | u d a r a c | h r v a t s k i | r a d i o | p r v i | p r o g r a m | s i l | z a v r { e n e | s u | v i j e s t i
+|P|: s v s i l | t r i n t i | s a t i d e s e t i | p o b m i n u n t r a m | i l z | a | h r o a o a s k i g r a d i o | p r v i t p r o g r a m n | i | z a v o { e n e | s u | b i j i j e s t i
+[sample: sm04310105131, WER: 94.1176%, TER: 38.5417%, total WER: 100%, total TER: 36.1744%, progress (thread 0): 26.1803%]
+|T|: s u m nj a | d a | j e | i s p u { t e n | o p a s a n | s i l i k a t | u z d a h | k o j i | s e | k o r i s t i | z a | b r ` e | u ~ v r { ^ i v a nj e | i | m i j e { a nj e | b e t o n a | u z d a h
+|P|: k s | s u o u m nj j a n r | b a | j e | e | i s t u ` t a n o p a o z s a m s c i j d i k a t | z u | d g h | k | j i z e | k o r i s t i z a | b r ` e v u | u { ^ i v m a nj e h | i j | m i j e { e a nj e v e t o n a | s u i a
+[sample: sm04310105304, WER: 100%, TER: 42.5743%, total WER: 100%, total TER: 36.2521%, progress (thread 0): 26.6094%]
+|T|: i | k a ` nj a v a t i | u z d a h | s e | o d u z i m a nj e m | d o z v o l e | n a | n a j m a nj e | t r i | m j e s e c a | u z | z a t v o r s k u | i l i | n o v ~ a n u | k a z n u
+|P|: i v e a ` i nj t a t i s e | t | h a | o | d u z i m a m nj i m | d | o z v o l e | n a n a e j e m e m | i | t r i m | i j e s e t c a | d a h u z | z a p i o s k u | i l i n a o r ~ s n u g k a s z m n u
+[sample: sm04311204436, WER: 100%, TER: 43.0108%, total WER: 100%, total TER: 36.3269%, progress (thread 0): 27.0386%]
+|T|: n a j v i { e | o b l a k a | o ~ e k u j e | s e | u | u n u t r a { nj o s t i | p r e m a | k r a j u | d a n a | k a d | p o n e g d j e | m o ` e | p a s t i | m a l o | s n i j e g a | u z d a h
+|P|: u z | n a v i { o | o b l a k a o u ~ { e a k o j i e s e | g | u n u t r l o { nj o n s t i p r o m a | p r a j g | d a n a | u z a h | k a | p o n a e g d j e | m o ` i | p o a s t i | m a l o | s n m i nj i k a | l a d z l z a h
+[sample: sm04310105126, WER: 93.75%, TER: 38%, total WER: 99.9233%, total TER: 36.3465%, progress (thread 0): 27.4678%]
+|T|: s u m nj a | s e | d a | j e | i s p u { t e n | o p a s a n | s i l i k a t | u z d a h | k o j i | s e | k o r i s t i | z a | b r ` e | u ~ v r { ^ i v a nj e | i | m i j e { a nj e | b e t o n a | u z d a h
+|P|: s k | s u m n e j s e d a | i s | u { t e n | m | o p l a | s a | s i j i v i k a t u s | a | k o | l | k o r i e s t i z a | d b r ` j u ~ s e { ~ i j u v a nj i e i | m i j i { a nj i p e | t o n a | d a d a h
+[sample: sm04310105108, WER: 100%, TER: 44.2308%, total WER: 99.9243%, total TER: 36.4418%, progress (thread 0): 27.897%]
+|T|: p r i | i z g r a d nj i | t u n e l a | n a | v r i j e m e | p a | i m | s e | o s p o r a v a | p o s e b a n | b o n u s | o d | ~ e t r d e s e t | p e t | m i l i j u n a | k u n a | u z d a h
+|P|: i p r i z g r a d n i t u | n e l a n | v r i j e m e | s | s i l p | a | j | s e | s p o r a v a | p o z a b a m | b o m n u | s l a | d t | ~ a | t r d e | s e | p e t | m i g i j u n a | k | o u n a v
+[sample: sm04310105308, WER: 105.882%, TER: 38.3838%, total WER: 100%, total TER: 36.4638%, progress (thread 0): 28.3262%]
+|T|: v j e t a r | v e ^ i n o m | s l a b | n a | j a d r a n u | ^ e | u | p o ~ e t k u | p u h a t i | j o { | u m j e r e n a | d o | j a k a | u | d a l m a c i j i | m j e s t i m i c e | i | o l u j n a | b u r a | u z d a h
+|P|: i v j e t a r v e ^ i n o m | s l a b d m | n | j a | d r n u | ^ i u | p o ~ e t o j e { | p u k o a t i | m i e r e n a | d o | j a k a | u | d a l m a c i | m i nj e s t i m i c i | i | o l u n a | b u r a | u z d a h
+[sample: sm04310105127, WER: 75%, TER: 23.6842%, total WER: 99.6318%, total TER: 36.2987%, progress (thread 0): 28.7554%]
+|T|: u | r e g i s t r u | s e | m o g u | n a ^ i | s v i | p o d a c i | o | t v r t k a m a | i | d j e l a t n o s t i m a | k a o | i | k o n t a k t | o s o b e | a d r e s e | i | f i n a n c i j s k i | p o d a c i
+|P|: u o r e r i k c s t u | s a m o g u n a | i s u i | i l o d a c i j e | t o r t | t k a m a | i | d i j a l a t | n o s t i e m e a k a o | i | k o a t a | t o s o | b r e a | a t r e s e | i n a c s c s k i | p o d a c
+[sample: sm04300104329, WER: 89.4737%, TER: 34.8624%, total WER: 99.4916%, total TER: 36.2812%, progress (thread 0): 29.1845%]
+|T|: n i t i | o | k o j i m | d j e l i m a | j e | r i j e ~ | u z d a h | n e | m o ` e | r e ^ i | j e l i | n e k i | o d g a j a t e lj | p r i m j e nj i v a o | n e p e d a g o { k e | m e t o d e | u z d a h
+|P|: lj i e | t i j | o | k o i n | d i j e l i | a | e r i ~ | s | s | d h | n e | m u ` e r e ^ i | j | l i n e | e o d g e | e t a t i | a b | i m j i n i v a o | n e | g e d r a g o { k e m e t o d e a | u | a
+[sample: sm04310105123, WER: 117.647%, TER: 40%, total WER: 99.7131%, total TER: 36.3244%, progress (thread 0): 29.6137%]
+|T|: k a k o | n e s l u ` b e n o | d o z n a j e m o | h r v a t s k e | a u t o c e s t e | u z d a h | v e ^ | s e | n e k o l i k o | m j e s e c i | s p o r e | s | t v r t k o m | k o p | k o s t r u t o r i | u z d a h
+|P|: k r a k | n e | s u ` l v a n o d l o z n a e m u o | h r v a t s k | a | u o t o | z e s t e | u z | h | v | z | s e | n | k o l i k o m i s e j e c i | s | p o r e s | t v e p r p k o n m | k o | s k o s r u | t o r i | z
+[sample: sm04310105111, WER: 125%, TER: 35.1351%, total WER: 100%, total TER: 36.31%, progress (thread 0): 30.0429%]
+|T|: r e k a o | j e | b r i t a n s k i | m i n i s t a r | o b r a n e | # e f h u n | u z d a h | d o k | j e | i s t o d o b n o | i s l a m i s t i ~ k a | s k u p i n a | a n s a r a l i s l a m | u z d a h
+|P|: p t r e h a o j | g r i d a n s k i | m i n i s v a r o b r a n e | } e u v f k u e n | z | a | t o | i | t o d o b n o j s a m i s t i ~ u k a s k o u p r i n a p a n s a r a l i | i s | s a n a m u | h
+[sample: sm04310105310, WER: 100%, TER: 39.4231%, total WER: 100%, total TER: 36.345%, progress (thread 0): 30.4721%]
+|T|: p r e d s j e d n i k | h r v a t s k o g a | s a b o r a | v l a d i m i r | { e k s | p o s l a o | j e | p r e d s j e d n i k u | m e { i h a t e | i s l a m s k e | z a j e d n i c e | u | h r v a t s k o j | m u f t i
+|P|: p r e d s j e d n i k r v a t s k o g a | s a | a b o r a | v a b i m j r | { e s p o s l o v j e | r e d s j e t n i k u | m e { nj i | a t a j i s a n s k e | z a j e n i c e | r v a t s k o | i | m u z t i
+[sample: sm04300104360, WER: 100%, TER: 23.2143%, total WER: 100%, total TER: 36.1879%, progress (thread 0): 30.9013%]
+|T|: u z d a h | v o ` nj a | p o d | u t j e c a j e m | d r o g e | o d | s a d | ^ e | s e | s m a t r a t i | t e { k o m | p o v r e d o m | { v i c a r s k o g a | z a k o n a | o | c e s t o v n o m | p r o m e t u
+|P|: u z d z a h | b o ` nj i e | p o d u t i c e a e n | r o g j e | o c e ^ e s e | l m a r a t i | t e { u o | m | p o v r j e d o m | { i t a r s k o g a | z a k o a n a | o c r e s t a o n o | p r o m e t u
+[sample: sm04311204435, WER: 94.1176%, TER: 29.6296%, total WER: 99.9313%, total TER: 36.1132%, progress (thread 0): 31.3305%]
+|T|: p o l i c i j a | i | i n s p e k c i j a | i s t r a ` u j u | j e l i | t a l i j a n s k a | t v r t k a | o n e ~ i s t i l a | o k o l i { | k o d | k a p e l e | u z d a h
+|P|: p o l i c i j a e | n s p e k s c j | i s | r a ` a v j u | j | l i | t a l i j a n s k t a o t v r z t k a | p o | n e ~ i s t i l a o k o l i { | k o k t | t a t a e o a e
+[sample: sm04310105103, WER: 100%, TER: 30.3371%, total WER: 99.9318%, total TER: 36.0594%, progress (thread 0): 31.7597%]
+|T|: e u r o p s k i | p o v j e r e n i k | z a | p r o { i r e nj e | i z n i j e t | ^ e | u | b r i s e l u | s m j e r n i c e | z a | p r i s t u p n e | p r e g o v o r e | s | h r v a t s k o m | u z d a h
+|P|: p k p e r o p | s k i | p o v j e n i k | z a | p r o { i r e nj e | i | n i e ~ ^ | u o b a r i | s e l u | s m j e n i c e | z a p a i s t u | n e p | p r e g o v r | h r v a t s k o m
+[sample: sm04310105102, WER: 86.6667%, TER: 28.8462%, total WER: 99.7976%, total TER: 35.9818%, progress (thread 0): 32.1888%]
+|T|: ~ i l e a n s k o g | p r e d s j e d n i k a | b u l i ~ i ^ | j e | o b a v i j e s t i o | o | n a m j e r i | d a | s e | s p o m e n i k | m a r k u | m a r u l i ^ u | p o s t a v i | n a | h r v a t s k o m e | t r g u
+|P|: ~ e r a n s k o g | p r e d s j e d n i k a | b u l u ^ i ^ | u | b p o v i j e s t i | n a n i r i | t a e | s | e | s p o m e n i k | m a | k | m a r o l i ~ ^ u | p o s t a v i | n a | h r v a s k m e t r e v k u
+[sample: sm04300104314, WER: 81.25%, TER: 25.6637%, total WER: 99.5995%, total TER: 35.8626%, progress (thread 0): 32.618%]
+|T|: n a | a u t o c e s t i | z a g r e b | m a c e lj | t a k o | ^ e | p r i m j e r i c e | o s o b n i | a u t o m o b i l i | p l a ^ a t i | j e d a n a e s t | s i l | k u n a | u m j e s t o | d o s a d a { nj i h | d e s e t
+|P|: n a | u t o | c z e i t i | z a g r e p m a c e v i | a k g o ^ e | v r i m v e r i c r e | o s a m n a u t d o m b i r i | p l a ^ e t i | j e d a n a e s t | i u n a | m e s t o d o z a d a ` { nj i j i | d e s e
+[sample: sm04311204438, WER: 87.5%, TER: 29.8246%, total WER: 99.4716%, total TER: 35.793%, progress (thread 0): 33.0472%]
+|T|: i | g e n o c i d a | u | t i m | z e m lj a m a | u z d a h | z a | s k r i v a nj e | o p t u ` e n i h | z a | r a t n e | z l o ~ i n e | i | d o k a z e | o | z l o ~ i n i m a
+|P|: i | j e n a c s j e | d a o u t i m | z e m lj e m a | z d a h | t | s k t r i j i d a nj j | o d p u ` e n i | z a r a t n e | l o ~ i | n e | i | d o t a z a | u | s l o ~ i n i m a
+[sample: sm04311204427, WER: 87.5%, TER: 30%, total WER: 99.3464%, total TER: 35.7408%, progress (thread 0): 33.4764%]
+|T|: j o { | n i j e | p o t v r } e n o | j e l i | t o | t o k s i ~ a n | o t p a d | u z d a h | n o | s i g u r n o | j e | r i j e ~ | o | n e z a k o n i t o m | o d l a g a nj u | u z d a h
+|P|: j nj a o ` n i j e p o t r u ` } e n o | o | j e r e i t o | t p o | s i ~ a n o t p a t | l z d a h | m o s l i g u r n e | l | i j e | ~ | o n e | z a k o n e t a m o | d l a g a nj u | u l | u z u a
+[sample: sm04310105303, WER: 100%, TER: 38.5417%, total WER: 99.3532%, total TER: 35.7674%, progress (thread 0): 33.9056%]
+|T|: nj e g o v a | p r e t h o d n i k a | g o r a n a | s v i l a n o v i ^ a | u z d a h | b i v { e g | m i n i s t r a | u n u t a r nj i h | p o s l o v a | d u { a n a | m i h a j l o v i ^ a
+|P|: v s d v | nj j e g o n p r e t h o | n i k a v g o r a n a | s i v a l n o s v i ^ a | z d a h j | m i { lj e | t | m i n i c t r a | u o t a d nj i t h | p o s l o v a g | d u { k o n a m i j h a j e l o v i ^ a
+[sample: sm04311204421, WER: 100%, TER: 34.375%, total WER: 99.3577%, total TER: 35.7543%, progress (thread 0): 34.3348%]
+|T|: s u t r a | p o ~ i nj e | p r o v e d b a | s p o r a z u m a | o | s t a b i l i z a c i j i | i | p r i d r u ` i v a nj u | h r v a t s k e | e u r o p s k o j | u n i j i | u z d a h
+|P|: u o d a | s u l | t d z b o { i nj e | p r o g j e | d v a | s p o v e a | z u m a o | o s t o a b i r l i z a c i | p r i o e u ` i | v a nj l e | h r v a t s k e | e | o r o t s k t | u | u n i | s u | u | o | h
+[sample: sm04310105201, WER: 150%, TER: 47.3118%, total WER: 99.7451%, total TER: 35.859%, progress (thread 0): 34.7639%]
+|T|: { e t a o | j e | p s a | u v j e ` b a n o g | z a | r a z m i n i r a v a nj e | i | t a d a | s e | a k t i v i r a l a | z a | s a d | n e p o z n a t a | e k s p l o z i v n a | n a p r a v a
+|P|: { a { e t a o | j e | t c s a | u | i e ` v o e n o g | z a | r a z s m i n i j | r a v a nj e | i p a d a e s e a t i r i r a l d a z a z a t a e p o s n a t a t | k e s o z i n a n a p r a r a
+[sample: sm04300104337, WER: 86.6667%, TER: 34.6939%, total WER: 99.6212%, total TER: 35.848%, progress (thread 0): 35.1931%]
+|T|: ~ i j e | s u | m e t e | b i l e | d v i j e | s i n a g o g e | j e d n a | b a n k a | t e | z g r a d a | b r i t a n s k o g a | k o n z u l a t a | u | i s t a m b u l u
+|P|: o ~ i j h s u | m e t e | b i l e | d | r i j e | s i n | g o g l e | i m j e | d n a | b p a n | k e a t e | z g r a d a | p r i t a n s k o g a k o n z u v l a t a | u | i j s t a n | p u l u o
+[sample: sm04300104359, WER: 100%, TER: 25%, total WER: 99.6245%, total TER: 35.7566%, progress (thread 0): 35.6223%]
+|T|: o d | s u t r a | v e ^ e | c e s t a r i n e | n a | a u t o c e s t i | z a g r e b | m a c e lj | u z d a h | i | k r o z | t u n e l | u ~ k u
+|P|: o e o t s u t r a k u v e ^ e | e | s t a r i | n a n e | n a u t o | c s e s t i | z a g r e d | g m a c e d i | u | d a | i k | r u z s t u m | n e l u | u k s k u
+[sample: sm04311204437, WER: 107.692%, TER: 39.726%, total WER: 99.6896%, total TER: 35.7842%, progress (thread 0): 36.0515%]
+|T|: n a p e t o s t i | i z m e } u | k i n e | i | t a j v a n a | n e | p r e s t a j u | t a j v a n s k i | p r e d s j e d n i k | ~ e n { u i b i j a n | u z d a h
+|P|: p n a v e t o { k t i z m o i e } u k i n e | i | t a r j e v a | n a | n e | p r e s t a j i | l | a r e v a n s k i | p r e d s j e d n i k | ~ e | e n | n { | { u i | b i j a n | z
+[sample: sm04310105115, WER: 127.273%, TER: 33.7349%, total WER: 99.8767%, total TER: 35.7681%, progress (thread 0): 36.4807%]
+|T|: p o v o lj n e | v r e m e n s k e | p r i l i k e | k o j e | ^ e | d o b r o | d j e l o v a t i | n a | r a s p o l o ` e nj e | m o g u | s e | i s k o r i s t i t i | z a | { e t nj e | i | i z l e t e
+|P|: o n e v r e m e n s k i | p t i | k e | k o j ^ e | d o v r o d i o l a t j i | n a | a s p o v l r ` e nj | e | m o | u s e | s k o d j e s t i | z a | { e t k t nj i | i z l e t
+[sample: sm04300104364, WER: 93.75%, TER: 33.3333%, total WER: 99.8168%, total TER: 35.745%, progress (thread 0): 36.9099%]
+|T|: s v u d a | s e | p o z i v a | n a | p o m o ^ | s t r a d a l i m a | u z d a h | a u s t r a l c i | k a n e | p r i k u p i t i | o k o | ~ e t i r i | m i l i j u n a | d o l a r a | u z d a h
+|P|: a s u | d a | s e | t o s z r i | v a n a | p o n m o r | s t r a d a l i m a | i s l | u e | s t r a s i k a n e | p r i k o p i t i u o k o | ~ e t i lj i m i u n a b d o l a
+[sample: sm04311204401, WER: 93.3333%, TER: 37.3737%, total WER: 99.758%, total TER: 35.7599%, progress (thread 0): 37.3391%]
+|T|: n a k o n | { e s t | d a n a | z a | s a v | p r o m e t | o t v o r e n a | c e s t a | g o s p i ^ | k a r l o b a g | v r i j e m e | p o s l i j e p o d n e | u z d a h
+|P|: n a e k a | { e z d a n a z a | s a | p r o m e t o | p v r e n e a c e s t a | g o s t o i ^ | k a | v r o b a k | i | r i e m e | p o s l j e b p o d n e | u | h
+[sample: sm04310105104, WER: 100%, TER: 32.1839%, total WER: 99.7599%, total TER: 35.7313%, progress (thread 0): 37.7682%]
+|T|: p r e m i j e r a | v o j i s l a v a | k o { t u n i c e | u z d a h | m i n i s t r a | v a nj s k i h | p o s l o v a | s r b i j e | i | c r n e | g o r e | v u k a | d r a { k o v i ^ a
+|P|: p r e m i j e r a | v o j | s t a b v o k o { t u n i c e | z d h | a | m i n i t r a v a nj s t i | p o s l | v | o s o | l i c r a n a | g o r j v u k | a d r a { a k o j v i ^ a | l
+[sample: sm04311204420, WER: 92.3077%, TER: 34.7368%, total WER: 99.7022%, total TER: 35.7227%, progress (thread 0): 38.1974%]
+|T|: o s i m | nj i h | s a u d i j s k e | v l a s t i | r a s p o r e d i l e | s u | v i { e | o d | d e v e t | t i s u ^ a | t r i s t o | p r i p a d n i k a | c i v i l n e | z a { t i t e
+|P|: o z l i m | u e i k | s a v d e s k e | l a s t e r e | s k o r e | s u | b i { e | d n o t d | d e d e t | i | i s u ^ e a e | t r i | s t o t p r i d a e | n i k t a t c i v i e n e | z a { t i t a e
+[sample: sm04300104230, WER: 100%, TER: 37.8947%, total WER: 99.7047%, total TER: 35.7413%, progress (thread 0): 38.6266%]
+|T|: u | n e k i m | t a l i j a n s k i m | g r a d o v i m a | n e ^ e | b i t i | o r g a n i z i r a n i h | d o ~ e k a | s i l | t a k o } e r | s e | p o z i v a | n a | d a r i v a nj e
+|P|: u o u n e i | t a l i s a s k i h n | g r a d o v i m a | n | n e k ^ e | b i t i o r | j a n i z i lj a n i | i | d o ~ e k r a | i l | a | k o j i e r s e | p o z i v a n a d a r | i v a nj i
+[sample: sm04311204402, WER: 100%, TER: 29.7872%, total WER: 99.7071%, total TER: 35.6913%, progress (thread 0): 39.0558%]
+|T|: o s u d i o | j e | k i n u | z a t o | { t o | i | d a lj e | r a s p o r e } u j e | r a k e t e | i | u s m j e r a v a | i h | p r e m a | t a j v a n u | u z d a h
+|P|: u o s u lj i j | i n u | z a t o { t o i | d a e lj e j e a d a | s p o r a e } u | r a k | k j e t i | i u | s m i j e r e a v a n i h | p r m a | t a lj i v a n | h z d h
+[sample: sm04310105116, WER: 100%, TER: 38.0952%, total WER: 99.7096%, total TER: 35.7092%, progress (thread 0): 39.485%]
+|T|: n o | u p o z o r a v a j u | k a k o | n e m a | p u n o | p r o s t o r a | z a | n o v e | t r o { k o v e | i | s m a nj e nj e | p r o r a ~ u n s k o g | d e f i c i t a
+|P|: j | n a | o | p o z j r a v e u | k a | k o | n e m a | p u n o | p r l o s t o r a s z a | n o v e | t r o { k o v e | j i s m a d nj e g nj e t p r a | ~ u o n s k o | d e h i c i | t a p
+[sample: sm04300104325, WER: 92.3077%, TER: 27.5862%, total WER: 99.6542%, total TER: 35.647%, progress (thread 0): 39.9142%]
+|T|: t e | z a | n e i z r u ~ i v a nj e | p o s m r t n i h | o s t a t a k a | a l b a n a c a | i z | m a s o v n i h | g r o b n i c a | u | s r b i j i
+|P|: t e z a | n e | z s u | i v a nj e | o s v s o s t i h o s t a t a k a | a l | b a n a c a | m a | s o d n j i h | r o b o i | c a | u | s r a d i | m i
+[sample: sm04311204429, WER: 118.182%, TER: 32.8947%, total WER: 99.7709%, total TER: 35.6287%, progress (thread 0): 40.3433%]
+|T|: u | n o ^ i | i | p r i j e p o d n e | u | g o r s k o m e | k o t a r u | i | l i c i | t e | u | s l a v o n i j i | p o n e g d j e | s l a b | s n i j e g | u z d a h
+|P|: g i | u n o ^ i | t r i | t o i n a e | u | g o r o s k o m e | k o t a v | i l i c i | k t i e | u | s l a u o m i c t p o n e g d j e | s l a k s t n i nj e nj i e
+[sample: sm04311202402, WER: 87.5%, TER: 38.3721%, total WER: 99.6595%, total TER: 35.6492%, progress (thread 0): 40.7725%]
+|T|: o v o g o d i { nj i | p o s l o v n i | r e g i s t a r | k o j i | o b u h v a ^ a | d v a d e s e t | p e t | t i s u ^ a | a k t i v n i h | h r v a t s k i h | t v r t k i
+|P|: u o u g o u d e | { i | k o s l o | m n | i r e j i s t a | r | k o j u h o a | s a | d v a d e s e t | p e t i s u ^ a | a t k t i m n i k | h r v a t s k i t v r t k i
+[sample: sm04300104326, WER: 109.091%, TER: 31.8182%, total WER: 99.718%, total TER: 35.6201%, progress (thread 0): 41.2017%]
+|T|: k o r d i n a c i j s k i | o d b o r | u d r u g a | o b i t e lj i | n e s t a l i h | o s o b a | i | r a t n i h | ` r t a v a | n a | k o s o v u
+|P|: e | k a j o r o d g i n a c i u | s k i | o b v o r | l i u | l r u g a | o b i t v e | j i n e s t a l i u h o s u o | g p a d i r a t k i | i | l ` r t a v a | m n a v | k o s u o v u
+[sample: sm04311204418, WER: 118.182%, TER: 44%, total WER: 99.8318%, total TER: 35.6739%, progress (thread 0): 41.6309%]
+|T|: d a n a s | n i s u | p o t p i s a l i | p r e d s t a v n i c i | d e m o k r a t s k e | s t r a n k e | z o r a n a | ` i v k o v i ^ a | i | b o r i s a | t a d i ^ a
+|P|: d a n a s n i | i s u s t o r t k i s r i | p r e s t a d n i c i | t e m o k r a d s k e | s t e r a n g k e | z o r m n | ` i u v k o i ^ a | e | i | i | i | b o r e s a t a t i s i | ^
+[sample: sm04300104211, WER: 109.091%, TER: 37.2093%, total WER: 99.8886%, total TER: 35.6851%, progress (thread 0): 42.0601%]
+|T|: u | p o t r e s u | j a ~ i n e | d e v e t | s t u p nj e v a | r i h t e r o v e | lj e s t v i c e | u z d a h | s t r a d a l a | j e | t r o g o d i { nj a | h r v a t i c a
+|P|: i u | p o i r | s u j e ~ i n j e | d e v e t s t u p k nj i v m a | e j h k | e r v e lj j e s v i c s e | u | h | t r a d a l e t o | g o d i { nj e a | k r v a t i c a
+[sample: sm04311204417, WER: 100%, TER: 35.2273%, total WER: 99.8893%, total TER: 35.6817%, progress (thread 0): 42.4893%]
+|T|: a | s a d a | j e | u | b a n k o k u | u z d a h | g d j e | ^ e | o s t a t i | d o | p o l o v i c e | s i j e ~ nj a | u z d a h | k a k o | j e | i | p l a n i r a l a
+|P|: a s a d a | u | b a n a k o u k u | p | e | e o s t a t i d o p o l o v i c | o | s i t e ~ i nj j e | d a | a k o | v j i | p l a n i r a v a | u | u
+[sample: sm04311204413, WER: 94.1176%, TER: 41.8605%, total WER: 99.8355%, total TER: 35.7263%, progress (thread 0): 42.9185%]
+|T|: p r e k r { i t e lj i | m o g u | d o b i t i | o p o m e n u | s i l | i l i | a k o | s u | v e ^ | k a ` nj a v a n i | z a | i s t i | p r e k r { a j | u z d a h
+|P|: v p r e k g e u ~ i t e lj i m | m a | g u | d o b i t i | o p o m e n u | u | i l i j a k o | s u j ^ ~ k a ` nj e v a n i e z a j s t | t i | g r e k { e | u z d
+[sample: sm04311204433, WER: 92.8571%, TER: 33.7349%, total WER: 99.7824%, total TER: 35.7125%, progress (thread 0): 43.3476%]
+|T|: p o t p u n o | z a b r a n i l a | u v o z | p e r a d i | o b j a v i o | j e | m i n i s t a r | z d r a v s t v a | s u { m a | s v a r a j
+|P|: p o t k u n o | z a g r a n i | l | u o s k t a j | r a e d i j e | o b j a v o j e | m i n i e | s t e r a z r a s t v a | z a h | s u { | m a s v a r a v i
+[sample: sm04300104241, WER: 110%, TER: 41.6667%, total WER: 99.8377%, total TER: 35.748%, progress (thread 0): 43.7768%]
+|T|: lj u d i | s | k r v o ` i l n i m | b o l e s t i m a | i | a s t m a t i ~ a r i | t r e b a j u | s e | z a { t i t i t i | o d | j u t a r nj e | h l a d n o ^ e
+|P|: lj u d i z | s | a | r e v o ` i l n | n | p o l o s t i m a | i | a e s t n a t u i ~ e r i | t r a e v b j i | e | z a { ~ t i t i | i u l i j o | t a e r e nj j e | h a r n o a ^
+[sample: sm04300104366, WER: 100%, TER: 39.0244%, total WER: 99.8387%, total TER: 35.77%, progress (thread 0): 44.206%]
+|T|: o p t u ` u j u | s e | z a | a k t i v n o | s u d j e l o v a nj e | u | r a t u | u | b o s n i | i | h e r c e g o v i n i | i | n a | k o s o v u
+|P|: m | o | k t u ` u e u | s e | z a | p a k t i v m n o s u | d e o l o v a nj e | u | r a t a t u | u | p o s n i e h e r a c o i g o m j i n i | i | i n a | k o s e j u
+[sample: sm04311204425, WER: 78.5714%, TER: 33.3333%, total WER: 99.6798%, total TER: 35.7551%, progress (thread 0): 44.6352%]
+|T|: t u r s k a | j e | o t k a z a l a | s v e ~ a n i | d o ~ e k | n o v e | g o d i n e | u | i s t a n b u l u | u z d a h | p a | ^ e | k a o | i | c i p a r | u z d a h | u d a r a c | u z d a h
+|P|: p t u r u s k a | e o t k a z a l a | s v e ~ a n i | d o ~ j g k n o | g o d i n o | u | i s t a m a b u l u | u d l a d | p | e k e o j | i | c i r p v a r i t a
+[sample: sm04311204404, WER: 83.3333%, TER: 38.3838%, total WER: 99.5243%, total TER: 35.7762%, progress (thread 0): 45.0644%]
+|T|: j e r | s t r a n k e | d e m o k r a t s k o g a | b l o k a | n i s u | p o s t i g l e | d o g o v o r | o | i z b o r u | p r e d s j e d n i k a | s k u p { t i n e
+|P|: v j e r e d e | s t e r a n e t g e d e m o | r | s v k o l a | b l o v a k a n i s u | p o s t e k e | d o g o v o r u | o i s z g o r u | p r e d s j e d n i k | s k u p s k i n a e
+[sample: sm04300104209, WER: 100%, TER: 32.9412%, total WER: 99.5271%, total TER: 35.7568%, progress (thread 0): 45.4936%]
+|T|: z a | k o l i ~ i n u | a l k o h o l a | o d | n u l a | c i j e l i h | p e t | d o | n u l a | c i j e l i h | s e d a m d e s e t | i | d e v e t | p r o m i l a | u z d a h
+|P|: z a k g o r l j ^ ~ i | l u m a l k o | g o l a | o | o l a s j e l i | p | p e i t e | d o m | n u s l a | s j e l i s e t d a m d e | s e | d e o e t | r o m i l a | z u a h
+[sample: sm04311204432, WER: 100%, TER: 39.3258%, total WER: 99.5308%, total TER: 35.7822%, progress (thread 0): 45.9227%]
+|T|: t e | i s t a k n u o | z n a ~ e nj e | p o b r a t i m s t v a | s p l i t a | s | a n t o f a g a s t o m | i | p u n t a | a r e n a s o m
+|P|: t r | i s t a | n o | z n a ~ a | n nj i e | p o l r a t i m | s t v a | s t l i | t a | s t a m n d o | f a | a s t o m | i | p u i n t a r e n a | s u m
+[sample: sm04300104313, WER: 140%, TER: 29.5775%, total WER: 99.7407%, total TER: 35.7472%, progress (thread 0): 46.3519%]
+|T|: p r i | r a z m i n i r a v a nj u | n a | p o d r u ~ j u | k a { i ^ a | p o k r a j | z a d r a | o z l i j e } e n | j e | p i r o t e h n i ~ a r
+|P|: t r i k r a z b i m i j i | t a v a j nj | j | h o d r | ~ u k a { ~ i ^ a | o k r e | z a d r a | o z d lj e ^ e d nj e | p i r a t e s n i ~ a
+[sample: sm04300104334, WER: 90%, TER: 38.6667%, total WER: 99.6904%, total TER: 35.7645%, progress (thread 0): 46.7811%]
+|T|: n i z o z e m s k a | j e | p o z v a l a | e u r o p s k u | u n i j u | s i l | n a | m i n u t u | { u t nj e | p e t o g a | s i j e ~ nj a
+|P|: g i | z s o z a m | s k a j e p o z a l a | e u r o p s k o u n i u | i | i | n a | m i n u t o h | { | u t nj j e | p e t o g | s i j e ~ n nj i n a
+[sample: sm04311204406, WER: 100%, TER: 30.9859%, total WER: 99.6921%, total TER: 35.7378%, progress (thread 0): 47.2103%]
+|T|: n a i m e | s j e d n i c a | p a r l a m e n t a | o d g o } e n a | j e | d o | d a lj nj e g a | j e r | s t r a n k e | d e m o k r a t s k o g a | b l o k a
+|P|: n a j m e a o | s j e d n i c a p a l a m e n t | o | u g u } | n a | p j ` t p o | d a j a z d a m | k i e d e | s t r a n k t e | e | m o k r | s k o g o b l o k a
+[sample: sm04300104341, WER: 109.091%, TER: 37.5%, total WER: 99.7449%, total TER: 35.7488%, progress (thread 0): 47.6395%]
+|T|: n a | o t v o r e n o m e | m o r u | s j e v e r o z a p a d n i | v j e t a r | p e t | d o | p e t n a e s t | ~ v o r o v a | m o r e | d v a | d o | t r i
+|P|: n a o a t o r a n o m o | m o r u | s i | v e r o z a d n i | v j e t r | p e t | p e t a s t ~ k v o r o | v o | n m o r e t | v a d o | t r i
+[sample: sm04300502301, WER: 84.6154%, TER: 28.75%, total WER: 99.6452%, total TER: 35.7054%, progress (thread 0): 48.0687%]
+|T|: { v e d s k a | f i n s k a | n o r v e { k a | i | nj e m a ~ k a | u z d a h | i m a j u | z a s t a v e | n a | p o l a | s t i j e g a
+|P|: i { v j e t s k | a | p i n | s k a n o r v e j { k a | nj e m a o a ~ k a | i m a | u | z a s t a j l e n a | p o l a | s i j i e u g a
+[sample: sm04311204403, WER: 90.9091%, TER: 34.7826%, total WER: 99.5968%, total TER: 35.7005%, progress (thread 0): 48.4979%]
+|T|: k i n a | j e | r a z m j e s t i l a | s e d a m s t o | { e s t | r a k e t a | n a | s v o j o j | j u g o i s t o ~ n o j | o b a l i | u z d a h
+|P|: u n t i n e r a z m i s t i e l a | s e d a m s t o | { | { e s t d r | k e t e a n a | s v o j i | i j u | g o r i s | o ~ l n e d | o b a l i j | u z d h
+[sample: sm04310105117, WER: 100%, TER: 34.6667%, total WER: 99.599%, total TER: 35.6946%, progress (thread 0): 48.927%]
+|T|: n a | o t v o r e n o m | m o r u | j u ` n o g | j a d r a n a | s j e v e r o z a p a d n i | v j e t a r | d e s e t | d o | d v a d e s e t | ~ v o r o v a | u z d a h
+|P|: n a | o t o r e n o | m o r l | u j u ` n o g | a | r d r a n a | s i e r o z a p a d n i | v e t a r d | d e | s e t | d o | d v a d e s e t | ~ v o r o v a | u z a
+[sample: sm04310105217, WER: 83.3333%, TER: 17.4419%, total WER: 99.5017%, total TER: 35.575%, progress (thread 0): 49.3562%]
+|T|: u | p a r l a m e n t u | b i | p o d u p r l e | z a j e d n i ~ k o g | k a n d i d a t a | z a | p r e d s j e d n i k a | i z | d e s e s a
+|P|: u | p a d l a n e | t u | p i | p o d | d b r l e | z a e d k i ~ k o g a r d i | d a t a | z a | p r e d s j e d n i k a r i z s z | d e s e s a
+[sample: sm04300104218, WER: 100%, TER: 22.2222%, total WER: 99.5042%, total TER: 35.5022%, progress (thread 0): 49.7854%]
+|T|: ~ i l e a n s k i | p r e d s j e d n i k | r i k a r d o | l a g o s | e s k o b a r | z a v r { i o | j e | p o s j e t | h r v a t s k o j
+|P|: u m ~ i v l e a n s k i | p r e d s j e d i k i r i k a v a d o l a | k o | s | e | s | k | o b a r e | z a d r { i e j | p o s i e t | a h r v a t s k o
+[sample: sm04300104306, WER: 122.222%, TER: 30.9859%, total WER: 99.6051%, total TER: 35.478%, progress (thread 0): 50.2146%]
+|T|: { t o | ^ e | d o b r o | u t j e c a t i | n a | lj u d e | s i l | z a t o | b i | s e | g o t o v o | s v i | t r e b a l i | o s j e ^ a t i | d o b r o | u z d a h
+|P|: { d o ^ e d o v b r u t d e | s a t e n e a | lj u d e k s | z a l | a t o b i | s e | g o t o v o | s i | t r e o b a l | o s d e ^ e a | t i e | d o b r o u z d h
+[sample: sm04311204442, WER: 87.5%, TER: 32.1429%, total WER: 99.5103%, total TER: 35.4571%, progress (thread 0): 50.6438%]
+|T|: u d a r a c | a | h r v a t s k a | d r ` a v lj a n k a | m i r j a n a | e n g l a j t n e r | ` i v a | j e | i | z d r a v a
+|P|: z v d a ^ a c h d a | h r v a t c k t a d b ` a v lj e a n | k a | m i j e n a p l e | d l a j i t n a | r u | ` i v a i z d r a
+[sample: sm04311204411, WER: 100%, TER: 43.75%, total WER: 99.5127%, total TER: 35.4966%, progress (thread 0): 51.073%]
+|T|: s t u p | c r n o g a | d i m a | k o j i | s e | d i ` e | t i s u ^ u | m e t a r a | i z n a d | p l a n i n e | v i s o k e | u z d a h
+|P|: s a s t u | u | c a r n o | g a d l i m a | o j o s e | i ` l a | t i z u ^ ~ u | m e t a r | z a | p l a n i n e | i s o k e | u a d
+[sample: sm04310105211, WER: 91.6667%, TER: 34.2857%, total WER: 99.4671%, total TER: 35.4903%, progress (thread 0): 51.5021%]
+|T|: d a | ^ e | d o n i r a t i | o s a m d e s e t | m i l i j u n a | e u r a | ` r t v a m a | c u n a m i j a | u z d a h | s i l
+|P|: j d e ^ a | d o r i r a t k i | o s a m d e s a t m i l r | u n a | e u r a | a ` r t p a m a | c s u n a n i j a | u | d | u
+[sample: sm04310105315, WER: 100%, TER: 30.7692%, total WER: 99.4696%, total TER: 35.4677%, progress (thread 0): 51.9313%]
+|T|: z a | n e k a ` nj a v a nj e | p o ~ i nj e n o g | z l o ~ i n a | u z d a h | i | g e n o c i d a | u | t i m | z e m lj a m a
+|P|: s r d n i | z a n j | t r ` nj a nj | e | p o ~ i nj i n u g | v o ~ i n a | u d a h a | h | i | d j e n a c s i j e d a o u t i e m | z e m lj a e m a
+[sample: sm04311204426, WER: 110%, TER: 50.7937%, total WER: 99.5202%, total TER: 35.5386%, progress (thread 0): 52.3605%]
+|T|: i n a ~ e | i n f o r m a c i j s k i | s u s t a v | k o m p a s a | k o j i | d j e l u j e | u | s e d a m d e s e t | p e t | z e m a lj a
+|P|: v r i n l a ~ e | i f r m a c i s k i | s u s t a j k o a m c p a s a | k o | i | d i j e r l u | j | u s e d a m | d e s e t | p e c t z e | m a lj a
+[sample: sm04300104330, WER: 110%, TER: 28.169%, total WER: 99.5702%, total TER: 35.5004%, progress (thread 0): 52.7897%]
+|T|: p r i j e | ~ e t i r i | g o d i n e | k a d a | j e | p o t p i s a n | b i o | j e | t o | p r v i | d o k u m e n t | s | b r i s e l o m | u z d a h
+|P|: r i e | ~ e t r i | g o d i n e i | k a o | e | p o | k e | s a i n u | i j e | t o | o | p | r l u i d o | k e m e r c z b i | s e l o m | z a h
+[sample: sm04310105202, WER: 107.143%, TER: 42.8571%, total WER: 99.6205%, total TER: 35.5415%, progress (thread 0): 53.2189%]
+|T|: i m a | b a z u | p o d a t a k a | o | m i l i j u n | i | o s a m s t o | t i s u ^ a | t v r t k i | u | s v i j e t u
+|P|: u d i m n a b a | a u | p o v r a t a k a o | o | o | m i e | l i j | u | i | o s a m s t u | t i s u ^ e t v o r t k i | u | s i e t
+[sample: sm04300104331, WER: 100%, TER: 36.0656%, total WER: 99.6225%, total TER: 35.5438%, progress (thread 0): 53.6481%]
+|T|: i s k u s t v o | u m j e t n o s t i | i | u v i j e k | m a l o | d a lj e | t e m e | s u | u z d a h
+|P|: i s k a u s k v a | u m j i e t n o s t i | i | i | u v j e k | m n a l o | d a lj e t k | t e j e m e s u | u z d h
+[sample: sm04310105319, WER: 88.8889%, TER: 26.9231%, total WER: 99.5771%, total TER: 35.5115%, progress (thread 0): 54.0773%]
+|T|: i | m o r e | t r i | d o | ~ e t i r i | u z d a h | v i d lj i v o s t | v e ^ a | o d | d v a d e s e t | k i l o m e t a r a | u z d a h
+|P|: i | m o | o g e j e | t r i | d o ~ e t i r i | s l | v i | i v o s t | g e ^ e o d | d v a d | s e t | k i l o m e t o r a u z d z h
+[sample: sm04310105218, WER: 91.6667%, TER: 28.5714%, total WER: 99.5327%, total TER: 35.4767%, progress (thread 0): 54.5064%]
+|T|: k o p | k o s t r u t o r i | u z d a h | j e r | n i j e | i s p u n i l a | d i o | u g o v o r e n i h | o b v e z a | u z d a h
+|P|: k o | p k o s | t r u | t o r i e | u s u z | a | j e | e n i | i s k u n | v l a d i o | u | g o v o r n j h | h a o b v e z a u v
+[sample: sm04310105307, WER: 130%, TER: 40.9091%, total WER: 99.6744%, total TER: 35.5023%, progress (thread 0): 54.9356%]
+|T|: u | p o d r u ~ j u | j u g o i s t o ~ n e | a z i j e | b i l o | j e | o s a m d e s e t | h r v a t s k i h | d r ` a v lj a n a
+|P|: u | p o t r u ~ nj j u j u g o n s i t r ~ n a z j b i l o v e | o | s a m l d a e s t e i t k | h r e v a t s k i | d r ` a v i a n a
+[sample: sm04311204416, WER: 88.8889%, TER: 33.3333%, total WER: 99.6295%, total TER: 35.4921%, progress (thread 0): 55.3648%]
+|T|: u | k o j i m a | s u | p o g i n u l e | { e z d e s e t d v i j e | o s o b e | a | o z l i j e } e n o | v i { e | s t o t i n a
+|P|: h v u | k o j m | s u | p o g i n u e u l e | { e z e s e | d i e | o | s o d b e a | o z d e ^ e | n o v i { e s t o t i | n a
+[sample: sm04300104355, WER: 100%, TER: 31.8182%, total WER: 99.6312%, total TER: 35.475%, progress (thread 0): 55.794%]
+|T|: n a | o t v o r e n o m | j u ` n o g | j a d r a n a | i | u | o t r a n t s k i m | v r a t i m a | p o n e g d j e | ~ e t i r i
+|P|: n a | o t v | r e n u m u j u e n o g | e a r e n a lj | i u | o t g r a n s k i m | r a t i m a | p o n e g d j e | ~ e n i r i
+[sample: sm04300502302, WER: 80%, TER: 19.697%, total WER: 99.5411%, total TER: 35.4017%, progress (thread 0): 56.2232%]
+|T|: n a k o n | { t o | j e | u | h o n g | k o n g u | o d | p t i ~ j e | g r i p e | u m r l o | { e s t | o s o b a
+|P|: n a k a | k e j e o u a k a | m | t k o | a nj u g u | o n s p k i | ~ | j e | i r i t o e | u n o g o | { | { e s t | o s t o | o u b a
+[sample: sm04300104239, WER: 108.333%, TER: 58.6207%, total WER: 99.5892%, total TER: 35.4961%, progress (thread 0): 56.6524%]
+|T|: a | n a | j a d r a n u | o d | p e t | d o | d e s e t | s t u p nj e v a | u z d a h | s i l
+|P|: a n a | j a d r a n u | o u o t | p i j e t u | d o | d o e s e s t l u t p nj a r v a n | u i
+[sample: sm04310105129, WER: 80%, TER: 44.6809%, total WER: 99.5002%, total TER: 35.5262%, progress (thread 0): 57.0815%]
+|T|: n o | j o { | j e | n e p o z n a t a | s u d b i n a | h r v a t s k o g | d r ` a v lj a n i n a | s i l | j o z e | g u d e lj a
+|P|: i r n o | i | { e i | n e | p o z n a | d a | s | b i n a | h r v a t s k o g a | d r ` r v lj a r i n a | a | s i j l | j o z i r | u d e a lj e a
+[sample: sm04311204414, WER: 140%, TER: 35.3846%, total WER: 99.6834%, total TER: 35.5256%, progress (thread 0): 57.5107%]
+|T|: p o { t o v a n e | s l u { a t e lj i c e | i | p o { t o v a n i | s l u { a t e lj i | d o b a r | d a n | u z d a h
+|P|: s i | p o t s a n s i | { a u t e lj i k | s e | j | u i | b p o t g a m | s u { ` a k t a v i | d o v r d a | p u h a
+[sample: sm04310105101, WER: 125%, TER: 61.0169%, total WER: 99.7747%, total TER: 35.6297%, progress (thread 0): 57.9399%]
+|T|: u | s k l o p u | i s t r a g e | o | s a m o u b i l a ~ k i m | n a p a d i m a | u | i s t a m b u l u | u | s t u d e n o m e
+|P|: u s { k o | o u o i s t r e d | j e a o s a | m | u b i l d a ~ t k i | n a t p a d i m a | u | i s t a m | b o u | s n t u d e n o m e
+[sample: sm04300104354, WER: 90%, TER: 36.9231%, total WER: 99.7308%, total TER: 35.6355%, progress (thread 0): 58.3691%]
+|T|: i | b i v { e g | z a m j e n i k a | p r e m i j e r a | s r b i j e | u z d a h | n e b o j { e | ~ o v i ^ a
+|P|: j i | b i v { s u | z a m i m n i | k | p r e i m i j e r a | s a r | b i e | u d a | n e j v u e ~ e a t | ~ o v i ^ a
+[sample: sm04311204422, WER: 112.5%, TER: 35.7143%, total WER: 99.7765%, total TER: 35.6358%, progress (thread 0): 58.7983%]
+|T|: s t r o g o | s u | o s i g u r a n i | h o d o ~ a s n i ~ k i | p u t e v i | i | nj i h o v | s m j e { t a j
+|P|: t s t r o ^ | s u | o s i g r e n i | k | o d u ~ a z n i ~ k i | p u t a | i | i | n i f o s | m j e { t a
+[sample: sm04300104227, WER: 100%, TER: 28.5714%, total WER: 99.7773%, total TER: 35.6088%, progress (thread 0): 59.2275%]
+|T|: z a | ~ i j e | p o k r i ^ e | j e | b i v { a | v l a d a | p l a n i r a l a | i z d v o j i t i | { e z d e s e t | l i p a
+|P|: z e a ~ i j e p o k r i | ^ e | e d i { a | r l a d a p l a n i j r a j i z t k v o j i t i | { e z d e s e t p l i t k a
+[sample: sm04300104322, WER: 100%, TER: 29.6875%, total WER: 99.7783%, total TER: 35.5829%, progress (thread 0): 59.6567%]
+|T|: p r o { l o g | s e | v i k e n d a | z a t e k l a | n a | t a j l a n d u | s i l | z a | v r i j e m e | s t r a { n e | k a t a s t r o f e
+|P|: p e r o { a o s a v i | i e n d g | z a p i | k a m o a | p a e l a n d u | z a | r i j e m s t r a r n | a | p a s t r o f e
+[sample: sm04311204412, WER: 90.9091%, TER: 40.2778%, total WER: 99.7352%, total TER: 35.6059%, progress (thread 0): 60.0858%]
+|T|: u | ~ a s t | ~ i l e a n s k o g | p r e d s j e d n i k a | p r i r e } e n o | j e | p r i m a nj e | u | m u z e j u | g r a d a
+|P|: u ~ a s t | ~ i lj e a n t s k o | p r e i s j e d n i k a | p r i e } a n | p r i m a nj u | u z a j u g r a p | a
+[sample: sm04300104310, WER: 100%, TER: 27.2727%, total WER: 99.7364%, total TER: 35.5687%, progress (thread 0): 60.515%]
+|T|: z a | k o j e g a | s e | v j e r u j e | d a | j e | u t j e c a j a n | ~ l a n | t a m o { nj e | a l k a i d e
+|P|: d z a e k a | g d e s e | v e u j e t d a e | e | u t e c a e a | a | { a n m | t a m o a { nj | f a t k a | i d a e
+[sample: sm04300104353, WER: 100%, TER: 43.8596%, total WER: 99.7375%, total TER: 35.6005%, progress (thread 0): 60.9442%]
+|T|: u | s p l i t u | j e | o b i { a o | d i o k l e c i j a n o v u | p a l a ~ u | s p l i t s k u | k a t e d r a l u
+|P|: o u s k v i | t | u | e o j i { l a o l r | d i u k l e c i j a n o v u | p a l a t ~ u | s t l i s | s | k a t e d e r a l u
+[sample: sm04300104308, WER: 112.5%, TER: 32.2034%, total WER: 99.782%, total TER: 35.5871%, progress (thread 0): 61.3734%]
+|T|: g o v o r i o | j e | o | d u g i m | i | j a k i m | v e z a m a | d a l m a c i j e | s | ~ i l e o m
+|P|: i m o v u o r | o e j e | d u g i m | i | a k l i | m e z a m a | d a l m a c i e j | s t ~ i l e a o
+[sample: sm04300104312, WER: 80%, TER: 30.7692%, total WER: 99.6962%, total TER: 35.5704%, progress (thread 0): 61.8026%]
+|T|: k o n s t i t u i r a j u ^ e | s j e d n i c e | v l a d i m i r | s i m o n o v i ^ | i z | d e s e s a
+|P|: k o s t e t u | j | r e ^ e | s e d i c e | v a d | i | m i | f s t i | m o n o v i ^ | ^ | i z | z t | d e d s e j e s a
+[sample: sm04300104222, WER: 200%, TER: 45.283%, total WER: 99.9567%, total TER: 35.6046%, progress (thread 0): 62.2318%]
+|T|: u | c i j e l o j | ^ e | z e m lj i | b i o m e t e o r o l o { k i | u v j e t i | b i t i | v r l o | p o v o lj n i | u z d a h
+|P|: u | l | j e l a v a ^ e | z a m | lj i | b i o m e t e o l o { k j | u e t i b i t k | v o r o p o v o lj l n u | z d
+[sample: sm04311204441, WER: 90%, TER: 33.8462%, total WER: 99.9138%, total TER: 35.597%, progress (thread 0): 62.6609%]
+|T|: s v i | t i | b e o g r a d s k i | s a d a { nj i | i | b i v { i | v i s o k i | d u ` n o s n i c i | u z d a h
+|P|: o c j i t i | b a e v o r c t s k i z s a d a o { k i | b i j i { i | v i s a k i | d u ` n o a s n e i c i | u z d h
+[sample: sm04311204423, WER: 100%, TER: 35.0877%, total WER: 99.9141%, total TER: 35.5951%, progress (thread 0): 63.0901%]
+|T|: a | t e g o b e | s e | n e | o ~ e k u j u | n i | k o d | k r o n i ~ n i h | b o l e s n i k a
+|P|: a | t r j | g o b e | s e n e o ~ e k o j u n i | k o t | k r a n i ~ n i m | b o l e s n i k a
+[sample: sm04311204443, WER: 77.7778%, TER: 20.4082%, total WER: 99.8289%, total TER: 35.5462%, progress (thread 0): 63.5193%]
+|T|: p o t p u n a | z a b r a n a | u v o z a | s a m o | j e | m j e r a | o p r e z a | o b j a s n i o | j e | m i n i s t a r
+|P|: p o t p u n e | z a r v r a n a | u o z a | a | o j i m | j e r a o | o | p | r e | s t a | o b | j a s n | e | m i r e s t a
+[sample: sm04300104242, WER: 140%, TER: 36.5079%, total WER: 100%, total TER: 35.5502%, progress (thread 0): 63.9485%]
+|T|: t e | k l a s i f i k a c i j u | o k o | p e d e s e t | t i s u ^ a | p r o i z v o d a | i | u s l u g a
+|P|: t e | t a | s j t i | k a c i u | v o k o | p e d r e s e t i s u ^ e a | p r o e d i z u o d a | i | u s l u g a
+[sample: sm04300104332, WER: 75%, TER: 27.7778%, total WER: 99.9151%, total TER: 35.5228%, progress (thread 0): 64.3777%]
+|T|: a | z a | v o ` nj u | p o d | u t j e c a j e m | d r o g e | v r i j e d i t | ^ e | n u l t a | s t o p a
+|P|: a z a v o ` n i u p o u d u t e c e | m | d r o j e | v r i j a d lj i ^ e | n u t a s t o k p a | i
+[sample: sm04311204431, WER: 100%, TER: 38.8889%, total WER: 99.9155%, total TER: 35.5346%, progress (thread 0): 64.8069%]
+|T|: n a k o n | u p o z o r e nj a | s t r u ~ nj a k a | k o j i | s t r a h u j u | d a | b o l e s t | p r e n o s e
+|P|: n a k u | p o z a | r e a nj e | s t u ~ { nj a k a k | o | i s k a k u | d a | o l e p s t a r a m o s k e
+[sample: sm04300104236, WER: 100%, TER: 43.8596%, total WER: 99.9158%, total TER: 35.5653%, progress (thread 0): 65.2361%]
+|T|: n a | ~ e t r d e s e t | s v j e t s k i h | j e z i k a | m e } u | k o j i m a | j e | i | n a | h r v a t s k o m
+|P|: n a ~ e t r d e s e c | c i e | s t i | t v j e z i k a | m e | } u | k o e i m a i n a | h r l v a c s k o
+[sample: sm04300104333, WER: 100%, TER: 33.8983%, total WER: 99.9161%, total TER: 35.559%, progress (thread 0): 65.6652%]
+|T|: k a d | ^ e | s e | s j e d n i c a | n a s t a v i t i | n a j v j e r o j a t n i j e | z a | t j e d a n | d a n a
+|P|: d a | i e z | s e | s j e d n i | c a n a s t a r v i e t i | n a j i | r a d t n d e z a e t i e k a n a n a
+[sample: sm04300104224, WER: 88.8889%, TER: 37.2881%, total WER: 99.8746%, total TER: 35.5656%, progress (thread 0): 66.0944%]
+|T|: p a p a | i v a n | p a v a o | d r u g i | u z d a h | n a | p o n o ^ n o j | ^ e | m i s i
+|P|: p a | p r n a | i v l a n l | p a v o | o d r u v i j i | z h a j | n a | p o n e o ^ o a n ^ e | m i s i
+[sample: sm04311204408, WER: 88.8889%, TER: 36.1702%, total WER: 99.8335%, total TER: 35.5674%, progress (thread 0): 66.5236%]
+|T|: a | i n d i j a | j e | u | s t r a h u | o d | e p i d e m i j e | p t i ~ j e | g r i p e
+|P|: a r e i u | d i | a | e | u | s t r a k | u o u o e k p i d e r n i | j e | e | t i ~ i e | e r i t e
+[sample: sm04300104240, WER: 111.111%, TER: 43.4783%, total WER: 99.8756%, total TER: 35.5906%, progress (thread 0): 66.9528%]
+|T|: p r e m a | t v r d nj a m a | l i j e ~ n i k a | p i r o t e h n i ~ a r | n i j e | u | ` i v o t n o j | o p a s n o s t i
+|P|: p r e m e | t r d n nj e m a l e j e ~ s n i k a t i r a o t a e | n i ~ e r n i j e a u | ` i v o t n a o | p a s o s | s
+[sample: sm04300104338, WER: 100%, TER: 33.3333%, total WER: 99.876%, total TER: 35.5816%, progress (thread 0): 67.382%]
+|T|: p o s l a t i | p o m o ^ | s t r a d a l i m a | u | j u g o i s t o ~ n o j | a z i j i
+|P|: p o s l a t i | p o ^ c n s t r a d a l i m a | u | j u g o j i s t o r ~ n | j a z i j i | i
+[sample: sm04311204405, WER: 83.3333%, TER: 22.2222%, total WER: 99.8351%, total TER: 35.5434%, progress (thread 0): 67.8112%]
+|T|: v i d lj i v o s t | d v a d e s e t | k i l o m e t a r a | p r e t e ` i t o | v e d r o
+|P|: v i d i v o s | d v a d e s e t | t k i l r v m e t e r a | t r j e t e r ` i e | t | v e t r a
+[sample: sm04300502303, WER: 100%, TER: 31.1111%, total WER: 99.8354%, total TER: 35.5308%, progress (thread 0): 68.2403%]
+|T|: m o g u | o s t a t i | b e z | v o z a ~ k e | d o z v o l e | n a j m a nj e | m j e s e c | d a n a
+|P|: m o g o s t a o t i | b e z v o d a t ~ k a d o z a o l e n a nj i | m i j e s e s | d a | n a
+[sample: sm04311204434, WER: 100%, TER: 33.3333%, total WER: 99.8359%, total TER: 35.5237%, progress (thread 0): 68.6695%]
+|T|: n a i m e | s j e d n i c a | p a r l a m e n t a | o d g o } e n a | j e | d o | d a lj nj e g a
+|P|: v a e m e | s i j e d e i c a | p a l a m e n | t a | o d u o u } a e n a | e t d o d a | i n nj e g a
+[sample: sm04300104208, WER: 100%, TER: 31.25%, total WER: 99.8364%, total TER: 35.5108%, progress (thread 0): 69.0987%]
+|T|: u | p r i v a t n o j | k a p e l i c i | m o l i t i | z a | ` r t v e | c u n a m i j a
+|P|: u | p r i v a t n i k a | p a e l i c i | m o r i t i | r ` r t e t s u n a n m i nj j a | i
+[sample: sm04311204409, WER: 85.7143%, TER: 35.5556%, total WER: 99.7961%, total TER: 35.511%, progress (thread 0): 69.5279%]
+|T|: t e | s e | s a s t a o | s | g r a d o n a ~ e l n i k o m | m i r o s l a v o m | b u l i ~ i ^ e m
+|P|: m e s e | s a s t l j o | b r a | d a | a ~ e u n i e k o m j e r u o s l a v b u m | b u l i ~ i ^ e
+[sample: sm04300104309, WER: 100%, TER: 37.2549%, total WER: 99.7967%, total TER: 35.5165%, progress (thread 0): 69.9571%]
+|T|: o n | j e | p o s l i j e p o d n e | i z | s p l i t s k e | z r a ~ n e | l u k e | o t p u t o v a o | u | ~ i l e
+|P|: o | j e | k o l lj e | p o d n a e i | s k p i s t e z a ~ e l u k o | p u t o v o v u | ~ i l a | c
+[sample: sm04300104307, WER: 90%, TER: 42.3729%, total WER: 99.757%, total TER: 35.5417%, progress (thread 0): 70.3863%]
+|T|: d a n a s | n i s u | p o t p i s a l i | p r e d s t a v n i c i | d e m o k r a t s k e | s t r a n k e
+|P|: v d a s n i | s p o d | r i | s a l i | t r e s t r n i c i d e m o k a c s k e s t r a n t e
+[sample: sm04300104344, WER: 100%, TER: 37.7358%, total WER: 99.7576%, total TER: 35.5489%, progress (thread 0): 70.8155%]
+|T|: n i s u | p o s t i g l e | d o g o v o r | o | i z b o r u | p r e d s j e d n i k a | s k u p { t i n e
+|P|: lj n i s u | p o s t i r g r a | d o v o r o | o | i z b g v o u | p r e d s e i d i k | s k u ~ { t i e
+[sample: sm04300104342, WER: 85.7143%, TER: 30.1887%, total WER: 99.718%, total TER: 35.5314%, progress (thread 0): 71.2446%]
+|T|: v e l i m i r | s i m o n o v i ^ | i z | d e s e s a
+|P|: d v e l i m i a s | s i | m o n o v i ^ | i j z s z t | d e s | s e s a
+[sample: sm04300104347, WER: 150%, TER: 37.037%, total WER: 99.7989%, total TER: 35.5339%, progress (thread 0): 71.6738%]
+|T|: u | t r e n u t k u | p o t r e s a | i | n e k o l i k o | c u n a m i j a | u z d a h
+|P|: d u e r e r n u | k | u | p o e t r e s a i n a | k o l i k o | s u n a n m i j a | k | z h
+[sample: sm04311204415, WER: 114.286%, TER: 38.6364%, total WER: 99.8396%, total TER: 35.5423%, progress (thread 0): 72.103%]
+|T|: k o j a | ^ e | s e | n a j v j e r o j a t n i j e | m o r a t i | n a p l a t i t i | i z | p r o r a ~ u n a
+|P|: k o j a | ^ | e s e | n a j i j r a | i m o r a t i | a | g l a t i t i j s | o v a ~ f o m n a
+[sample: sm04300104319, WER: 87.5%, TER: 41.0714%, total WER: 99.8001%, total TER: 35.5613%, progress (thread 0): 72.5322%]
+|T|: s p o r a z u m | k o j i | s u | j u ~ e r | d o g o v o r i l e | ~ e t i r i | s t r a n k e
+|P|: s o r e a z s u m n k o ^ ~ s ~ u | ~ a | d o g o v | o r s i l e | ~ e t i r i s t r a n k e
+[sample: sm04300104210, WER: 100%, TER: 31.25%, total WER: 99.8006%, total TER: 35.5486%, progress (thread 0): 72.9614%]
+|T|: k o j i | b i | z a | d a n | i z b o r a | n o v e | v l a d e | d a o | o s t a v k u
+|P|: k o j | b i | s z a d a n i | i z b o r a d m n o v e | l a d e | d a | o | o s t a v | k u
+[sample: sm04300104219, WER: 88.8889%, TER: 20.4545%, total WER: 99.7616%, total TER: 35.5081%, progress (thread 0): 73.3906%]
+|T|: t u r s k a | j e | p o l i c i j a | p r i v e l a | n o v o g | o s u m nj i ~ e n i k a
+|P|: t u o s | t e | p u o l i c i j e | p r i v e t v a | n o v o | u | o u o s ~ v m j i ~ e n i k a
+[sample: sm04300104352, WER: 116.667%, TER: 33.3333%, total WER: 99.8018%, total TER: 35.5021%, progress (thread 0): 73.8197%]
+|T|: r e k a o | j e | n o v i n a r i m a | d a | ^ e | s e | n a k n a d n o | o d r e d i t i
+|P|: r e k a o v j e n o v i n a e i m a d r e ^ s e j e | n r a k a n a n | d v o d r e d i t i
+[sample: sm04300104223, WER: 100%, TER: 32.6087%, total WER: 99.8024%, total TER: 35.4941%, progress (thread 0): 74.2489%]
+|T|: s p o r a z u m | k o j i | s u | j u ~ e r | d o g o v o r i l e | ~ e t i r i | s t r a n k e
+|P|: s t p o a r a z u m | k o u ^ u i lj u | ~ e a ` r v | d o g o | v o r i l e | ~ e t i r i | s t r a n t k i e
+[sample: sm04300104343, WER: 85.7143%, TER: 31.25%, total WER: 99.7636%, total TER: 35.4817%, progress (thread 0): 74.6781%]
+|T|: d o z n a j e | s e | o d | p o l i c i j e | i | o ~ e v i d a c a | u z d a h
+|P|: t d o z n a e | s o | p o l i c i j i | j o | ~ e i | b a c a | k u | i | u | a
+[sample: sm04310105120, WER: 128.571%, TER: 47.5%, total WER: 99.8428%, total TER: 35.5107%, progress (thread 0): 75.1073%]
+|T|: p r e m a | t o m | s p o r a z u m u | ~ e t i r i | i z b o r n e | l i s t e
+|P|: t r e m a t o m u | s t p u r o z a u m e o | i | ~ e t i r i | i z | b o r v e | r i s t r e
+[sample: sm04300104212, WER: 100%, TER: 37.5%, total WER: 99.8432%, total TER: 35.5155%, progress (thread 0): 75.5365%]
+|T|: a k t u a l n a | v l a d a | u p o z o r a v a | n a | n i z | j a m s t a v a
+|P|: k a t s t o a | l a d a | u | p o z o r a v a | n a | n i | i | z s i j a m o s t a v a
+[sample: sm04300104318, WER: 116.667%, TER: 35%, total WER: 99.8827%, total TER: 35.5143%, progress (thread 0): 75.9657%]
+|T|: z a | s k r i v a nj e | i n f o r m a c i j a | o | n e s t a l i m a | u z d a h
+|P|: i s i l | z a s k t r i v a nj e | i | f o r m a c i j e a m n a e s t a i m a | u d a h
+[sample: sm04311204428, WER: 100%, TER: 36.5854%, total WER: 99.8829%, total TER: 35.5169%, progress (thread 0): 76.3949%]
+|T|: u p u t i l o | s e | o k o | d v a | m i l i j u n a | v j e r n i k a
+|P|: u p u t i u l o s e | o k o d | d v a m | r | u j u n a | i j e r e n i k a
+[sample: sm04300104226, WER: 100%, TER: 27.7778%, total WER: 99.8832%, total TER: 35.5003%, progress (thread 0): 76.824%]
+|T|: b a k i | i g i t | n a | p o p i s u | j e | { e s t | lj u d i
+|P|: u b a | i | j z i t i h | k n t ~ c n a | p o p i s u j i | { e s t i lj u d b i k
+[sample: sm04300104356, WER: 100%, TER: 50%, total WER: 99.8835%, total TER: 35.528%, progress (thread 0): 77.2532%]
+|T|: n e p r i p i t o m lj e n e | p t i c e | i | p t i c e | s e l i c e
+|P|: d e | p r e t i k a | o m i r e nj a e | t i c s e | i t | i c e | s e v e t c e
+[sample: sm04300104237, WER: 140%, TER: 54.2857%, total WER: 99.9613%, total TER: 35.5671%, progress (thread 0): 77.6824%]
+|T|: ~ e s t i t k u | u | p o v o d u | p r o s l a v e | k u r b a m | b a j r a m a
+|P|: ~ e s t i t k u | p a o v o d u | p r o s l o v e | k u b a n | b a r j e r a m a
+[sample: sm04300104362, WER: 83.3333%, TER: 19.5122%, total WER: 99.9227%, total TER: 35.528%, progress (thread 0): 78.1116%]
+|T|: t r i d e s e t o g o d i { nj i | d j e l a t n i k | t v r t k e | a v a n g a r d
+|P|: i r i e d e s e t p o g o d { nj i j r a t n i t v a r t | k e | e | a v a n d e a r | t
+[sample: sm04300104336, WER: 125%, TER: 42.8571%, total WER: 99.9614%, total TER: 35.5462%, progress (thread 0): 78.5408%]
+|T|: i n s t i t u c i o n a l n a | k r i z a | u | s r b i j i | s e | n a s t a v lj a
+|P|: i e s t i t u c ~ e r n e a k a e r i | z a u | s r e r b i s e n a s t a i r a
+[sample: sm04300104207, WER: 100%, TER: 42.8571%, total WER: 99.9615%, total TER: 35.5644%, progress (thread 0): 78.97%]
+|T|: t e | c e s t e | i | p r i l a z e | s v i m | s v e t i m | m j e s t i m a
+|P|: t e t c e s t e | p r i | a z a e z | s v i | s v e | t i | m j e s t i m a
+[sample: sm04300104229, WER: 85.7143%, TER: 23.0769%, total WER: 99.9232%, total TER: 35.5356%, progress (thread 0): 79.3991%]
+|T|: i n s t i t u c i o n a l n a | k r i z a | u | s r b i j i | s e | n a s t a v lj a
+|P|: i m i s c i e t u ~ c a | a | p r i z a o | u | s r b i s a | n a s t a d i j a
+[sample: sm04300104340, WER: 100%, TER: 45.2381%, total WER: 99.9234%, total TER: 35.5596%, progress (thread 0): 79.8283%]
+|T|: d e m o k r a t s k a | s t r a n k a | s r b i j e | v o j i s l a v a | k o { t u n i c e
+|P|: p r d a e n o | k | r e | s k a | s a e a n a e a | s r | b i j e | v o s v a | k p | s { t u n e i c e
+[sample: sm04300104213, WER: 200%, TER: 45.6522%, total WER: 100.115%, total TER: 35.5869%, progress (thread 0): 80.2575%]
+|T|: o k o | t i s u ^ u | k a m e r a | z a | v i d e o | n a d z o r
+|P|: o k o t i | s u ^ u | k a m e r a | k | z a | v i d a v o n a z o a e
+[sample: sm04300104232, WER: 83.3333%, TER: 30.303%, total WER: 100.076%, total TER: 35.5766%, progress (thread 0): 80.6867%]
+|T|: n a k o n | n a p a d a | a u t o m o b i l i m a | b o m b a m a
+|P|: n a k o n | n a | p a d a | a | u t o m o m b i e i l i m a | b o n u n b m o b m a
+[sample: sm04300104358, WER: 125%, TER: 33.3333%, total WER: 100.114%, total TER: 35.5723%, progress (thread 0): 81.1159%]
+|T|: p o s t a v lj e n o | j e | d u ` | c e s t a | k o j e | v o d e
+|P|: p o s t a | lj e n | u e j u | d u { s k c s e s t a k l j e v o d t e
+[sample: sm04300104233, WER: 100%, TER: 39.3939%, total WER: 100.114%, total TER: 35.5797%, progress (thread 0): 81.5451%]
+|T|: p r e d s t a v i l i | s u | n a | z a g r e b a ~ k o m e | v e l e s a j m u
+|P|: p r e t r v l i | s u | n a | z a g r v a ~ k o m e | e | v e d a e s a nj i z
+[sample: sm04300104327, WER: 80%, TER: 32.5%, total WER: 100.076%, total TER: 35.5725%, progress (thread 0): 81.9743%]
+|T|: b i o m e t e o r o l o { k a | p r o g n o z a | z a | s u t r a
+|P|: u i g i | r b i o m e t o k a e p r o g n o z a | z | s u t r a v
+[sample: sm04311204440, WER: 100%, TER: 42.4242%, total WER: 100.076%, total TER: 35.5856%, progress (thread 0): 82.4034%]
+|T|: p r e d s j e d a t e lj | k o n s t i t u i r a j u ^ e | s j e d n i c e
+|P|: p a e d s j e d a t a e lj | i | k o s t j | t u | u i r e u ^ e | s i e d i c e
+[sample: sm04300104346, WER: 200%, TER: 35.1351%, total WER: 100.189%, total TER: 35.5847%, progress (thread 0): 82.8326%]
+|T|: z o r a n a | ` i v k o v i ^ a | i | b o r i s a | t a d i ^ a
+|P|: n d z a r a n e a { ` i k g k u v i ^ a | i | d b o r i | j e t a d i ^
+[sample: sm04300104345, WER: 80%, TER: 40.625%, total WER: 100.151%, total TER: 35.594%, progress (thread 0): 83.2618%]
+|T|: i z v j e { t a j | p o m o r s k o g | m e t e o r o l o { k o g | c e n t r a
+|P|: o s c t m r | c s t i a | m o v o | s p | v j | t | v r o | o i s k o | p m e m i r a
+[sample: sm04300104367, WER: 225%, TER: 75%, total WER: 100.339%, total TER: 35.685%, progress (thread 0): 83.691%]
+|T|: a | o | v r e m e n u | m a l i j a | m o k o r i ^
+|P|: a v o u v r e m e n o | u l n m a | j a m o | k o r i u ^
+[sample: sm04310105213, WER: 100%, TER: 42.3077%, total WER: 100.339%, total TER: 35.6949%, progress (thread 0): 84.1202%]
+|T|: g e s e d a m n a e s t | p l u s | m i r o lj u b a | l a b u s a
+|P|: d v j e s e d a m n | s t p v e u s a v | r a v r e d b a v a b u s a
+[sample: sm04300104214, WER: 100%, TER: 54.5455%, total WER: 100.338%, total TER: 35.7307%, progress (thread 0): 84.5494%]
+|T|: { e v k u | e f e n d i | o m e r b a { i ^ u
+|P|: { ~ { ~ e | k u | i e n m | d i | k o n e r | b a { i ^ u
+[sample: sm04300104361, WER: 200%, TER: 47.8261%, total WER: 100.45%, total TER: 35.7467%, progress (thread 0): 84.9785%]
+|T|: a | p o l i c i j a | n a d z i r e | s v e | u l a z e | u | m e k u
+|P|: a | p | l i d c j e n a d t i r e z s e | u l a z a e d u | u m e k
+[sample: sm04300104228, WER: 85.7143%, TER: 34.2857%, total WER: 100.412%, total TER: 35.7438%, progress (thread 0): 85.4077%]
+|T|: n a k o n | p o s j e t a | o t o k u | b r a ~ u | i | s p l i t u
+|P|: n r n a k o | p o s j e t e o | o t o k u | b r a ~ u | s t r i k t u
+[sample: sm04300104305, WER: 66.6667%, TER: 29.4118%, total WER: 100.336%, total TER: 35.7315%, progress (thread 0): 85.8369%]
+|T|: v a t r o g a s a c a | i | s l u ` b i | s p a { a v a nj a
+|P|: v a t r e j g a | a s a | t | c a | i s | v u ` p b i s t a | { a v a nj
+[sample: sm04300104231, WER: 175%, TER: 50%, total WER: 100.448%, total TER: 35.7559%, progress (thread 0): 86.2661%]
+|T|: z a t v o r e n e | s u | i | i z l o ` b e | p t i c a
+|P|: d z a v o r e n e r s u i | i | z v e o ` b e k t i c a
+[sample: sm04300104238, WER: 80%, TER: 32.1429%, total WER: 100.41%, total TER: 35.7501%, progress (thread 0): 86.6953%]
+|T|: b i o m e t e o r o l o { k a | p r o g n o z a | z a | s u t r a
+|P|: b i o m e t e o r o l o { k a | p r o g n o z a | z a | s u t r
+[sample: sm04300104363, WER: 25%, TER: 3.0303%, total WER: 100.297%, total TER: 35.6887%, progress (thread 0): 87.1245%]
+|T|: o v a | v l a d a | z a s a d | t o | n e | p l a n i r a | u ~ i n i t i
+|P|: o v o | o v l a d a z a | s a t o n e | p l a n i h | r | u | ~ j n i t i
+[sample: sm04300104324, WER: 100%, TER: 32.4324%, total WER: 100.297%, total TER: 35.6818%, progress (thread 0): 87.5536%]
+|T|: j e s t | j a m s t v o | o d o b r e n o | h a ` e u
+|P|: v j e s t nj a m o s t k v o | o | d o p r e n o | h a r ` e u o u
+[sample: sm04300104321, WER: 100%, TER: 37.037%, total WER: 100.296%, total TER: 35.6839%, progress (thread 0): 87.9828%]
+|T|: t e | d o d a o | k a k o | v i r u s | p t i ~ j e | g r i p e
+|P|: d r d o d a o | k a | k o | v i u | s k r t i t ~ j i | r i k t a e
+[sample: sm04300104243, WER: 100%, TER: 43.75%, total WER: 100.296%, total TER: 35.6985%, progress (thread 0): 88.412%]
+|T|: i | t u | d u ` n o s t | p r e p u s t i o | d e s u
+|P|: i t u | d u ` n o s k t o r | p u s t i e o | d e | e t a e s
+[sample: sm04300104220, WER: 100%, TER: 44.4444%, total WER: 100.295%, total TER: 35.7119%, progress (thread 0): 88.8412%]
+|T|: u r e d n i c a | j e | b r a n k a | j e l i ^
+|P|: u r e n i c a e | e | u | b p r l a n a e a e a i j | k l i | k ^
+[sample: sm04300104304, WER: 150%, TER: 66.6667%, total WER: 100.368%, total TER: 35.7538%, progress (thread 0): 89.2704%]
+|T|: i | n o v e | s r b i j e | v e l i m i r a | i l i ^ a
+|P|: i n o v e | s a e r | b i j e | g e l i m e i r a | i l i ^ a
+[sample: sm04300104215, WER: 80%, TER: 21.4286%, total WER: 100.331%, total TER: 35.7312%, progress (thread 0): 89.6996%]
+|T|: p r o m a r | i | k o m p a s | h r v a t s k a
+|P|: k r o m a r e t | i k o m p a s h a r v a s k
+[sample: sm04300104328, WER: 100%, TER: 33.3333%, total WER: 100.33%, total TER: 35.728%, progress (thread 0): 90.1288%]
+|T|: k r o z | p o v e ^ a nj e | c i j e n e | b e n z i n a
+|P|: k o j a | s p o v e | ^ a nj | o e c | i j e | d a e b e a | e z i u n a
+[sample: sm04300104323, WER: 175%, TER: 60.7143%, total WER: 100.44%, total TER: 35.7673%, progress (thread 0): 90.5579%]
+|T|: d o | i s l a m s k i h | s v e t i { t a
+|P|: u d a | d o | i g s l a | s k i | s v e r t i { t a | a
+[sample: sm04300104234, WER: 166.667%, TER: 47.619%, total WER: 100.512%, total TER: 35.7813%, progress (thread 0): 90.9871%]
+|T|: a | d i o | j e | p r e n e s e n | u | o v u | g o d i n u
+|P|: a | d i u o | p r n e s e | v o | u | u | g o d i n u
+[sample: sm04300104317, WER: 57.1429%, TER: 33.3333%, total WER: 100.402%, total TER: 35.7771%, progress (thread 0): 91.4163%]
+|T|: n a j v e ^ a | s t a v k a | k a ` u | u | v l a d i
+|P|: v n e a e v e ^ a s t a | t k v a | a o ` u l a d i
+[sample: sm04300104320, WER: 100%, TER: 48.1481%, total WER: 100.401%, total TER: 35.7958%, progress (thread 0): 91.8455%]
+|T|: n a j v j e r o j a t n i j e | z a | t j e d a n | d a n a
+|P|: n a l u d j r a | a | i | e z e r | k i e r a z | n d a | a | a
+[sample: sm04300104351, WER: 200%, TER: 66.6667%, total WER: 100.546%, total TER: 35.8476%, progress (thread 0): 92.2747%]
+|T|: k a d | ^ e | s e | s j e d n i c a | n a s t a v i t i
+|P|: k a ^ i e | s e | s e d n c a n a s t a j v i t i
+[sample: sm04300104350, WER: 80%, TER: 25%, total WER: 100.509%, total TER: 35.8306%, progress (thread 0): 92.7039%]
+|T|: k a k o | s e | n a v o d i | u | p r i o p ^ e nj u
+|P|: k a k g | s e n a v u o d i u | p r i j o e ^ e nj lj u
+[sample: sm04311204424, WER: 100%, TER: 26.9231%, total WER: 100.508%, total TER: 35.8177%, progress (thread 0): 93.133%]
+|T|: i | d a | j e | s t a nj e | p o d | n a d z o r o m
+|P|: i d e s t a nj u o | p o t i n a c a e r o m
+[sample: sm04300104245, WER: 100%, TER: 46.1538%, total WER: 100.507%, total TER: 35.8327%, progress (thread 0): 93.5622%]
+|T|: a k t u a l n o | u | s e d a m n a e s t
+|P|: a | a t u a u | n o u | s e d a m n e s | t
+[sample: sm04300104302, WER: 166.667%, TER: 33.3333%, total WER: 100.578%, total TER: 35.8298%, progress (thread 0): 93.9914%]
+|T|: d a | ^ e | s e | n a k n a d n o | o d r e d i t i
+|P|: t a | } e s e a | n a | a | o l z r e d i t i
+[sample: sm04300104349, WER: 100%, TER: 42.3077%, total WER: 100.577%, total TER: 35.8391%, progress (thread 0): 94.4206%]
+|T|: u | i s t o ~ n o m | d i j e l u | z e m lj e
+|P|: u | j i s t o ~ m o m n d j e l u | z e m lj j e
+[sample: sm04300104365, WER: 75%, TER: 21.7391%, total WER: 100.54%, total TER: 35.8211%, progress (thread 0): 94.8498%]
+|T|: j o { | n i j e | s t i g a o | d o | i n d i j e
+|P|: j o | { nj n | j e s t i k g o | o d o e i n | d i | j
+[sample: sm04300104244, WER: 120%, TER: 44%, total WER: 100.575%, total TER: 35.8325%, progress (thread 0): 95.279%]
+|T|: z a | v r i j e m e | s t a n k e
+|P|: z a v a e j | n e s t a n s e | i
+[sample: sm04300104335, WER: 100%, TER: 52.9412%, total WER: 100.575%, total TER: 35.8485%, progress (thread 0): 95.7082%]
+|T|: g r a d o n a ~ e l n i k | b u l i ~ i ^
+|P|: a k a r n | n a ~ e d n i | b o l i ~ i
+[sample: sm04300104311, WER: 150%, TER: 42.8571%, total WER: 100.61%, total TER: 35.8567%, progress (thread 0): 96.1373%]
+|T|: s e d a m n a e s t | j e | s a t i
+|P|: t s e d a n a e t i e | s t a k a c
+[sample: sm04300104301, WER: 100%, TER: 50%, total WER: 100.61%, total TER: 35.8707%, progress (thread 0): 96.5665%]
+|T|: z a | k o j i m a | s e | t r a g a
+|P|: z a k r o j m o s e | t r a g k a
+[sample: sm04300104357, WER: 100%, TER: 33.3333%, total WER: 100.609%, total TER: 35.8682%, progress (thread 0): 96.9957%]
+|T|: u | p u n t a | a r e n a s u
+|P|: u p u e n t a r e j e n a | s
+[sample: sm04300104315, WER: 100%, TER: 46.6667%, total WER: 100.608%, total TER: 35.8771%, progress (thread 0): 97.4249%]
+|T|: o ~ e v i d | j e | u | t i j e k u
+|P|: o ~ e v i d i j u ^ i j e | t | k
+[sample: sm04300104339, WER: 100%, TER: 50%, total WER: 100.607%, total TER: 35.8911%, progress (thread 0): 97.8541%]
+|T|: r e k a o | j e | n o v i n a r i m a | u z d a h
+|P|: r a r e k a o | i n o v i n e r i m a
+[sample: sm04300104348, WER: 100%, TER: 48%, total WER: 100.606%, total TER: 35.9077%, progress (thread 0): 98.2833%]
+|T|: h r v a t s k i | r a d i o
+|P|: v k r v a t r k i e r a t i l u
+[sample: sm04300104303, WER: 100%, TER: 50%, total WER: 100.606%, total TER: 35.9185%, progress (thread 0): 98.7124%]
+|T|: t e | d e s e
+|P|: t e d | d e s e
+[sample: sm04300104216, WER: 100%, TER: 14.2857%, total WER: 100.605%, total TER: 35.9102%, progress (thread 0): 99.1416%]
+|T|: p r e d s j e d a t e lj
+|P|: d e d j e t a j e i
+[sample: sm04300104221, WER: 100%, TER: 50%, total WER: 100.605%, total TER: 35.9195%, progress (thread 0): 99.5708%]
+|T|: d e s a
+|P|: d e s a
+[sample: sm04300104217, WER: 100%, TER: 0%, total WER: 100.605%, total TER: 35.9116%, progress (thread 0): 100%]
