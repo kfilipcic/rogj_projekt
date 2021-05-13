@@ -1,0 +1,6 @@
+--am=/root/rogj_projekt/models/001_model_last.bin
+--test=test.lst
+--maxload=300
+--showletters=true
+--show=true
+--logtostderr=true

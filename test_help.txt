@@ -1,0 +1,427 @@
+fl_asr_test: Usage: Please refer to https://git.io/JvJuR
+
+  Flags from /build/gflags-0sowem/gflags-2.2.2/src/gflags.cc:
+    -flagfile (load flags from file) type: string default: ""
+    -fromenv (set flags from the environment [use 'export FLAGS_flag1=value'])
+      type: string default: ""
+    -tryfromenv (set flags from the environment if present) type: string
+      default: ""
+    -undefok (comma-separated list of flag names that it is okay to specify on
+      the command line even if the program does not define a flag with that
+      name.  IMPORTANT: flags in this list that have arguments MUST use the
+      flag=value format) type: string default: ""
+
+  Flags from /build/gflags-0sowem/gflags-2.2.2/src/gflags_completions.cc:
+    -tab_completion_columns (Number of columns to use in output for tab
+      completion) type: int32 default: 80
+    -tab_completion_word (If non-empty, HandleCommandLineCompletions() will
+      hijack the process and attempt to do bash-style command line flag
+      completion on this value.) type: string default: ""
+
+  Flags from /build/gflags-0sowem/gflags-2.2.2/src/gflags_reporting.cc:
+    -help (show help on all flags [tip: all flags can have two dashes])
+      type: bool default: false currently: true
+    -helpfull (show help on all flags -- same as -help) type: bool
+      default: false
+    -helpmatch (show help on modules whose name contains the specified substr)
+      type: string default: ""
+    -helpon (show help on the modules named by this flag value) type: string
+      default: ""
+    -helppackage (show help on all modules in the main package) type: bool
+      default: false
+    -helpshort (show help on only the main module for this program) type: bool
+      default: false
+    -helpxml (produce an xml version of help) type: bool default: false
+    -version (show version and build info and exit) type: bool default: false
+
+
+
+  Flags from /root/flashlight/flashlight/app/asr/common/Flags.cpp:
+    -adambeta1 ([train] Beta1 parameter in the Adam, AMSGrad and NovoGrad
+      optimizers) type: double default: 0.90000000000000002
+    -adambeta2 ([train] Beta2 parameter in the Adam, AMSGrad and NovoGrad
+      optimizers) type: double default: 0.999
+    -am (path/to/acoustic_model, used also to continue and fork training)
+      type: string default: ""
+    -am_decoder_tr_dropout ([train]: 'transformer' criterion decoder
+      architecture: dropout) type: double default: 0
+    -am_decoder_tr_layerdrop ([train]: 'transformer' criterion decoder
+      architecture: layerdrop) type: double default: 0
+    -am_decoder_tr_layers ([train]: 'transformer' criterion decoder
+      architecture: number of layers) type: int64 default: 1
+    -arch ([train] Network architecture file path) type: string
+      default: "default"
+    -attention ([train] 'seq2seq'/'transformer' criterion: attention type in
+      the encoder-decoder, supported options: 'content', 'keyvalue',
+      'location', 'multi', 'multikv', 'multisplit', 'multikvsplit', 'neural',
+      'neuralloc', 'simpleloc') type: string default: "content"
+    -attentionthreshold ([train] Hard attention limit in seq2seq decoder only
+      for 'seq2seq' criterion) type: int32 default: 2147483647
+    -attnWindow ([train] 'seq2seq'/'transformer' criterion: attention window
+      type in the encoder-decoder, supported options: 'median', 'no', 'soft',
+      'softPretrain', 'step') type: string default: "no"
+    -attnconvchannel ([train] 'seq2seq'/'transformer' criterion: number of
+      convolutional channels for location attention) type: int64 default: 0
+    -attnconvkernel ([train] 'seq2seq'/'transformer' criterion: kernel width
+      for location attention) type: int64 default: 0
+    -attndim ([train] 'seq2seq'/'transformer' criterion: dimension of neural
+      location attention) type: int64 default: 0
+    -batching_max_duration (Maximum number of tokens/frames in the batch when
+      using 'dynamic' batching strategy. Measured with the same unit as input
+      sizes are specified in data list files) type: int64 default: 0
+    -batching_strategy (Batching strategy to use, supports {'none', 'dynamic',
+      'rand', 'randdynamic'}. When using 'none' strategy then batches of size
+      'batchsize' are created. When using 'dynamic' batching for training,
+      'batchsize' will be ignored and 'max_tokens' will be used to compute the
+      effective batch size. To use unordered input data to pack batches, use
+      either 'rand' or 'randdynamic' which shuffles data before packing,  then
+      follows the same packing strategies as 'none' or 'dynamic',
+      respectively.) type: string default: "none"
+    -batchsize ([train] Batch size for training data (per process in
+      distributed training)) type: int64 default: 1
+    -beamsize ([decode] Maximum overall beam size) type: int32 default: 2500
+    -beamsizetoken ([decode] Maximum beam for tokens selection) type: int32
+      default: 250000
+    -beamthreshold ([decode] beam score threshold for early pruning of
+      hypothesis) type: double default: 25
+    -channels (Number of input channels in training, validation and test audio
+      data) type: int64 default: 1
+    -criterion ([train] Training criterion to apply on top of network: 'asg',
+      'ctc', 'seq2seq' (seq2seq with attention rnn decoder), 'transformer'
+      (seq2seq with attention and transfromer decoder)) type: string
+      default: "asg"
+    -critoptim ([train] Optimizer for the criterion (for 'asg', 'seq2seq' and
+      'transformer' criterions), supported ones 'sgd', 'adam', 'rmsprop',
+      'adadelta', 'adagrad', 'amsgrad', 'novograd') type: string default: "sgd"
+    -datadir (Prefix to the 'train'/'valid'/'test' files paths) type: string
+      default: ""
+    -decoderattnround ([train] 'seq2seq' criterion decoder: the number of
+      decoder attention rounds) type: int64 default: 1
+    -decoderdropout ([train] 'seq2seq' criterion decoder: dropout) type: double
+      default: 0
+    -decoderrnnlayer ([train] 'seq2seq' criterion decoder: the number of
+      decoder rnn layers) type: int64 default: 1
+    -decodertype ([decode] Defines at which level language model should be
+      applied: 'wrd', 'tkn') type: string default: "wrd"
+    -devwin (Window length for delta and doubledelta derivatives) type: int64
+      default: 0
+    -emission_dir (path/to/emission_dir/ where emissions data will be stored)
+      type: string default: ""
+    -emission_queue_size ([test, decode] Maximum size of emission queue for
+      acoustic model forward pass) type: int32 default: 3000
+    -enable_distributed ([train] Enable distributed training) type: bool
+      default: false
+    -encoderdim ([train]: Dimension of encoded hidden state for 'seq2seq' and
+      'transformer' criterions) type: int64 default: 0
+    -eosscore ([decode] End-of-sentence insertion score (for decoding of
+      seq2seq with attention models)) type: double default: 0
+    -everstoredb (use Everstore db for reading data) type: bool default: false
+    -features_type (Features type to compute input by processing audio. Could
+      be mfcc: standard htk mfcc features; mfsc: standard mfsc features; pow:
+      standard power spectrum; raw: raw wave) type: string default: "mfsc"
+    -fftcachesize (Number of cached cuFFT plans in GPU memory) type: int64
+      default: 1
+    -filterbanks (Number of mel-filter bank channels, used also with
+      RawSpecAugment to define number of mel-scale bins) type: int64
+      default: 80
+    -fl_amp_max_scale_factor ([train] Maximum value for the loss scale factor
+      in mixed precision training) type: uint64 default: 32000
+    -fl_amp_scale_factor ([train] Starting scale factor to use for loss scaling
+      with mixed precision training) type: double default: 4096
+    -fl_amp_scale_factor_update_interval ([train] Update interval for adjusting
+      loss scaling in mixed precision training) type: uint64 default: 2000
+    -fl_amp_use_mixed_precision ([train] Use mixed precision for training -
+      scale loss and gradients up and down by a scale factor that changes over
+      time. If no fl optim mode is specified with --fl_optim_mode when passing
+      this flag, automatically sets the optim mode to O1.) type: bool
+      default: false
+    -fl_benchmark_mode ([train] Sets flashlight benchmark mode, which
+      dynamically benchmarks various operations based on their empirical
+      performance on current hardware throughout training) type: bool
+      default: true
+    -fl_log_level (Sets the logging level - must be [FATAL, ERROR, WARNING,
+      INFO]) type: string default: ""
+    -fl_log_mem_ops_interval (Flushes memory manager logs after a specified
+      number of log entries. 1000000 is a reasonable value which will reduce
+      overhead.) type: int64 default: 0
+    -fl_optim_mode ([train] Sets the flashlight optimization mode. Optim modes
+      can be O1, O2, or O3.) type: string default: ""
+    -fl_vlog_level (Sets the verbose logging level) type: int64 default: 0
+    -flagsfile (File specifying gflags, could specify only part of flags)
+      type: string default: ""
+    -framesizems (Window size in millisecond for power spectrum features)
+      type: int64 default: 25
+    -framestridems (Stride in milliseconds for power spectrum features)
+      type: int64 default: 10
+    -gamma ([train] Learning rate annealing multiplier, see detail in
+      'stepsize' flag) type: double default: 1
+    -gumbeltemperature ([train] 'seq2seq' criterion decoder: temperature in
+      gumbel softmax) type: double default: 1
+    -highfreqfilterbank (High freq filter bank (Hz). Is used also in
+      RawSpecAugment to define the highest frequecny bound for augmentation)
+      type: int64 default: -1
+    -inputfeeding ([train] 'seq2seq' criterion: feed encoder summary to the
+      decoder RNN) type: bool default: false
+    -isbeamdump ([decode] Dump the decoding beam to the disk) type: bool
+      default: false
+    -iter ([train] Total number of updates for training) type: int64
+      default: 9223372036854775807
+    -itersave (Save model or not at each update) type: bool default: false
+    -labelsmooth ([train] 'seq2seq'/'transformer' criterion: fraction to smooth
+      targets with uniform distribution.) type: double default: 0
+    -leftWindowSize ([train] 'seq2seq'/'transformer' criterion: left median
+      window width) type: int64 default: 50
+    -lexicon (path/to/lexicon.txt which contains on each row space separated
+      mapping of a word into tokens sequence) type: string default: ""
+    -linlr ([train] LinSeg: learning rate for network parameters (if < 0, use
+      lr)) type: double default: -1
+    -linlrcrit ([train] LinSeg criterion learning rate (if < 0, use lrcrit))
+      type: double default: -1
+    -linseg ([train] Number of updates of LinSeg to init transitions for ASG)
+      type: int64 default: 0
+    -lm ([decode] path/to/language_model) type: string default: ""
+    -lm_memory ([decode] Total memory size for batch forming for 'convlm' LM
+      forward pass) type: int32 default: 5000
+    -lm_vocab ([decode] path/to/lm_vocab.txt for the 'convlm' language model:
+      each token is mapped to its file row index) type: string default: ""
+    -lmtype ([decode] Language model type used along with acoustic model:
+      'kenlm', 'convlm') type: string default: "kenlm"
+    -lmweight ([decode] language model weight in the beam search) type: double
+      default: 0
+    -lmweight_high (language model weight (high boundary, search)) type: double
+      default: 4
+    -lmweight_low (language model weight (low boundary, search)) type: double
+      default: 0
+    -lmweight_step (language model weight (step, search)) type: double
+      default: 0.20000000000000001
+    -localnrmlleftctx (Left context size for local normalization of input audio
+      after featurization (computation of MFCC, etc.)) type: int64 default: 0
+    -localnrmlrightctx (Right context size for local normalization of input
+      audio after featurization (computation of MFCC, etc.)) type: int64
+      default: 0
+    -logadd ([decode] Use logadd operation when merging decoder nodes)
+      type: bool default: false
+    -lowfreqfilterbank (Low freq filter bank (Hz). Is used also in
+      RawSpecAugment to define the lowest frequecny bound for augmentation)
+      type: int64 default: 0
+    -lr ([train] Learning rate for the network parameters) type: double
+      default: 1
+    -lr_decay ([train] Epoch value when we start to decay 'lr'/'lrcrit')
+      type: int64 default: 9223372036854775807
+    -lr_decay_step ([train] Amount to decay 'lr' and 'lrcrit' starting from
+      epoch 'lr_decay') type: int64 default: 9223372036854775807
+    -lrcosine ([train] Use cosine learning rate schedule, see usage for more
+      details) type: bool default: false
+    -lrcrit ([train] Criterion learning rate (for 'asg', 'seq2seq' and
+      'transformer' criterions)) type: double default: 0
+    -max_devices_per_node ([train] The maximum number of devices per training
+      node) type: int64 default: 8
+    -maxdecoderoutputlen ('seq2seq'/'transformer' criterion: max decoder steps
+      during inference; (for 'transformer' cannot be changed after
+      initialization)) type: int64 default: 200
+    -maxgradnorm ([train] Maximum gradient norm to which gradients exceeding it
+      will be clipped (0 = no clipping)) type: double default: 0
+    -maxload ([test, decode] Maximum number of testing samples to process)
+      type: int32 default: -1
+    -maxrate ([train] 'seq2seq'/'transformer' criterion: maximum ratio between
+      the transcript and the encoded input lengths for the step window)
+      type: double default: 10
+    -maxsil ([train] 'seq2seq'/'transformer' criterion: maximum number of
+      leading silence frames for the step window) type: int64 default: 50
+    -maxword (Maximum number of words (rows) to use from the lexicon file)
+      type: int32 default: -1
+    -melfloor (Specify optional mel floor for mfcc/mfsc/pow) type: double
+      default: 1
+    -mfcccoeffs (Number of mfcc coefficients) type: int64 default: 13
+    -minrate ([train] 'seq2seq'/'transformer' criterion: minimum ratio between
+      the transcript and the encoded input lengths for the step window)
+      type: double default: 3
+    -minsil ([train] 'seq2seq'/'transformer' criterion: minimum number of
+      leading silence frames for the step window) type: int64 default: 0
+    -momentum ([train] Momentum factor used in SGD optimizer for network only)
+      type: double default: 0
+    -netoptim ([train] Optimizer for the network, supported ones 'sgd', 'adam',
+      'rmsprop', 'adadelta', 'adagrad', 'amsgrad', 'novograd') type: string
+      default: "sgd"
+    -nthread ([train] Number of threads for data parallelization (prefetching
+      the data)) type: int64 default: 1
+    -nthread_decoder ([decode] Number of threads for beam-search decoding)
+      type: int32 default: 1
+    -nthread_decoder_am_forward ([test, decoder] Number of threads for acoustic
+      model forward) type: int32 default: 1
+    -numattnhead ([train] 'seq2seq'/'transformer' criterion: number of heads
+      for multihead attention) type: int64 default: 8
+    -onorm ([train] Criterion normalization mode. One of: {'none' - no
+      normalization, 'target' - by target size, 'input' - by input size})
+      type: string default: "none"
+    -optimepsilon ([train] Epsilon parameter in the Adam, AMSGrad, NovoGrad,
+      Adadelta, RMSProp and Adagrad optimizers) type: double default: 1e-08
+    -optimrho ([train] Rho parameter in the RMSProp and Adadelta optimizers)
+      type: double default: 0.90000000000000002
+    -pctteacherforcing ([train] 'seq2seq'/'transformer' criterion: percentage
+      of steps to train using teacher forcing) type: int64 default: 100
+    -pcttraineval ([train] Percentage of training set (by number of utts) to
+      use for evaluation) type: double default: 100
+    -pretrainWindow ([train] 'seq2seq'/'transformer' criterion: use
+      force-aligned diagonal attention windowin training for 'pretrainWindow'
+      updates) type: int64 default: 0
+    -replabel (Replace up to replabel reptitions by additional token classes)
+      type: int64 default: 0
+    -reportiters ([train] Number of updates after which we will run evaluation
+      on validation data     and save model, if 0 we only do this at end of
+      each epoch) type: int64 default: 0
+    -rightWindowSize ([train] 'seq2seq'/'transformer' criterion: right median
+      window width) type: int64 default: 50
+    -rndv_filepath ([train] Shared file path used for setting up rendezvous.If
+      empty, uses MPI to initialize.) type: string default: ""
+    -rundir ([train] Name of the experiment root directory where logs,
+      snapshots will be stored) type: string default: ""
+    -samplerate (Sample rate (Hz) for training, validation and test audio data)
+      type: int64 default: 16000
+    -sampletarget (The probability [0.0, 1.0] with which targets are randomly
+      sampled from a lexicon if multiple token constructions exist for a given
+      word) type: double default: 0
+    -samplingstrategy ([train] 'seq2seq'/'transformer' criterion: sampling
+      strategy to use when `pctteacherforcing` < 100. One of: {'rand',
+      'model'}) type: string default: "rand"
+    -saug_fmaskf ([train] Maximum number of frequency bands / mel-scale bands
+      that are masked in SpecAugment/RawSpecAugment) type: int64 default: 27
+    -saug_fmaskn ([train] Number of frequency masks in
+      SpecAugment/RawSpecAugment) type: int64 default: 2
+    -saug_start_update ([train] Use SpecAugment starting at the update number
+      inputted. -1 means no SpecAugment. In case of raw wav input ('mfcc',
+      'pow' and 'mfsc' are all false) we apply RawSpecAugment which emulates
+      behaviour of SpecAugment) type: int64 default: -1
+    -saug_tmaskn ([train] Number of time masks in SpecAugment/RawSpecAugment)
+      type: int64 default: 2
+    -saug_tmaskp ([train] Maximum proportion of the input sequence (1.0 is
+      100%) that can be masked in time for SpecAugment/RawSpecAugment)
+      type: double default: 1
+    -saug_tmaskt ([train] Maximum number of frames (input elements) that are
+      masked in SpecAugment/RawSpecAugment) type: int64 default: 100
+    -sclite ([decode] path/to/sclite to be written) type: string default: ""
+    -seed ([train] Manually specify Arrayfire seed for reproducibility)
+      type: int64 default: 0
+    -sfx_config ([train] Path to a sound effect json config file. When set the
+      sound effect is applied to augment the input data.) type: string
+      default: ""
+    -sfx_start_update ([train] Start sount effect augmentation starting at this
+      update iteration.) type: int64 default: 2147483647
+    -show ([test, decode] Show predictions in the stdout) type: bool
+      default: false
+    -showletters ([decode] Show tokens predictions in the stdout) type: bool
+      default: false
+    -silscore ([decode] word separator insertion score) type: double default: 0
+    -smearing ([decode] How to perform trie smearing to have proxy on scores in
+      the middle of a word: 'none', 'max' or 'logadd') type: string
+      default: "none"
+    -smoothingtemperature ([train] Smoothening the probability distribution in
+      seq2seq decoder of 'seq2seq' and 'transformer' criterions) type: double
+      default: 1
+    -softwoffset ([train] 'seq2seq'/'transformer' criterion: offset for the
+      soft window center (= offset + step * rate)) type: int64 default: 10
+    -softwrate ([train] 'seq2seq'/'transformer' criterion: moving rate for the
+      soft window center (= offset + step * rate)) type: double default: 5
+    -softwstd ([train] 'seq2seq'/'transformer' criterion: std for the soft
+      window shape (=exp(-(t - center)^2 / (2 * std^2)))) type: double
+      default: 5
+    -sqnorm ([train] Use square-root while normalizing criterion loss with
+      'onorm' mode) type: bool default: false
+    -stepsize ([train] Learning rate schedule if 'lrcosine=false'.We multiply
+      'lr'/'lrcrit' by 'gamma' every 'stepsize' updates) type: int64
+      default: 9223372036854775807
+    -surround (Surround target tokens sequence with provided token (duplicates
+      are removed)) type: string default: ""
+    -test ([test, decode] Comma-separated list of test files where each row
+      specifies sample information in the format [sample_id audio_absolute_path
+      size transcription]) type: string default: ""
+    -tokens (Tokens file path, the 'tokensdir' flag is used as a prefix for
+      this path) type: string default: "tokens.txt"
+    -train ([train] Comma-separated list of training files where each row
+      specifies sample information in the format [sample_id audio_absolute_path
+      size transcription]) type: string default: ""
+    -trainWithWindow ([train] 'seq2seq'/'transformer' criterion: use
+      force-aligned diagonal attention window during the whole training)
+      type: bool default: false
+    -transdiag ([train] 'asg' criterion: initial value along diagonal of ASG
+      transition matrix) type: double default: 0
+    -unkscore ([decode] unknown word insertion score) type: double
+      default: -inf
+    -use_memcache (use Memcache for reading data) type: bool default: false
+    -uselexicon ([test, decode] Use lexicon file to map between words and
+      tokens sequence) type: bool default: true
+    -usewordpiece (Specify if a word separator can be used inside of a token.
+      Should be used if the SentencePiece tool is used to construct a token set
+      containing word-pieces) type: bool default: false
+    -valid ([train] Comma-separated list of validation files where each row
+      specifies sample information in the format [sample_id audio_absolute_path
+      size transcription]) type: string default: ""
+    -validbatchsize ([train] Batch size for validation data (per process in
+      distributed training). If -1 then use the value of the 'batchsize' flag)
+      type: int64 default: -1
+    -warmup ([train] Number of updates for warmup learning rate from 0 to
+      'lr'/'lrcrit' for network/criterion) type: int64 default: 1
+    -weightdecay ([train] Weight decay (L2 penalty) for optimization for
+      network only) type: double default: 0
+    -wordscore ([decode] word insertion score for lexicon-based decoding)
+      type: double default: 0
+    -wordseparator (Defines a word separator token used to map tokens sequences
+      to words. Defaults to a pre-defined value.) type: string default: "|"
+    -world_rank ([train] Rank of the process (Used if rndv_filepath is not
+      empty)) type: int64 default: 0
+    -world_size ([train] Total number of the processes (Used if rndv_filepath
+      is not empty)) type: int64 default: 1
+
+
+
+  Flags from src/logging.cc:
+    -alsologtoemail (log messages go to these email addresses in addition to
+      logfiles) type: string default: ""
+    -alsologtostderr (log messages go to stderr in addition to logfiles)
+      type: bool default: false
+    -colorlogtostderr (color messages logged to stderr (if supported by
+      terminal)) type: bool default: false
+    -drop_log_memory (Drop in-memory buffers of log contents. Logs can grow
+      very quickly and they are rarely read before they need to be evicted from
+      memory. Instead, drop them from memory as soon as they are flushed to
+      disk.) type: bool default: true
+    -log_backtrace_at (Emit a backtrace when logging at file:linenum.)
+      type: string default: ""
+    -log_dir (If specified, logfiles are written into this directory instead of
+      the default logging directory.) type: string default: ""
+    -log_link (Put additional links to the log files in this directory)
+      type: string default: ""
+    -log_prefix (Prepend the log prefix to the start of each log line)
+      type: bool default: true
+    -logbuflevel (Buffer log messages logged at this level or lower (-1 means
+      don't buffer; 0 means buffer INFO only; ...)) type: int32 default: 0
+    -logbufsecs (Buffer log messages for at most this many seconds) type: int32
+      default: 30
+    -logemaillevel (Email log messages logged at this level or higher (0 means
+      email all; 3 means email FATAL only; ...)) type: int32 default: 999
+    -logfile_mode (Log file mode/permissions.) type: int32 default: 436
+    -logmailer (Mailer used to send logging email) type: string
+      default: "/bin/mail"
+    -logtostderr (log messages go to stderr instead of logfiles) type: bool
+      default: false
+    -max_log_size (approx. maximum log file size (in MB). A value of 0 will be
+      silently overridden to 1.) type: int32 default: 1800
+    -minloglevel (Messages logged at a lower level than this don't actually get
+      logged anywhere) type: int32 default: 0
+    -stderrthreshold (log messages at or above this level are copied to stderr
+      in addition to logfiles.  This flag obsoletes --alsologtostderr.)
+      type: int32 default: 2
+    -stop_logging_if_full_disk (Stop attempting to log to disk if the disk is
+      full.) type: bool default: false
+
+  Flags from src/utilities.cc:
+    -symbolize_stacktrace (Symbolize the stack trace in the tombstone)
+      type: bool default: true
+
+  Flags from src/vlog_is_on.cc:
+    -v (Show all VLOG(m) messages for m <= this. Overridable by --vmodule.)
+      type: int32 default: 0
+    -vmodule (per-module verbose level. Argument is a comma-separated list of
+      <module name>=<log level>. <module name> is a glob pattern, matched
+      against the filename base (that is, name ignoring .cc/.h./-inl.h). <log
+      level> overrides any value given by --v.) type: string default: ""
