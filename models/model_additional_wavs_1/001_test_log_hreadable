@@ -1,0 +1,1200 @@
+|T| izvještaj pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda počinje upozorenjem uzdah
+|P| vijzsvještaj pom rskogpmeteorološkog centra split držao n titdrometorološkog zavoda poči nje u pozo renjjem uzdah m j stimice u dervi južno g jugoz adno jetra i de se d četrdeset v oro ova ah je m oći tra jeverno dielu srednje jad ra na o g u ući n e e i vi
+[sample: m08030702301, WER: 454.545%, TER: 151.429%, total WER: 454.545%, total TER: 151.429%, progress (thread 0): 0.333333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati sil vjetar južni i jugozapadni sil ponegdje sjeverozapadni šest do osamnaest čvorova
+|P| pvmpdaha vh v premenska prognoza za jadran za prvih dvanaest sati l vjetar južni i jugozapdadni il l poneg dj sjeverozapadni šest do osanest čvorova uzdah a na južnom dijelu srednjeg jadrana na početku jugo trijnaest do vadet pečvorovo uzdah pozo će oslabjt
+[sample: m04040502404, WER: 145%, TER: 94.1176%, total WER: 254.839%, total TER: 119.087%, progress (thread 0): 0.666667%]
+
+|T| današnji izvještaj o vodostaju rijeka sil dunav sil budimpešta tri nula jedan tristo jedan
+|P| dalnaešieiz jšte v do tejv ri jetka sdijd d dunvav sl dudimpešta tri n ula jedan trista jaedan zdah vu k ova r dva četiri nula dvesto četr deset zdah ilok i dva se dam šes t djest o setdamdeset šest
+[sample: m04050502101, WER: 278.571%, TER: 147.191%, total WER: 262.222%, total TER: 126.667%, progress (thread 0): 1%]
+
+|T| na južnom i srednjem jadranu uzdah udari juga od trideset do četrdeset čvorova će oslabjeti uzdah
+|P| vah na južnom i sred njm jadranu u a udar jugda otrideset do oćetareset čvorova e o slabj ti zda s jeverom jad n m jes ti ice e e ini u da a n o ć su mo guć naenj eg us sta om je elu s svstanje
+[sample: m11040502302, WER: 268.75%, TER: 118.75%, total WER: 263.934%, total TER: 124.883%, progress (thread 0): 1.33333%]
+
+|T| more dva do tri noću jedan do dva sil vidljivost deset do dvadeset kilometara uzdah
+|P| more dva do trino ć jedado drva i vidljivostad desedo dvades kilometara u da h promljennjivo oblačno i tpopllje z d ljuš ponegdje poslij pogena južnom i dilj elu sre njeg jadrana kiša ni pljuskov glaloam dužobala
+[sample: m11210502304, WER: 226.667%, TER: 174.39%, total WER: 256.579%, total TER: 132.874%, progress (thread 0): 1.66667%]
+
+|T| na otvorenome moru sjeverozapadni vjetar pet do petnaest čvorova more dva do tri
+|P| uzdah na otvoranom moru sjeverozapadni vjetar peto pednaest čvorovo more dva dodtri uzdah na otvorenom junog jadrana i u odtransti vradima ponegdje četiri uah vilivos dvadeset kilometarapretežito rejedr
+[sample: m04300502301, WER: 176.923%, TER: 163.75%, total WER: 244.944%, total TER: 137.075%, progress (thread 0): 2%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati uzdah
+|P| vremenska prognoza za siedeći dvanaest sati uzdah prjeteržitobetdro sla sje verozapadi vjetar uz oba lu u jutro slab burin u velebitskomgkanalu slaba u mjerena bura ba ozao će oslabiti
+[sample: m08080702204, WER: 342.857%, TER: 265.385%, total WER: 252.083%, total TER: 147.5%, progress (thread 0): 2.33333%]
+
+|T| u noći i ujutro na sjevernom i dijelu srednjeg jadrana magla sil stanje uzdah
+|P| munoći ujuprona sjevernom i dijelu srednjeg gjadrana ma agla s stanje ručj jadranaj podbuticajemprosprano g ci kplonalo custava sa zapadnaev ro pet e zapadno i srednjig srebrozaem lja
+[sample: m01090502202, WER: 185.714%, TER: 154.667%, total WER: 243.636%, total TER: 148.252%, progress (thread 0): 2.66667%]
+
+|T| more u velebitskom kanalu i na otvorenom samo ponegdje četiri do pet stanje uzdah
+|P| nmzmorogre ebistsku kaenaolujin otforano sa o ponegdije četiri do preta s s ta nje uzdh be an tei tlona se sjevrae jača pra ma jadranuv i joskomoru o da de st do vina polako polaš čei premaistoku
+[sample: m05081202202, WER: 250%, TER: 170%, total WER: 244.355%, total TER: 150.44%, progress (thread 0): 3%]
+
+|T| jutarnja temperatura od jedanaest do petnaest na jadranu od petnaest do dvadeset uzdah
+|P| judrnjat temperatura j danaet do petnaest na jadranuo etna est do dvadeset zda naj i ša dnena o dusamna etst do dvadeset tri uslavoni u od dvadeset četiri do dadeset eda stu ptnjedva
+[sample: m08080502403, WER: 207.692%, TER: 130.588%, total WER: 240.876%, total TER: 148.523%, progress (thread 0): 3.33333%]
+
+|T| a na južnom jadranu mjestimice kiša uzdah sunce na sjevernom jadranu a poslijepodne ponegdje i u greska sjeverozapadnim predjelima
+|P| ana južnom jadran je s timice iša uzdah sun a a s ev rnom j adranum a poslij p odnae pomnegdje i u se sjeverozapadnim predje li a a zdah ha e slab mjeven sjevero istočnja zah
+[sample: m08240103402, WER: 173.684%, TER: 51.5385%, total WER: 232.692%, total TER: 136.04%, progress (thread 0): 3.66667%]
+
+|T| vremenska prognoza za poslijepodne sil većinom oblačno sil sunčano mjestimice u istočnim predjelima i u dalmaciji
+|P| vremenska prognoza za poslijepordne l pvećinom oblačno sisl sunča no jestmjiceu istočem prederi a iu dalamaci zdah na ja dran će ponegdje pasi slada kiša a utrašnjosti slab snieje
+[sample: m04111202101, WER: 156.25%, TER: 74.3363%, total WER: 225.581%, total TER: 129.831%, progress (thread 0): 4%]
+
+|T| ponegdje u početku zapadnjak od četiri do dvanaest čvorova more dva do tri uzdah u smirivanju na jedan do dva
+|P| ponegdje početk u zapadnjak kod četdiri do dvanas varova more dvado tri zdah užmivanju na jedanpodva uzah vidljivos deset do dvadeset kilometara u ponegdjok četirikirlo metrazbog sumagleice
+[sample: m04250502303, WER: 110%, TER: 94.3925%, total WER: 213.542%, total TER: 126.748%, progress (thread 0): 4.33333%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati uzdah
+|P| vremenska prognoza za uiljedećih dvanaest sati uda prom jeniv oblačno na sjevrno m dielu srednje ja dana mjestimice kiša i tratko trajni pljusko i jus krmljavinu i manje os vježenje
+[sample: m08030702305, WER: 357.143%, TER: 248.077%, total WER: 218.593%, total TER: 131.669%, progress (thread 0): 4.66667%]
+
+|T| jutarnja temperatura od minus devet do minus četiri na jadranu od minus dva do tri uzdah
+|P| jutarnja temparatura odminusz gevet do minu s četiri na jadranuod minus dva do tri uzdah a najv š a dnevna o minustri do va na jadranu o pet do deset stupnjeva
+[sample: m08130203403, WER: 156.25%, TER: 87.3563%, total WER: 213.953%, total TER: 128.853%, progress (thread 0): 5%]
+
+|T| na otvorenom moru do dvadeset dva do kraja dana okrenut će na sjevernom dijelu a u noći i na srednjem jadranu
+|P| na o tvorenom mo or do dva dese va do kr a da na o renomg će e na sjve no di el a u noć i na srednj jadranu a u u dvadeset pe dou dva dese osam ču o rova
+[sample: m01280602204, WER: 152.381%, TER: 64.8148%, total WER: 208.475%, total TER: 124.171%, progress (thread 0): 5.33333%]
+
+|T| zadržati će se promjenjljivo bit će sunčanih razdoblja ali uz povremeno povećanu naoblaku uzdah
+|P| zadržet će se promnjjenio vi aet s unčani razdob lja ali u povrema no poveće n m na obl akuz uoža biti tišeili plju kova jesti mice ugla vnom jadranu te ugorskom k o ar ilicei t
+[sample: m08080502405, WER: 242.857%, TER: 110.638%, total WER: 210.4%, total TER: 123.361%, progress (thread 0): 5.66667%]
+
+|T| umjereno do znatno oblačno a sunčanih će razdoblja biti uglavnom prijepodne u unutrašnjosti uzdah mjestimice kiša i pljuskovi ponajprije u gorskim predjelima i dalmaciji uzdah
+|P| u u umjereno do ozma no oblačno sunčani e razdo da bi i uglavnom trije po odnea unutrašnjnoasti uzd ah mj stimice iša i pljuskovi ponae pri j u gorskimpredjevi na i almaci uzdah
+[sample: m08110502302, WER: 104%, TER: 20.9302%, total WER: 200.727%, total TER: 113.253%, progress (thread 0): 6%]
+
+|T| vremenska prognoza za poslijepodne većinom sunčano povremeno s umjerenom naoblakom vjetar slab a na jadranu mjestimice umjeren jugozapadnjak navečer jugo
+|P| vremenska prognoza za poslijepodne većeinom sunčano povremeno sumjerenom na oblakom vjetar slaba na jadranu jestimice umjeren jugoza padnjak navi e če er jugo d a
+[sample: m01070502101, WER: 75%, TER: 9.86842%, total WER: 192.203%, total TER: 104.96%, progress (thread 0): 6.33333%]
+
+|T| u utorak i srijedu uglavnom oblačno na jadranu s kišom s a u unutrašnjosti u početku s kišom uzdah zatim a uz zahlađenje sa susnježicom i snijegom uzdah vjetar uglavnom slab
+|P| u utorak i srijedtu uglavnom oblačno na jadranu s kišom ka unutrašnjostiu početku s kišom uzdah a zatim uza laećenje sa sušnježicom i sninjjegom uzd h vjetar uglavnom s slabud a ah
+[sample: m04211202406, WER: 61.2903%, TER: 15.8824%, total WER: 179.755%, total TER: 97.6271%, progress (thread 0): 6.66667%]
+
+|T| vrijeme poslijepodne djelomice sunčano i razmjerno toplo u dalmaciji pokoji pljusak potkraj dana na sjevernome jadranu u gorskom kotaru i lici jača naoblaka i mjestimice kiša uzdah
+|P| vrijema p osliepodn ra dje omice sunčanoj rarzmbe o tokpo dalna ci pokoji tplju slak potkaj dalna na sjevernomejadranu ugor skou kotro lici jača naobloaka im mje stimice kiša udah
+[sample: m05040103101, WER: 100%, TER: 21.2291%, total WER: 173.654%, total TER: 91.533%, progress (thread 0): 7%]
+
+|T| uzdah vremenska prognoza za sutra sunčano poslijepodne mjestimice umjerena naoblaka vjetar u unutrašnjosti slab do umjeren južni i jugozapadni a na jadranu umjereno jugo
+|P| vremenska progtnoza za sutra suntčano posliebpodnemjestimice umjerena naoblaka bvjetar unutrašnjosti slab do umjeren juž i gozadbmijena jadranu u mjereno jugo
+[sample: z06210502401, WER: 54.1667%, TER: 15.4762%, total WER: 166.048%, total TER: 86.2355%, progress (thread 0): 7.33333%]
+
+|T| jutarnja temperatura u unutrašnjosti od minus deset do minus pet stupnjeva uzdah na jadranu od minus jedan ponegdje na sjevernom dijelu do jedanaest na južnom
+|P| jutarnja temperatura u unutrašnjonst o dminus deset t dominus etstupnjeva uzdah na jadranu pod minus jedan ponegdjena sjevrnom jeludo jedanaeststna južnom
+[sample: z01090103403, WER: 64%, TER: 10.9677%, total WER: 159.701%, total TER: 81.6907%, progress (thread 0): 7.66667%]
+
+|T| vjetar uglavnom slab na sjevernom i dijelu srednjeg jadrana slaba i umjerena u velebitskom kanalu jaka bura uzdah a duž ostalog dijela jadrana istočnjak i jugo
+|P| vjeta ruglavnom slab na sjevernomi dijaelu srednjeg d jadrana slab pa jumjerena uzdah u verebitkm kanalu jaka bura uzdah a doužlostalno djela jadrana istočćnja i jugo
+[sample: z05101202303, WER: 61.5385%, TER: 16.5605%, total WER: 153.738%, total TER: 77.9369%, progress (thread 0): 8%]
+
+|T| vremenska prognoza za sutra promjenljivo oblačno sa sunčanim razdobljima mjestimice kiša pljuskovi i grmljavina u noći i ujutro te potkraj dana uzdah
+|P| vremenska prognoza za sutra provmjenljiv oblaočno sa sunčanim razdobljina mjestimice kišav pljuskovi grm ljavina u noći i u ju dro tepotakretdana uzdah
+[sample: z04240502401, WER: 50%, TER: 11.0345%, total WER: 148.667%, total TER: 74.5556%, progress (thread 0): 8.33333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati uz obalu vjetar zapadni i sjeverozapadni četiri do dvanaest u noći bura šest do četrnaest čvorova uzdah
+|P| vremenska pronoza za adran za pravih dvanaest sati uzdah z obao o vjetar zapadni sjeverozapadni četiri do dvaneist unoći burar šest dv čtrnaest čvuorova uzdah
+[sample: z02170602202, WER: 64%, TER: 12.9032%, total WER: 144.211%, total TER: 71.3955%, progress (thread 0): 8.66667%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati jugo šest do šesnaest čvorova u drugom dijelu noći i sutra ujutro može se prolazno pojačati do dvadeset dva čvora
+|P| vremenskt prognoza za jadran za prlvih dvanaest sati jugo šest do šestne čorova u rumo djeunoći sutra uji promožeset prolazno pojačeati do dvadeset dva čuora
+[sample: z08130402506, WER: 46.4286%, TER: 13.9394%, total WER: 138.767%, total TER: 68.4227%, progress (thread 0): 9%]
+
+|T| vjetar sjeverozapadni i zapadni noću uz obalu bura šest do osamnaest mjestimice dvadeset četiri čvora more dva do tri uzdah ponegdje na otvorenom tri do četiri uzdah
+|P| vjetara sjevrozapadni i zapadne no ćuzobalu purašest do samnaest ijestimice dvadese četri čvora ore dvado tri uza ponejdnjje a otvreno ti do četiri uzdah
+[sample: z11260602204, WER: 77.7778%, TER: 13.9394%, total WER: 135.66%, total TER: 65.7424%, progress (thread 0): 9.33333%]
+
+|T| uzdah noću uz obalu tiho ili burin sil četiri do trinaest čvorova more jedan do dva uzdah greska poslijepodne i na otvorenom južnog jadrana ponegdje dva do tri
+|P| uzdah noću u zobalu tiho ili burin četiri do trinaest vorova more jedando dva uzdah vid i post i posiepodnae ina otvorenom ijužnog jadrana pone gdje dvado tri
+[sample: sm04140602203, WER: 60.7143%, TER: 16.3522%, total WER: 131.9%, total TER: 63.507%, progress (thread 0): 9.66667%]
+
+|T| na sjevernom dijelu i orkanskim udarima a zatim će osjetno oslabiti uzdah jutarnja temperatura uglavnom između minus sil šesnaest i minus jedanaest stupnjeva
+|P| na sjevnom dijelu ij kora kasliomu udarima a sakijiu te ostie tnostkabiti uzdh j i tarnjatem peraturu uglavnanm iezvmieđu umius s d šesnannjs igminusjedanaestupnjeva
+[sample: z01110103403, WER: 86.9565%, TER: 30.3226%, total WER: 130.12%, total TER: 62.1047%, progress (thread 0): 10%]
+
+|T| u unutrašnjosti slab snijeg a u gorskom kotaru i lici ponegdje kiša koja se smrzava na tlu uzdah na sjevernom i dijelu srednjeg jadrana poslijepodne djelomice vedrije
+|P| utrošnjosti slab snjejek a orskomn kotaru ili c i ponegdje iša kra se s norza valaktvlo h na sjevrerdnom i dijelusvre nje j adraena d h o s podnedjelomicevedrivje
+[sample: m11151202302, WER: 88.8889%, TER: 30.4878%, total WER: 128.289%, total TER: 60.7516%, progress (thread 0): 10.3333%]
+
+|T| jugozapadni i zapadni vjetar četiri do dvanaest ponegdje do petnaest a tijekom noći tiho ili uz obalu burin četiri do osam u velebitskom kanalu do dvanaest čvorova
+|P| ijs ijugozapa dni zapadni vjetar četri do dvanest ponengdje do petnaestaktijeko noći tkiho iliu z obalu burin četri do osam urpelne bitskomka navu do dvanaest čvuorova
+[sample: z08090702202, WER: 62.963%, TER: 15.9509%, total WER: 125.512%, total TER: 58.9237%, progress (thread 0): 10.6667%]
+
+|T| biometeorološka prognoza za sutra iznimno kratka u cijeloj zemlji uvjeti će biti razmjerno povoljni vrijeme ne bi trebalo stvarati većih poteškoća
+|P| bmbievmeteoro loška pogno za za s u tre ez mljnokpkratk o o cjeloi zemnlje uvjetiće bite razme nomo poaljn nji dirijeme n mebvitpraemolostlati veći kpotešpopločea zah
+[sample: z14121204401, WER: 119.048%, TER: 42.3611%, total WER: 125.305%, total TER: 58.3474%, progress (thread 0): 11%]
+
+|T| vjetar slab na sjevernom jadranu umjerena bura a na srednjem i južnom umjeren do jak istočnjak i jugo uzdah jutarnja temperatura od minus osam do minus tri
+|P| vjetar slab na sjevernom jadrnu mjerena bura uzd h a na srednjim južnom umjerend ja is točnjoa i jugo uzdah jutorna temperaturao minusosam do minustri
+[sample: z05170103303, WER: 66.6667%, TER: 15.1316%, total WER: 122.987%, total TER: 56.8166%, progress (thread 0): 11.3333%]
+
+|T| vremenska prognoza za sutra uglavnom sunčano ujutro u unutrašnjosti magla mjestimice a samo u gorskome kotaru i lici ponegdje malo snijega
+|P| v vremenska prognoaoza za sutra uglavnom sunčano o ujutro u udrašnjao sti ma vlavmje stimicasam gorskome kotroli ilici ponedje malosnijegra
+[sample: z03170203301, WER: 71.4286%, TER: 20.438%, total WER: 121.449%, total TER: 55.6911%, progress (thread 0): 11.6667%]
+
+|T| uzdah stanje ciklona nad tirenskim i ligurskim morem te nad greska uzdah jadranom polako se produbljava a frontalni poremećaj sporo se kreće prema sjeveru
+|P| unas stanje ciklomna na tijerens ki mjeli gurski morenm tenadjadransko a jadranum dolakosetprodu jljavlaslo ntpali poremećeaeis poro se kretća prma sjeveru
+[sample: z11110402103, WER: 87.5%, TER: 31.3725%, total WER: 120.33%, total TER: 54.8788%, progress (thread 0): 12%]
+
+|T| većinom na južnom i srednjem jadranu umjeren do jak sjeverozapadni i zapadni vjetar uzdah uz obalu sjevernog i srednjeg jadrana umjerena do jaka bura uzdah
+|P| svpvećinomna južnom i sredtnji jadranu umjerendo jak sjevrozapadni zapadni vjetar uzdah u z obalu sjevernom i srednje jadrana umjerana do jaka bura uzdah
+[sample: z06280104315, WER: 56%, TER: 9.80392%, total WER: 118.194%, total TER: 53.4221%, progress (thread 0): 12.3333%]
+
+|T| biometeorološka prognoza za sutra uzdah biometeorološke će prilike u većem dijelu naše zemlje biti razmjerno nepovoljne a u lici i gorskom kotaru nepovoljne uzdah
+|P| inib biometeorološkaopronozaza sutra uz dh ilometeorloški će prili kh ve ćendijelu naša zemlje bi i razberno na povovine a u lici goskom kotaru nepovr ljdne uzah
+[sample: sm04310105325, WER: 87.5%, TER: 22.6415%, total WER: 117.246%, total TER: 52.4218%, progress (thread 0): 12.6667%]
+
+|T| da li zbog tog izvješća ali i nastojanja da se zaustavi nasilje šaron je naredio pripremu za evakuaciju sedamnaest izraelskih naselja u pojasu gaze
+|P| tpnpata p daleiz bop togp izvješćea ali nastojenjada sa za ustavi naseivlje t k šarodnje na rejedi o priepremou zejeoa ko acie e damnaest izraeskih na sevlja u poja su gazsm
+[sample: sm04020204331, WER: 120.833%, TER: 36.8056%, total WER: 117.353%, total TER: 51.9754%, progress (thread 0): 13%]
+
+|T| jutarnja temperatura u kopnenom području od devet do četrnaest na jadranu od četrnaest do osamnaest uzdah dnevna većinom od dvadeset do dvadeset pet stupnjeva
+|P| jutarnja temperatura u kopnjenom područjiod deve doe četprnaes t ma jadranu od čet trna est d sam aest u ah n ena već ino mn od dva deset do dv adeset et tupnjeva
+[sample: m08110502304, WER: 108.333%, TER: 16.6667%, total WER: 117.091%, total TER: 50.9147%, progress (thread 0): 13.3333%]
+
+|T| izvještaj pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda upozorenje uzdah noću i ujutro ponegdje sumaglica i magla
+|P| izvještaj pomoskoge meteorološkog centra split državnoga hidrometeorološkogzavoda upozorenje oć i u j tro ponegdje s naglica avgla
+[sample: m08230602301, WER: 70.5882%, TER: 14.4928%, total WER: 116.152%, total TER: 49.9719%, progress (thread 0): 13.6667%]
+
+|T| na južnom jadranu i otocima između plus jedan i šest uzdah a najviša dnevna od minus devet do minus četiri uzdah na jadranu od tri do osam stupnjeva
+|P| na južnom jadranu oto cim između prusjedani šest uzdah a najviša dnevna od minusz devet t dominus etiri zd na jadranu od tri do osa čstupnjeva
+[sample: m04120103303, WER: 46.4286%, TER: 11.5646%, total WER: 113.908%, total TER: 48.9412%, progress (thread 0): 14%]
+
+|T| poslijepodne sa zapada jača naoblaka uzdah na jadranu kiša a u gorskome kotaru i lici najprije kiša uzdah koja će se ponegdje smrzavati na tlu a zatim i snijeg
+|P| poslrjpodnesa zapada jača naoblaka uzdah njadranu kiša a ugorskome kotoru i licinaj gprje kiša uzdah koeće s poneg i szmo za tinaklu a zati i snijeg
+[sample: z07020203402, WER: 65.5172%, TER: 16.9811%, total WER: 112.347%, total TER: 48.0397%, progress (thread 0): 14.3333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati uzdah jugo u jačanju na dvanaest do dvadeset mjestimice dvadeset četiri čvora će pojačati na tri do četiri uzdah
+|P| vremenskaprognoza zarjadra za prvih dvanaes sati uzdah j u o u jačan na dvanas t o d adaeset mjesti mice dvadaeseje etiri č ora moraeće pojačeti na tri do četieri uzdah
+[sample: m05050602303, WER: 92.5926%, TER: 15.9509%, total WER: 111.771%, total TER: 47.1379%, progress (thread 0): 14.6667%]
+
+|T| uzdah vremenska prognoza za jadran slijedećih dvanaest sati uzdah umjerena do jaka bura i istočni vjetar u velebitskom kanalu bura ponegdje vrlo jaka
+|P| uzdah v vremeskaprognoza zadanj jadranza sijdeći dvanaest sati uzdah mje re nado jaka bura e stočni vjetaru valebitskom tka alu bpur a ponegdje vrloi aka u
+[sample: m11071202305, WER: 91.3043%, TER: 18.7919%, total WER: 111.275%, total TER: 46.428%, progress (thread 0): 15%]
+
+|T| hladno s najvišom temperaturom od minus pet do minus dva uzdah a na jadranu od plus tri mjestimice na sjevernom do dvanaest stupnjeva na južnom dijelu
+|P| akadno snajišo te praturom od minus pet do minos dva uzdah na jadranu u o dl pustrimjestirice n sjevrno do dvanaestupnjeva na južnom dijeru
+[sample: m04111202103, WER: 61.5385%, TER: 16.7785%, total WER: 109.949%, total TER: 45.7035%, progress (thread 0): 15.3333%]
+
+|T| more umjereno valovito i valovito uzdah na otvorenom dijelu srednjeg i južnog jadrana ponegdje i jače valovito uzdah temperatura bez promjene sil
+|P| morejo umereno valovito i velovitao zdah na otorenom d jelu srednje i užnog jadrana ponegdje i jača valovito zd ah temperatura destkpromnjene
+[sample: z05020205422, WER: 68.1818%, TER: 15.2778%, total WER: 109.027%, total TER: 45.0016%, progress (thread 0): 15.6667%]
+
+|T| na jadranu još ujutro mjestimice jaka bura koja će postupno slabjeti uzdah jutarnja temperatura u unutrašnjosti od minus deset do minus pet stupnjeva
+|P| na jadranu jvšo jutromjestimicr jaka bura koja če postupno slabjeti dah jutarnnja temperatura u unu trašnjosti kod minos deset domninus pet tupnjeva
+[sample: z10091202403, WER: 56.5217%, TER: 10.274%, total WER: 107.843%, total TER: 44.2079%, progress (thread 0): 16%]
+
+|T| zatim zapadnjak i jugozapadnjak na otvorenom moru sjeverozapadnjak uzdah jutarnja temperatura zraka od devet do četrnaest na jadranu od sedamnaest do dvadeset jedan stupanj uzdah
+|P| zszatim zapadnjak jugozapadnjak no otvorenomoru sjerozapadnjak uzdah nja temperaturat zraka o eve do četarnae tna jad rano sedanmnaestdo dvade set jedan tupa n uzah
+[sample: m10120602302, WER: 84%, TER: 18.4971%, total WER: 107.273%, total TER: 43.5299%, progress (thread 0): 16.3333%]
+
+|T| najniža jutarnja temperatura između minus sedam i minus dva sil na jadranu uzdah od plus tri do osam uzdah a najviša dnevna od minus tri do dva
+|P| najniža jutarnjn temperatura između minus seda m i minus dva s na ja dranu uzdah od u plustri do osa zdah a najviša dnevna od minus tri do dva
+[sample: m04251202303, WER: 40.7407%, TER: 7.04225%, total WER: 105.597%, total TER: 42.757%, progress (thread 0): 16.6667%]
+
+|T| u unutrašnjosti mjestimice jutarnja magla uzdah vjetar uglavnom slab a na jadranu u noći i ujutro ponegdje umjerena bura navečer istočnjak i jugo
+|P| u unu trašnjoesti mjestimice u tardnja magla uzdah vjetar u lavnom slab a na jadranu u noći j u joutro ponegdje umjerena bura naveče r istočnjo i jugo
+[sample: z04160103302, WER: 56.5217%, TER: 8.4507%, total WER: 104.566%, total TER: 42.0453%, progress (thread 0): 17%]
+
+|T| slab sredinom dana i umjeren sjeverozapadni i zapadni vjetar uzdah more uglavnom malo samo mjestimice umjereno valovito temperatura bez promjene
+|P| ui slab sre dinr ana umjrana sjeve r zapadni zapadnivjetar uzdah ore u glavno ano sa m jestimice umjereno valovi to tempe ra t ura es promjene
+[sample: m05050702305, WER: 115%, TER: 21.5278%, total WER: 104.753%, total TER: 41.6225%, progress (thread 0): 17.3333%]
+
+|T| na sjevernom jadranu te u sjeverozapadnim predjelima povremeno umjerena naoblaka a u gorskom kotaru i lici ponegdje kratkotrajan pljusak
+|P| pzda na sjevernom jadrau u teo u sjeverozapadnim predijelimo povremenao umjerena naoblaka a u gorskom kotaru i ci ponegdje katkotra plju sak
+[sample: m01020402101, WER: 52.6316%, TER: 13.3333%, total WER: 103.88%, total TER: 41.0865%, progress (thread 0): 17.6667%]
+
+|T| temperatura u unutrašnjosti između minus dva i dva stupnja uzdah a na jadranu najniža od pet do deset te najviša dnevna od osam do trinaest stupnjeva
+|P| temperatura u utrašnjostimeiđu minruz va i dvastupnja uzdah a na jadranu nanuiža o ed do deset udah te najdiša dnevna od dostam do trinaestupnjeva
+[sample: z12171202304, WER: 57.6923%, TER: 17.8082%, total WER: 102.845%, total TER: 40.619%, progress (thread 0): 18%]
+
+|T| u zapadnim predjelima povremeno umjerena naoblaka a na sjevernom jadranu te u gorskom kotaru sil kratkotrajna kiša ili lokalni pljusak s grmljavinom
+|P| uzapadnim predrjenemo povremeno umjerenanaoblaka a na sjeverno me jadranu te u gorskom kotaru kr a ko trajna kišajeileilokavli pljusark s bgrmljavino
+[sample: m01030502102, WER: 63.6364%, TER: 16.4384%, total WER: 102.115%, total TER: 40.1429%, progress (thread 0): 18.3333%]
+
+|T| vremenska prognoza za sutra jača naoblaka koja će već prijepodne zahvatiti sjeverni jadran i zapadne predjele uzdah do kraja dana proširit će se na cijelu zemlju uzdah
+|P| vremenska prognoza za sutra jačana oblaka koja će već pri podna zaha ti i sjederni jadran izapadna predjev zdah dokraja dana pr o širiće sana ij a u zaemnjlju uzd h
+[sample: m10211202301, WER: 81.4815%, TER: 16.8675%, total WER: 101.654%, total TER: 39.6333%, progress (thread 0): 18.6667%]
+
+|T| jugo deset do dvadeset pojačat će na petnaest do dvadeset pet čvorova uzdah more dva do tri pojačat će se na otvorenome na tri do četiri
+|P| djugo deset dod dvadeset pojačot će sana pet naest do dvadeset peit čvorova uzdh m ore dva do tri pojača ća sana otvorenomena tri do četiri
+[sample: z04230502203, WER: 61.5385%, TER: 10.2941%, total WER: 100.81%, total TER: 39.1164%, progress (thread 0): 19%]
+
+|T| uz obalu zapadni i jugozapadni vjetar šest do četrnaest u noći tiho ili burin četiri do deset a na otvorenome moru sjeverozapadnjak uzdah
+|P| uzsubalu u zapadni i juguozapadni vjetar šest do ćčeternaest u noćijei t ti hoili burin četiri do desetarana odvorenome moru sjeverozapadnjak uzdah
+[sample: z09150602206, WER: 56.5217%, TER: 13.2353%, total WER: 100%, total TER: 38.6682%, progress (thread 0): 19.3333%]
+
+|T| izvještaj pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda sil stanje uzdah nad jadranom zadržava se anticiklona
+|P| izveštaj pomorskog meterološkog centra split državnoga hidrometerološkog zavoda sis stanje uzdh ad jadranom sa zadržava anticiklona
+[sample: sm04140602201, WER: 56.25%, TER: 9.70149%, total WER: 99.4505%, total TER: 38.1823%, progress (thread 0): 19.6667%]
+
+|T| na desetoj srednjeuropskoj infark informatičkoj olimpijadi u minsteru mladi hrvatski informatičari postigli su dosad najveći uspjeh i osvojili prvu zlatnu medalju
+|P| udna desetpo ji sr doeoropskaein faratp jiprmatičkjevolnim p jadi umninstaeroumlaihrvatskimpormadičeori postigejisudo sadnajvić usbikhe suojilit tprv u slamedaljr
+[sample: sm04140703248, WER: 100%, TER: 39.375%, total WER: 99.4595%, total TER: 38.2057%, progress (thread 0): 20%]
+
+|T| vremenska prognoza za sutra na jadranu sunčano u unutrašnjosti ujutro i prijepodne umjereno i znatno oblačno ponegdje i maglovito
+|P| vremenska prognoza za sutra na jadranu unčano u u nutrašnjo s i ujutr i prije podnao umjereno i zna o oblačno pone gdj imaglovito
+[sample: z04210203301, WER: 68.4211%, TER: 10.1562%, total WER: 99.0107%, total TER: 37.7719%, progress (thread 0): 20.3333%]
+
+|T| vidljivost deset do dvadeset kilometara na sjevernom i srednjem jadranu ponegdje dva do četiri kilometra zbog sumaglice uzdah pretežito vedro i malo toplije
+|P| viljivost dest do dvadesea kilometra na sjevernom i sraednjem jadranu ponegje dlvado četeri kilomnetreozbog sumatieicea uzdah petiži to vedro i malo toplie
+[sample: z02160602305, WER: 65.2174%, TER: 12.987%, total WER: 98.4293%, total TER: 37.3191%, progress (thread 0): 20.6667%]
+
+|T| na jadranu umjeren i jak ponegdje i olujan na sjevernom dijelu bura posebice sutra navečer uzdah a na srednjem i južnom noćas bura i sjeverozapadnjak sutra jugo
+|P| na jadranu umijereni jak ponegdi i uolujen na sjernom djelu bura posebic sutranavečer uzda a a srednjimi južnom noćao bura sjeverozapadnjak sutara jugo
+[sample: z12070103403, WER: 59.2593%, TER: 12.0253%, total WER: 97.654%, total TER: 36.8537%, progress (thread 0): 21%]
+
+|T| uzdah sava slavonski brod petsto osamdeset sedam pet osam sedam uzdah sava slavonski šamac četiristo četrdeset osam četiri četiri osam
+|P| vuzdah sava laomonski brod peiht tostamdeset cedam pejt osam s sedam z dh sava sca noski šaoma s četristao č tarneset dosam če tiri četirilj osam a
+[sample: m11040502105, WER: 105%, TER: 24.6269%, total WER: 97.7601%, total TER: 36.6659%, progress (thread 0): 21.3333%]
+
+|T| najniža temperatura od jedanaest do šesnaest stupnjeva uzdah na jadranu od šesnaest do dvadeset uzdah a najviša dnevna od osamnaest do dvadeset tri stupnja
+|P| najnišža temperatura o djedanestdašestna s tupnjeva na jadranuo šestnaest do dvadeset uzah najviša dnevna dosamnaest do dadeset pri stupnja
+[sample: z06090602303, WER: 66.6667%, TER: 17.6471%, total WER: 97.2301%, total TER: 36.338%, progress (thread 0): 21.6667%]
+
+|T| sjeverni jadran istočnjak i bura osam do šesnaest čvorova more dva do tri uzdah vidljivost deset do dvadeset kilometra umjereno oblačno
+|P| sjeverni jadran istočnjaki bura osam do šesnrest čvorodvna more dvado tri u adh i dljivost deset do dvadeset ielometara umjereno odblačno
+[sample: z11070502303, WER: 57.1429%, TER: 10.5263%, total WER: 96.641%, total TER: 35.9569%, progress (thread 0): 22%]
+
+|T| vjetar povremeno umjeren sjeverni i sjeveroistočni uzdah na sjevernom dijelu jadrana jaka bura uzdah a u dalmaciji slab do umjeren sjeverozapadnjak koji će postupno okrenuti na buru
+|P| vjetar povreme umjereanm sjeverni i sjieveru istočni na sjevernom dijelu jadrana jaka bura uzd a da mnaci i slab di umjeren sjeve ouzabadnjaka kojiće postupnokprenuti no buru
+[sample: m09240602403, WER: 55.5556%, TER: 16.6667%, total WER: 95.8791%, total TER: 35.579%, progress (thread 0): 22.3333%]
+
+|T| vremenska prognoza za sutra na sjevernom i srednjem jadranu te u lici i gorskom kotaru uglavnom oblačno ponegdje s kišom pljuskovima i grmljavinom
+|P| uvremveinska prognoza za sutra na sjevernom isrednjm jadranu euli ci gorskomnhkotaruglavluo uoblačno ponegdje s kišaom peuskovina i drmljeavinom
+[sample: z10030502401, WER: 60.8696%, TER: 16.7832%, total WER: 95.3347%, total TER: 35.291%, progress (thread 0): 22.6667%]
+
+|T| najniža temperatura od minus jedanaest do minus sedam stupnjeva na jadranu od minus dva na sjevernom do sedam na njegovu južnom dijelu
+|P| najnižza temperatura od mijnu sjedanaest dominus sedam stupnjeva zdh na jadranu od minus dva na sjeverno o sedam manjegu južnomn d jelu
+[sample: z04100103304, WER: 54.5455%, TER: 12.8788%, total WER: 94.7368%, total TER: 34.9783%, progress (thread 0): 23%]
+
+|T| djelomice sunčano uz promjenjivu naoblaku zbog sumnje da je u neposrednoj blizini tunela mala kapela ispustila oko deset tisuća litara kemikalija uzdah
+|P| djelonice sunčano uzstremjeniu naoblaku l zbo g suneadajaje une p zru vi blizini tunelav mala kapelaji s pustilao kodesjet tićuićaelitarakemihkalija uzdah
+[sample: sm04310105105, WER: 90.9091%, TER: 24.1611%, total WER: 94.6815%, total TER: 34.8107%, progress (thread 0): 23.3333%]
+
+|T| na otvorenom tri do četiri uzdah vidljivost deset do dvadeset kilometara oblačno mjestimice s kišom ili pljuskovima s grmljavinom osobito na sjevernome jadranu
+|P| naotvrenom tri do četiri uzdah v dlji vos t des do dvadeset ke va metara a o obačnomjestimice ts kišam ir pljiuskogi ma drmljavinomg o osobito na sever m jadranu
+[sample: m05270502303, WER: 100%, TER: 22.4359%, total WER: 94.7607%, total TER: 34.613%, progress (thread 0): 23.6667%]
+
+|T| niti izići iz fiksne telefonije do dvije tisuće šeste godine uzdah ulaganje u adesel uslugu široko pojasnog pristupa internetu uzdah
+|P| mniti izvići izju kikčsnetratponije do dviji isuć će šeste vodine z zada h ula daenjje u pade sealu uslubu šjiroko pojasno prist kain trnatu
+[sample: sm04310105206, WER: 110%, TER: 32.8244%, total WER: 94.9553%, total TER: 34.5894%, progress (thread 0): 24%]
+
+|T| i vremenska prognoza za slijedećih dvanaest sati uzdah uz obalu slaba samo ponegdje umjerena bura zatim tijekom dana zapadni i sjeverozapadni vjetar
+|P| vjivrenmenska progno za za slejedećih dvani sati uzdah u oborlnu slabo samob ponegdje umjereno bura zatim dijekomn nana zapadni i sjeverozapadni vjetar
+[sample: z02160602306, WER: 59.0909%, TER: 13.5135%, total WER: 94.4584%, total TER: 34.2789%, progress (thread 0): 24.3333%]
+
+|T| vjetar većinom slab na jadranu u noći i ujutro jaka bura s olujnim na sjevernom dijelu i orkanskim udarima uzdah a zatim će osjetno oslabiti
+|P| vjetarmvećinom sklab na jadranu u noći ujutro jak a bura s ouluveinim na sjevernom gijelu jora anskimudalima uzdah a zatimnčea osljierno osloabiti
+[sample: z05110103303, WER: 64%, TER: 16.4286%, total WER: 93.9864%, total TER: 34.0336%, progress (thread 0): 24.6667%]
+
+|T| vremenska prognoza za poslijepodne uzdah djelomice sunčano uz promjenljivu naoblaku mjestimice kratkotrajna kiša ili pljusak s grmljavinom uzdah
+|P| vremenska prognoza za posijpodne z elomice součan uo prom innjimurnaobloa kou mjestilice klatkotrajna kišai tio sa spgrmljavinomu u dah
+[sample: z03080602101, WER: 88.8889%, TER: 23.4043%, total WER: 93.9301%, total TER: 33.8885%, progress (thread 0): 25%]
+
+|T| drava terezino polje minus dvjesto trideset osam minus dva tri osam drava donji miholjac minus devetnaest minus jedan devet uzdah
+|P| drava perezjieno polje minuset dvjesto trideset dosamdve nminusaedva tri osam drava doa iviholja ci mirljus tevetnaest mijinousjeda devet zdah
+[sample: z11030502103, WER: 60%, TER: 21.4286%, total WER: 93.5191%, total TER: 33.7383%, progress (thread 0): 25.3333%]
+
+|T| vremenska prognoza za sutra na sjevernom jadranu pretežito sunčano uzdah u dalmaciji i u kopnenom području u noći i ujutro oblačno i maglovito
+|P| vremenska prognoza za sutra n sjevernom jadranu retežito sunčano uzdah u dalma csj i i u gopneno području u noći ujutro oblačno maglovito
+[sample: m04180103401, WER: 39.1304%, TER: 7.74648%, total WER: 92.7718%, total TER: 33.39%, progress (thread 0): 25.6667%]
+
+|T| deset britanskih vojnika najvjerovatnije je poginulo nakon esbritans britanski vojni transportni tra zrakoplov tipa herkul jučer srušio u iraku uzdah
+|P| ndedsed britanskij vojnika na jvra nij pogpnulo z h ako los rltzrevritanski boni transpotknita sakopoti boajetu li iuče ušje u iraku uzdah
+[sample: sm04310105309, WER: 95%, TER: 36.9128%, total WER: 92.7981%, total TER: 33.4388%, progress (thread 0): 26%]
+
+|T| osobito u gorskome kotaru i lici uzdah razvedravanje već prijepodne na sjevernom jadranu zatim u dalmaciji uzdah a do kraja dana i ponegdje u unutrašnjosti
+|P| uposobito gorskom kotaru irlici zah r zvjedra vanirleć pijepodna na sjerernom jadraenuzadtinudalmaciuzdah a dokra ja dana i polnegdje unoutrašnjosti
+[sample: z12171202302, WER: 80%, TER: 21.5686%, total WER: 92.612%, total TER: 33.2722%, progress (thread 0): 26.3333%]
+
+|T| vremenska prognoza za sutra uzdah promjenljivo i svježije u noći i prijepodne mjestimice kiša i grmljavina uzdah a poslijepodne rijetki pljuskovi
+|P| vremenska prognoza a sutra uzdah pralmjenlji vo i sjećije u noći prijepodne mjestmice kiša grumarnina zdah a poslji pomnaerje tk i pljustkovi
+[sample: z05060702401, WER: 71.4286%, TER: 18.3099%, total WER: 92.3563%, total TER: 33.0797%, progress (thread 0): 26.6667%]
+
+|T| zatim razvedravanje a vjetar će tijekom jutra na otvorenome moru okrenuti na sjeverozapadnjak uzdah do kraja dana uz obalu na slabu do umjerenu buru
+|P| zatin r z edravanj je da će jek jutrana o t vrenome mor o kr e uti a sjerozapadnjek zdh tr a dana u z obalun a sla b umjerenu bo uodu
+[sample: m01280602308, WER: 120.833%, TER: 30.8219%, total WER: 92.7438%, total TER: 33.0502%, progress (thread 0): 27%]
+
+|T| najviša temperatura između jedanaest i šesnaest na jadranu od šesnaest i devetnaest stupnjeva uzdah a najviša većinom od dvadeset četiri do dvadeset devet
+|P| najviža temperaturaeizmeđovjedana s tišesnanast a na jadranu d ćesnes do devetnaetstupnjeva uzdah a naviša većinom ad daicst četiri do dvaeset devet
+[sample: z05220502404, WER: 69.5652%, TER: 17.6471%, total WER: 92.4454%, total TER: 32.8424%, progress (thread 0): 27.3333%]
+
+|T| sunčano tiho ili burin danju uz obalu slab maestral uzdah na otvorenom južnog i dijela srednjeg jadrana umjeren i pojačan sjeverozapadni vjetar uzdah
+|P| sunčan i ho l j burig danju z obalu slab maestra zdah na otvrenom južnog i dijela srenjeg jadrana umjereni poa a sjveroza pani jeta zd h
+[sample: m10150502305, WER: 82.6087%, TER: 15.6463%, total WER: 92.3204%, total TER: 32.6223%, progress (thread 0): 27.6667%]
+
+|T| dolina s frontalnim poremećajem polako se premješta sa sjeverozapada prema jadranu uzdah vremenska prognoza za jadran za prvih dvanaest sati uzdah
+|P| doliena sk on da im goremećaem olako sa premješta sa sjeveroza a da prem jadranu z dh vremenska progno a za jadran za prvih dvanaest ati uzdah
+[sample: m09220502402, WER: 85.7143%, TER: 13.6986%, total WER: 92.2447%, total TER: 32.3848%, progress (thread 0): 28%]
+
+|T| utjecaj vremena bit će razmjerno povoljan samo bi u unutrašnjosti i na južnome jadranu vrlo osjetljivi ljudi i kronični bolesnici mogli osjećati manje tegobe
+|P| utice bremena vieće razmerno povoljean d samob iunatrašnjostina iužno me jadranu pvrlo sjetibi u di krolitče bole snigci moliosiećati manjie tekodbde
+[sample: z02301204202, WER: 95.8333%, TER: 28.2895%, total WER: 92.2911%, total TER: 32.332%, progress (thread 0): 28.3333%]
+
+|T| vremenska prognoza za sutra u unutrašnjosti uglavnom oblačno ponegdje sa slabim snijegom i to uglavnom u drugome dijelu dana
+|P| vremenska prognoza za sutra u unutrašnjo i uglomvnom oblačno ponegdje sza slabim s su ijegomi t uglavnom u drugomne djelu da na ah
+[sample: z04100103301, WER: 68.4211%, TER: 13.8211%, total WER: 92.0491%, total TER: 32.1408%, progress (thread 0): 28.6667%]
+
+|T| a na sjevernom i dijelu srednjeg jadrana tijekom jutra ponegdje magla na sjevernom jadranu manja mogućnost pljuska uz obalu malo toplije
+|P| a na sjeverno i dijelu srednjeg jadrana t ijekom jutra poneg djemagla na sjevernom jadran u manjem g ućeo t pljus ko uzaobpalou malo to plije
+[sample: m01090502209, WER: 76.1905%, TER: 12.782%, total WER: 91.8734%, total TER: 31.9269%, progress (thread 0): 29%]
+
+|T| a djelomično naoblaka s kratkotrajnim pljuskom proširit će se tijekom noći i na preostali dio jadrana uzdah vremenska prognoza za slijedećih dvanaest sati uzdah
+|P| adijlomjičhn nao laka st ratkot drajnem pljustom plo aijeieiće set ijekom noći na praosavi di jatrana vremenska prognoza za slijedećih dvanaest sati uzdah
+[sample: m10060702207, WER: 70.8333%, TER: 22.0126%, total WER: 91.6102%, total TER: 31.7977%, progress (thread 0): 29.3333%]
+
+|T| mjestimice smanjena na četiri kilometra zbog sumaglice uzdah pretežno vedro vruće i sparno uzdah vremenska prognoza za slijedećih dvanaest sati
+|P| vmjstmice manj e na na čei ti i tivometra zbog s umanj iecea uz h retdežnovedrog blru ćetdi sparno udah vremenska prgnoza za sliljeć daestsati
+[sample: m11100702204, WER: 105%, TER: 26.7606%, total WER: 91.7483%, total TER: 31.7397%, progress (thread 0): 29.6667%]
+
+|T| sjeverozapadni vjetar četiri do deset uz obalu poslijepodne do četrnaest čvorova u noći uz obalu tiho ili burin četiri do deset čvorova
+|P| gdscjer a pdni v eta d četiri do de se to uz o al poslij pode do etenast čvorova u umloćnu zobalu tihoa jili urin četir do deset po rova uzdah
+[sample: m05050702303, WER: 109.091%, TER: 31.1111%, total WER: 91.9429%, total TER: 31.7329%, progress (thread 0): 30%]
+
+|T| vrijeme do kraja tjedna uzdah u petak djelomice sunčano u subotu i nedjelju većinom oblačno i osjetno toplije povremeno s kišom
+|P| vrjeme deokradkjetna uz h u pejeta kr djelomice sunčaono u su o trinedje lju većinom ogblačna oiji pno toplije povreme o skišaom
+[sample: z05251202404, WER: 85.7143%, TER: 25.3968%, total WER: 91.8769%, total TER: 31.6696%, progress (thread 0): 30.3333%]
+
+|T| barem djelomice sunčano u početku uglavnom u gorju mogući kratkotrajni pljuskovi uzdah jutro malo svježije a danju razmjerno toplo
+|P| vmvarem djelomice sunčano u početkugilavnom ugoru mogući kraet kotrajni pljuskovi uzdah jutro malo svježije pa danju razmernoatoptlo
+[sample: z09040502407, WER: 57.8947%, TER: 10.9375%, total WER: 91.5542%, total TER: 31.4611%, progress (thread 0): 30.6667%]
+
+|T| najniža temperatura između jedanaest i šesnaest na jadranu između šesnaest i dvadeset uzdah a najviša dnevna od dvadeset do dvadeset pet stupnjeva
+|P| najniežša temperaturaei zmeđvje danestišesnaest na jadranu i zmeđuo šeslnesti dvadetset uzdah lajvša dnevna odvadeset do dvadeset aetupnjeva dh
+[sample: z10070602403, WER: 77.2727%, TER: 20%, total WER: 91.3989%, total TER: 31.332%, progress (thread 0): 31%]
+
+|T| na južnom jadranu u početku ponegdje neverin stanje uzdah dolina s južnog jadrana povlači se prema istoku a sa zapada jača greben anticiklone
+|P| dna južno ja drnvou u bočetku poneg je ne eri n stanje do li na sjužkogadrana olaćči se prema i stogku a sa zapada ja ća bre enanticiklone
+[sample: m09260602303, WER: 95.6522%, TER: 22.1429%, total WER: 91.4467%, total TER: 31.2332%, progress (thread 0): 31.3333%]
+
+|T| već prijepodne na sjevernom jadranu i u zapadnim krajevima unutrašnjosti a do kraja dana u slavoniji i dalmaciji gdje će još prijepodne mjestimice biti kiše
+|P| vbvećtprije podneana sjevernom jadranu zapadnim krajvi mo unutrašnjostijedo k najadanau u savoni i dalmacsiji djećejoš prije podemjestimice iti kišeae
+[sample: z08020103302, WER: 80%, TER: 20.6452%, total WER: 91.3085%, total TER: 31.1086%, progress (thread 0): 31.6667%]
+
+|T| zatim će se postupno razvedriti uzdah na jadranu će prevladavati sunčano vjetar u unutrašnjosti slab na jadranu uglavnom umjerena bura
+|P| jsza tim će sr postumpnoa zvedljiti udah na jadanu će proeladajadi sučhna uzdh vjetarutrašnjosti slab na jadranuglavnom umjerena buora
+[sample: z05130203302, WER: 75%, TER: 23.3083%, total WER: 91.1526%, total TER: 31.0306%, progress (thread 0): 32%]
+
+|T| biometeorološka prognoza za sutra u cijeloj zemlji uvjeti će biti razmjerno povoljni vrijeme ne bi trebalo stvarati većih poteškoća
+|P| vilbibino meteorološka prognaoza za sutra u cijeloui zcemlje u jitići bitdirazmeno poljn neg vdr ijamenae vi trevolos varati veći potrškoćčća
+[sample: z04121204301, WER: 89.4737%, TER: 30.2326%, total WER: 91.1374%, total TER: 31.0229%, progress (thread 0): 32.3333%]
+
+|T| ujutro mjestimice magla najviše u sjevernom i sjeverozapadnom području uzdah vjetar slab na jadranu noću i ujutro umjerena do jaka bura
+|P| utromjestimicemagla naj više u sjevernom i sjeverozapadnom podpručjiuzdah jetar sla na jadranu noćju ijujiutro umjerena do jaka bura
+[sample: z08090203402, WER: 52.381%, TER: 9.62963%, total WER: 90.7555%, total TER: 30.8101%, progress (thread 0): 32.6667%]
+
+|T| jugo četrnaest do dvadeset šest čvorova more tri do četiri na otvorenom dijelu srednjeg i sjevernog jadrana četiri do pet uzdah
+|P| jeugo četrnaest do vadeset ć šes čvorovamore tri doa četiri na otvorenome dijelu srednjig i sjevernog jadrana četiri do pet uzdah
+[sample: z09030502204, WER: 42.8571%, TER: 7.14286%, total WER: 90.2881%, total TER: 30.5923%, progress (thread 0): 33%]
+
+|T| u utorak a u dalmaciji i u srijedu prijepodne oblačnije povremeno s kišom uzdah a u najvišem gorju i snijegom
+|P| utroreak ka audaovmnacji us erije du prijepodnea oblakočnnjije povremeno s kišaom uzdah a unajvišžša m guorjui snmijegom
+[sample: z04281202306, WER: 85%, TER: 26.6055%, total WER: 90.2394%, total TER: 30.5608%, progress (thread 0): 33.3333%]
+
+|T| hladno posebice ujutro papir najniža temperatura od minus četrnaest do minus devet stupnjeva uzdah na jadranu između minus dva i četiri
+|P| ahlano ose vi ce u ujutro uzdah najvišža temperatur odmijusš četčrnaes do minvs devet stupnjeva uzdah na jadranu imeču inust va i četiri
+[sample: z05170203403, WER: 76.1905%, TER: 20.1493%, total WER: 90.1049%, total TER: 30.4607%, progress (thread 0): 33.6667%]
+
+|T| s time da se taj broj povećava za sto dvadeset raketa svake godine sil u sukobu kuvajtskih snaga sigurnosti s radikalnim islamistima uzdah
+|P| stivedesetajebrojipovećea va zastodvadisetrakretasla kjegodina u suko pu kuojics ki snagasi urnosti srabikadim islamistima uz
+[sample: sm04310105118, WER: 95.6522%, TER: 30.4348%, total WER: 90.1625%, total TER: 30.4604%, progress (thread 0): 34%]
+
+|T| uzdah papir uzdah i vrijeme sutra djelomice sunčano s promjenjivom naoblakom mjestimice kratkotrajna kiša i grmljavina uglavnom u kopnenom području uzdah
+|P| vavav rijvrime sutr adelmice sunžanos vromjedneo na oblakom mestimi ce kra tkotana kiše ei rmljamina uglavno u koprano pvodručć u uzd
+[sample: m05220402201, WER: 100%, TER: 31.7881%, total WER: 90.2548%, total TER: 30.4745%, progress (thread 0): 34.3333%]
+
+|T| djelomice sunčano uz promjenjivu naoblaku više oblaka ujutro u dalmaciji i istočnim krajevima unutrašnjosti gdje ponegdje može pasti i malo kiše
+|P| mtjčlomice sunčano z promj nijilur na orlaokou vjišaoblaka u jeuteroundalmvaci stoš i upkrajlvim outrlašnjeosti dije ponegdiemožetpa sti malo kiša
+[sample: z05221202405, WER: 85.7143%, TER: 33.8028%, total WER: 90.2126%, total TER: 30.5074%, progress (thread 0): 34.6667%]
+
+|T| greben anticiklone sa zapada jača prema jadranu te tirenskom i jonskom moru gdje se ciklona polako popunjava i pomiče prema istoku
+|P| dvrebenaktici klonese zapada jačaprema jadranu d teti renskod joskom moru ugdjese ciklona polakuo popunjava i pogni če prma istouku
+[sample: z08300105247, WER: 76.1905%, TER: 18.6047%, total WER: 90.0834%, total TER: 30.4015%, progress (thread 0): 35%]
+
+|T| vremenska prognoza za poslijepodne uzdah oblačno i razmjerno toplo uzdah povremeno s kišom osobito u gorskom kotaru i lici te na jadranu uzdah
+|P| vremenska prognoza za poslijepodne zpah o oblačno irazmeno toplo zdah povremeno s kišomo sobi t ugorskom kotaruilici ke na jadranu uzdah
+[sample: sm04281202101, WER: 60.8696%, TER: 11.2676%, total WER: 89.7915%, total TER: 30.2159%, progress (thread 0): 35.3333%]
+
+|T| vremenska prognoza za poslijepodne u unutrašnjosti sve oblačnije pa navečer i noću ponovno snijeg na jadranu oblačno s kišom i grmljavinom mjestimice
+|P| vremenska prognozao za poslije podne unutrašnjosti stel oblačnj je k na ve če rinom ću ponom no smijegk na jadr nu ogbla čno s kiša mi grmljavino mjstimice uzda
+[sample: m10080103101, WER: 109.091%, TER: 23.1293%, total WER: 89.9742%, total TER: 30.1454%, progress (thread 0): 35.6667%]
+
+|T| zapuhat će mjestimice umjeren jugozapadnjak na jadranu u subotu umjereno i jako jugo uzdah a u nedjelju na sjevernom dijelu bura
+|P| uzakgugauće miestimice umjeren jugozapednjeak n jadranu u suotu umjereno jako jugo udah a onegjidlju ne sjebernom dr jelu burauzdah
+[sample: z05251202405, WER: 66.6667%, TER: 22.2222%, total WER: 89.7655%, total TER: 30.0785%, progress (thread 0): 36%]
+
+|T| na otvorenom tramontane trideset pet do pedeset pet čvorova more na otvorenom i u velebitskom kanalu ponegdje četiri do pet
+|P| na otvorenom tram motane t trideset pet do pedeset peit čvovova morena otvoreno i u velebitskom kanalu ponegdje četiri do pet
+[sample: z08300105245, WER: 40%, TER: 7.31707%, total WER: 89.3446%, total TER: 29.8922%, progress (thread 0): 36.3333%]
+
+|T| tegobe mogu imati i kronični bolesnici s time da će nepovoljniji utjecaj slabije biti izražen na istoku zemlje
+|P| te klovevmogu jemati krolečščebole smniciestime da ćčenune pomorni utjecae sla bije biti sraržen lna eistopoz zevmbljea
+[sample: z14180105302, WER: 94.4444%, TER: 36.1111%, total WER: 89.3831%, total TER: 29.9366%, progress (thread 0): 36.6667%]
+
+|T| na jadranu od minus dva na sjevernom do sedam na njegovu južnom dijelu uzdah najviša dnevna temperatura od minus šest do minus tri uzdah
+|P| na jadranu od minus dva na sjevernom do sedana mnjje u u južnom dijijelu uzda h najviša dnevjna temperaturo mineus šestr do minustri uzdah
+[sample: z05100103404, WER: 62.5%, TER: 12.5926%, total WER: 89.1151%, total TER: 29.7833%, progress (thread 0): 37%]
+
+|T| većinom sunčano osobito na jadranu u kopnenom području mjestimice greska jak razvoj naoblake te pljuskovi grmljavina i prolazno jak vjetar
+|P| većinom sunčano osaobjito na jadranu kopnanom polvruć u mjestimicera jakarasvajna oblake te pljuskovi gromljavinae i prolazno jak mjetar
+[sample: z09200602304, WER: 55%, TER: 16.1765%, total WER: 88.834%, total TER: 29.6633%, progress (thread 0): 37.3333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati uz obalu bura šest do četrnaest potkraj dana i u noći dvanaest do dvadeset četiri čvora
+|P| vremenska prognoza za ljadrn za prvih vanast sati uzobolu burašest dočtrnaest potkre dana unoći dvanaest to dvadese četi čvovra
+[sample: z03290602208, WER: 66.6667%, TER: 13.6691%, total WER: 88.6169%, total TER: 29.5203%, progress (thread 0): 37.6667%]
+
+|T| djelomice sunčano i malo toplije ponegdje i kratkotrajna kiša ili lokalni pljuskovi uglavnom u lici i dalmaciji gdje je moguća i grmljavina
+|P| jzjdjelomice smunčano i malo topijet ponegdjekratkotrajna kišaj dilokani piusko iuglavnom ulici dalvmacijeije gi djeje moguće i grmljavina
+[sample: z11240402302, WER: 81.8182%, TER: 20.438%, total WER: 88.5564%, total TER: 29.441%, progress (thread 0): 38%]
+
+|T| u kopnenom području ujutro od dva do sedam uzdah poslijepodne između minus dva i plus dva uzdah a na jadranu većinom od osam do trinaest stupnjeva
+|P| u kopnenom odrlučuitrod dvad sedam posliejepon izmneđu minus va injpluzsudvau zda a na jnjadranu većtino o dosam do trines stupnjeva
+[sample: z01040103404, WER: 69.2308%, TER: 24.1379%, total WER: 88.3553%, total TER: 29.3924%, progress (thread 0): 38.3333%]
+
+|T| abas je na početku svojeg mandata pozvao na završetak četverogodišnji oružane palestinske pobune kako bi mogao početi mirovne pregovore s izraelom
+|P| a basina po ček u s voetmndata p ozvoana zavo šetak četrogodišnje uz oružan paestinske pobuone ka kobimogo početi mirovne prevov resizrajrlomn
+[sample: sm04170105118, WER: 100%, TER: 26.2069%, total WER: 88.4524%, total TER: 29.3635%, progress (thread 0): 38.6667%]
+
+|T| vjetar slab do umjeren jugozapadni na jadranu umjereno i jako jugo uzdah jutarnja temperatura između jedanaest i šesnaest stupnjeva
+|P| vjetar slab de umjeren jugozapagbina jadranumjeraeno i jako jugo uzdaha ah jutarnja temperatu re izmeđijedanestišestna s stupnjeva udah
+[sample: z06010702303, WER: 68.4211%, TER: 20.155%, total WER: 88.3025%, total TER: 29.2898%, progress (thread 0): 39%]
+
+|T| bura uzdah na otvorenom tramontana osam do dvadeset na srednjem i južnom jadranu mjestimice dvadeset četiri do trideset čvorova
+|P| ud bura h na otvorenom tramou dana obsam do dvladeset na srednjem južnom jadrano mjestimice dvareset četiri do tri deset čvuorova
+[sample: z08020205236, WER: 63.1579%, TER: 14.2857%, total WER: 88.1157%, total TER: 29.1733%, progress (thread 0): 39.3333%]
+
+|T| više sunčanog vremena bit će na jadranu vjetar slab na jadranu u noći i ujutro umjerena i jaka bura na otvorenome moru sjeverozapadnjak
+|P| viša sunužanogremenabiće na jadranog vjetar slat na jadran u u n oći u tr umvienena a jaka bura na o oranomo u sjemerozapadnjak ud ah
+[sample: m05220402202, WER: 91.3043%, TER: 26.8657%, total WER: 88.1441%, total TER: 29.1544%, progress (thread 0): 39.6667%]
+
+|T| inače talijanska tvrtka gradi pet tisuća sedamsto šezdeset metara dugi tunel mala kapela uzdah a budući da je njegova izgradnja pri kraju uzdah
+|P| inačetarianska tvrtkagradi pet tizsuća sednansto šezdeset meatara du i tunalu malakapela uzdah budući de njego iz radnja prikrajiuzda
+[sample: sm04310105109, WER: 86.9565%, TER: 17.0213%, total WER: 88.1336%, total TER: 29.0508%, progress (thread 0): 40%]
+
+|T| vjetar slab do umjeren sjeverni i sjeveroistočni u istočnoj hrvatskoj sjeverozapadni na jadranu većinom umjerena bura navečer će se ponovno ojačati
+|P| vjetar slabdo umjeren sjeverni sjeveroistočneg u istočna hrvatskoisjegerozapadni na jadrnu gećinom umjerena buora navge če će se pomnamno ja četi
+[sample: m10290602102, WER: 71.4286%, TER: 14.966%, total WER: 88%, total TER: 28.9265%, progress (thread 0): 40.3333%]
+
+|T| uzdah vjetar slab do umjeren sjeverni i sjeveroistočni na sjevernom jadranu uglavnom umjerena bura a u dalmaciji zapadnjak i sjeverozapadnjak
+|P| uzdah vjetr slab do umjeren sjeverni sjeverojistočni na sjevernom jadranu uglagnomnumjerena bura u dalmaci zapadnjak ki sjeverozapadnjak
+[sample: z10160402202, WER: 45%, TER: 7.91367%, total WER: 87.6749%, total TER: 28.7526%, progress (thread 0): 40.6667%]
+
+|T| vremenska prognoza za sutra uzdah u unutrašnjosti umjereno do znatno oblačno a uglavnom u prvom dijelu dana još ponegdje slab snijeg
+|P| vremenska oprognoza za souta uzdah uozrerostj i umerena doznakna oblačno a ulavnom u provo gkjelu da naeješ onegvje sla snijeg
+[sample: z05081202401, WER: 71.4286%, TER: 22.1374%, total WER: 87.5469%, total TER: 28.7014%, progress (thread 0): 41%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati sjeverozapadni vjetar četiri do deset uz obalu poslijepodne do četrnaest čvorova
+|P| vremenska prognoza za jadra za parvih dvanaest sati sjeverozapadni vjeta četiri o deset uzaobolru poslijepod ne do četrnaest čvorova
+[sample: z08050702202, WER: 36.8421%, TER: 6.06061%, total WER: 87.1881%, total TER: 28.5262%, progress (thread 0): 41.3333%]
+
+|T| mjestimice udari juga trideset do četrdeset čvorova stanje uzdah dolina s frontalnim sustavom sa zapada primiče se jadranu
+|P| mestimice u da ri ug a tri deset do če tr deset vo r ova stanje uz d h dolina s frontanim sustavom sa zapada rimi še se jadranu
+[sample: m01230502302, WER: 111.111%, TER: 14.0496%, total WER: 87.3474%, total TER: 28.4242%, progress (thread 0): 41.6667%]
+
+|T| uglavnom sunčano u sjeverozapadnom i zapadnom kopnenom području jutro svježe mjestimice s maglom a ponegdje i slab mraz
+|P| pulavnom sunčano uzsjeverozapadnom m i zapadnom ekobmenom području jutro svježe mjestimice s malom ma poneig dje i sla bo mera s t
+[sample: z09270402302, WER: 72.2222%, TER: 15.9664%, total WER: 87.2473%, total TER: 28.3385%, progress (thread 0): 42%]
+
+|T| vremenska prognoza za poslijepodne uzdah u početku još sunčano vrlo sparno i vruće uzdah uz slab do umjeren jugozapadnjak uzdah
+|P| vremenska prognoza za poslijuepodne uzdah u potetkuojošs tsun čanalo vr lvao s par na druće uzdah uza slab do uvjrenjigkozapadnjak uzdah
+[sample: z01240602101, WER: 80%, TER: 18.254%, total WER: 87.1945%, total TER: 28.2656%, progress (thread 0): 42.3333%]
+
+|T| vremenska prognoza za sutra većinom sunčano i toplije naoblaka u gorskome kotaru lici i dalmaciji a ponegdje i malo kiše
+|P| vremenska prognoza za sutra većinom sunčanoitptoplije naoblaka u orskom kotarulicij idalmaci ja ponegdje i malo kiše
+[sample: z04300602301, WER: 45%, TER: 9.16667%, total WER: 86.8888%, total TER: 28.135%, progress (thread 0): 42.6667%]
+
+|T| najviša temperatura od dva do sedam stupnjeva uzdah na jadranu od osam na sjevernom do petnaest stupnjeva na južnome dijelu uzdah
+|P| najviš temperatura d d dvado sedamestoupnjeva zda na jadranu od osam dna sjevenom da do petnaest tupnjeva na južnomedijadu ah
+[sample: z09071202104, WER: 66.6667%, TER: 15.748%, total WER: 86.7362%, total TER: 28.046%, progress (thread 0): 43%]
+
+|T| vremenska prognoza za sutra u unutrašnjosti umjereno do znatno oblačno mjestimice s malo snijega osobito u gorskom kotaru i lici uzdah
+|P| vremenska prognoza za sutra a a u unutrašnjost ji umjereno boznatno oblačno mjestimice zmalo snijega ozsaovmito ugorskom k otaru ici uzdah
+[sample: z08150203301, WER: 71.4286%, TER: 14.2857%, total WER: 86.6215%, total TER: 27.9432%, progress (thread 0): 43.3333%]
+
+|T| vremenska prognoza za sutra uzdah pretežito sunčano ponegdje pljuskovi s grmljavinom i to uglavnom noću i ujutro u sjevernim krajevima uzdah
+|P| vremenska prognoza za sutra za h prežito sumunčano poneigdjepljuskovis gremljavenomi do uglavnom mo oću i i ujutaro u sjevernjim krajvina uzdah
+[sample: z08160602401, WER: 71.4286%, TER: 16.6667%, total WER: 86.5085%, total TER: 27.8564%, progress (thread 0): 43.6667%]
+
+|T| more dva do tri na otvorenom južnog jadrana tri do četiri uzdah vidljivost dvadeset kilometara malo do umjereno oblačno i malo toplije
+|P| more dva do ri na o tovoreno juožna jadrana tri do četiri uzd vi ljivot dese d dvadeset ki ometra malo do umjereno obdoačno malo oplie
+[sample: m10110602304, WER: 63.6364%, TER: 18.797%, total WER: 86.3317%, total TER: 27.7898%, progress (thread 0): 44%]
+
+|T| do plus četiri na jadranu od osam do trinaest stupnjeva sil izgledi vremena do sredine slijedećeg tjedna uzdah promjenjivo oblačno i uglavnom suho uzdah jutra uzdah
+|P| idoplus četirina jadranuo dosam do trinaestupnjevav izvebivaenena o sredine sredećeg tjedna uzdah promjenjji voblačn uglavnom suko ah jutra ud
+[sample: m04180103404, WER: 80.7692%, TER: 22.8395%, total WER: 86.2813%, total TER: 27.7458%, progress (thread 0): 44.3333%]
+
+|T| a vjetar će tijekom jutra na otvorenome moru okrenuti na sjeverozapadnjak uzdah do kraja dana uz obalu na slabu do umjerenu buru
+|P| na jetad će t je kom jutra n otvorenom moru o krenuo ti na sjevero zapadnjak zdah t kradana zs obalu na slabiu d umjereno buru
+[sample: m01280602208, WER: 86.3636%, TER: 17.3228%, total WER: 86.282%, total TER: 27.6737%, progress (thread 0): 44.6667%]
+
+|T| vremenska prognoza za sutra bit će promjenljivo oblačno sa sunčanim razdobljima ujutro u unutrašnjosti mjestimice magla uzdah
+|P| vremenska progonoza za sutra d ijćepromjenu vo oblačno za sunčanim razdo bljima ujutroa u unu trašnjo sti mjestimice magla uzdah
+[sample: z02291202301, WER: 70.5882%, TER: 10.6557%, total WER: 86.1903%, total TER: 27.5614%, progress (thread 0): 45%]
+
+|T| vjetar slab sjeveroistočni na jadranu slaba i umjerena a u noći i ujutro mjestimice i jaka bura te istočnjak uzdah
+|P| vjetar slab sjveroistoačni na jadranu sloba i umjarena u moći i u jutromjestimice i jaka bura te istočnjk uzdah
+[sample: z04210203303, WER: 45%, TER: 8.84956%, total WER: 85.9092%, total TER: 27.4477%, progress (thread 0): 45.3333%]
+
+|T| sava zagreb minus dva pet jedan minus dvjesto pedeset jedan sava crnac sedam četiri sedamdeset četiri
+|P| sava zagre minus dva pet ijedan minus ijesto pedeset jedan savacarnac sedamn četiri sedemndeset četiri
+[sample: z04190205138, WER: 43.75%, TER: 8.91089%, total WER: 85.6804%, total TER: 27.3476%, progress (thread 0): 45.6667%]
+
+|T| mjestimice neverini sil na južnom jadranu na početku ponegdje udari juga uzdah do trideset šest čvorova oslabjet će
+|P| mjpmjestimicse ne erini ilna južne jadranu na početku pone gdj u dari juga d l do trideset šest čvorova oslabjeće
+[sample: m04040502402, WER: 72.2222%, TER: 15.6522%, total WER: 85.5987%, total TER: 27.2761%, progress (thread 0): 46%]
+
+|T| u sjeverozapadnim krajevima i na sjevernom jadranu već poslijepodne a do kraja dana i u ostalim područjima smanjenje naoblake uzdah
+|P| usjevero zapadnim hraevie mari na sjevernom jadranu ve poslie podn nae adokrajadana i uorstaelim područi ma szmanjenje naoblakče uzdah
+[sample: z09310105302, WER: 80%, TER: 17.8295%, total WER: 85.5611%, total TER: 27.2118%, progress (thread 0): 46.3333%]
+
+|T| vremenska prognoza za sutra uzdah na sjevernom i srednjem jadranu djelomice sunčano u unutrašnjosti umjereno do znatno oblačno
+|P| vremenska prognoza za sutra zda a na sjedeno i srednam jadranu djelomicte sumnčano u unotrašnjosti umjereno dlo zna noblačno
+[sample: sm04311202401, WER: 55.5556%, TER: 12.0968%, total WER: 85.3813%, total TER: 27.1135%, progress (thread 0): 46.6667%]
+
+|T| ponegdje sa slabom kišom umjerena do jaka bura danju će malo oslabiti a na sjevernom jadranu i dalje ponegdje vrlo jaka bura uzdah
+|P| vponegdj s slabon kišom uzda umjerena do jaka bura dajnuičćavmalo oslabiti a na sjevernom jadrnu ji danje ponegdje vuro jakabura uzdah
+[sample: z07081202308, WER: 60.8696%, TER: 16.4062%, total WER: 85.195%, total TER: 27.0421%, progress (thread 0): 47%]
+
+|T| na jadranu od jedan do pet uzdah a najviša dnevna od ništice do četiri na jadranu od sedam do dvanaest stupnjeva
+|P| na jadranu d jedaon do pet uzdah a najviša dnev na odniešti ce do četieri na jadranu od sedam do dvanaest stupnjeva
+[sample: z04210203304, WER: 38.0952%, TER: 6.30631%, total WER: 84.8704%, total TER: 26.9229%, progress (thread 0): 47.3333%]
+
+|T| vremenski izgledi do kraja ovog tjedna pretežno suho i djelomice sunčano u nedjelju oblačnije na zapadu i malo kiše uzdah
+|P| vremenski i zgredi do ajeopog jedna pretežnou suo delnmice sunčano u nedielu oblaočšč ni na zapadlimalo kiše uzdah
+[sample: z06280104304, WER: 80%, TER: 20.8333%, total WER: 84.8386%, total TER: 26.8853%, progress (thread 0): 47.6667%]
+
+|T| kratkotrajna kiša ili pljuskovi uglavnom na sjevernome jadranu i u gorskome kotaru uzdah a noćas i ujutro i ponegdje u sjevernim krajevima uzdah
+|P| kratkoutrana kiša i ie pljuskovjuglavnom na sjevernom jadranu j gorskom kotaru a noće sij ujutro i ponegdje u sjevernjim k rajdina uzdah
+[sample: z08090502403, WER: 65.2174%, TER: 18.1818%, total WER: 84.6926%, total TER: 26.8217%, progress (thread 0): 48%]
+
+|T| vjetar u kopnenom području slab a na jadranu umjerena do jaka bura ponegdje s olujnim udarima uzdah osobito noću i ujutro
+|P| vjetaru konljenom podru će slab p a na jadrnu pumjerena du jaka bura ponegdje soujmni udarivma uzdah osbi to noaoćču i juvujutra
+[sample: z05170203405, WER: 71.4286%, TER: 20.6612%, total WER: 84.603%, total TER: 26.7838%, progress (thread 0): 48.3333%]
+
+|T| a poslijepodne će slabjeti i okretati na sjeverozapadnjak uzdah najviša dnevna temperatura od minus četiri do plus jedan uzdah
+|P| ao poszie podneće slabie ti i ijokretatina sjevrozapvadnjak zdah najviša nenate pratura odl minus četiri to plu sjedan uzdah
+[sample: sm04310105128, WER: 84.2105%, TER: 17.6%, total WER: 84.6006%, total TER: 26.7259%, progress (thread 0): 48.6667%]
+
+|T| na jadranu jako ponegdje i olujno jugo koje će krajem dana na sjevernom dijelu oslabjeti i okrenuti na jugozapadnjak
+|P| na jadranu jako ponegegdje i oulurino jugo kojećeakrajen dana na sjevernom dijelu oslab e ti o krenut i na jugozadnjak
+[sample: z04050602307, WER: 63.1579%, TER: 13.0435%, total WER: 84.4713%, total TER: 26.6469%, progress (thread 0): 49%]
+
+|T| vremenska prognoza za sutra promjenjivo oblačno sa sunčanim razdobljima a najviše sunčana vremena u dalmaciji i istočnoj slavoniji uzdah
+|P| vremnenstka protpo za za sutra promijeljiroblačneo sa sunčadi azdobdjimana jeviše suntčana ramernaou danmacistočnae slabodndi udah
+[sample: z06010702301, WER: 89.4737%, TER: 29.1045%, total WER: 84.5013%, total TER: 26.6633%, progress (thread 0): 49.3333%]
+
+|T| polje malo sniženog tlaka zraka zadržava se nad jadranom uzdah vremenska prognoza za jadran za prvih dvanaest sati
+|P| poljemalosnijženoubk dh tlaka zraka za derževa senaedjadranomu uz d h vremenska prognoza za jadran za prvih dvanae t seati
+[sample: z05260502303, WER: 66.6667%, TER: 17.6991%, total WER: 84.4005%, total TER: 26.6131%, progress (thread 0): 49.6667%]
+
+|T| izvještaj pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda od devetnaest sati uzdah upozorenje uzdah
+|P| vizvešta p omors spkog meteorološkog caenta s plit držaov no idom te orološko zav od de et nae st ati uz zadah u g z orenjlje
+[sample: z07300105420, WER: 171.429%, TER: 31.9672%, total WER: 84.7812%, total TER: 26.6453%, progress (thread 0): 50%]
+
+|T| oslabit će poslije podne i ponegdje se kratkotrajno okrenuti na zapadni i sjeverozapadni vjetar uzdah pet do trinaest čvorova
+|P| osadbdit će poslrjpodne uzd h ponegdese kraktoanmo renu ti ina zapadni sjeverozapadne vjetar uzdah p et do ri neašt čvorova
+[sample: m11150502106, WER: 84.2105%, TER: 24.8%, total WER: 84.7779%, total TER: 26.634%, progress (thread 0): 50.3333%]
+
+|T| premda se koncentracija peluda hrasta polako smanjuje uzdah koncentracija peluda trava također je visoka uzdah
+|P| premnja sljeko cen tracija perudahrasta polako s manjije uzdah od ventracija pealuda trada ta kod ćerjieisoaka u zdah
+[sample: z11070502202, WER: 113.333%, TER: 23.8532%, total WER: 84.9103%, total TER: 26.6193%, progress (thread 0): 50.6667%]
+
+|T| umjerena naoblaka povremeno i na južnom jadranu vjetar u kopnenom području slab a na jadranu umjerena do jaka bura uzdah
+|P| umjrenanaoblaka povremena ina južnoem a ranu vjetro ko pnernom podrošću slaba a na jadranu umjerena do jakadbura uzdh
+[sample: z03170203302, WER: 75%, TER: 15%, total WER: 84.8494%, total TER: 26.5518%, progress (thread 0): 51%]
+
+|T| na jadranu od dva na sjevernom do jedanaest na južnom uzdah dnevna od minus dva do tri uzdah na jadranu od osam do trinaest stupnjeva
+|P| na jadaranun d d va na sjevrnoumu o edanesna južnom uzdah lejevenao minus dvado triniu zdah a jadra u o dosam do trinaes dtupnjeva
+[sample: z12170103404, WER: 84%, TER: 21.2121%, total WER: 84.8429%, total TER: 26.5178%, progress (thread 0): 51.3333%]
+
+|T| na sjevernom jadranu pretežno oblačno mjestimice s kišom pljuskovima i grmljavinom uzdah drugdje promjenjljivo oblačno
+|P| no sjevrnom ja dranu pretežno obulačno jestimice s kišom pljus kožli ma i permljavinom uzdah jdrlugdijet promjenj vorlačno
+[sample: z09030502308, WER: 93.3333%, TER: 18.1034%, total WER: 84.8816%, total TER: 26.4712%, progress (thread 0): 51.6667%]
+
+|T| una hrvatska kostajnica jedan dva dva sto dvadeset dva i neretva metković pet osam pedeset osam
+|P| una hrvatska kosta enica d jedam dvadana sto dvadesetdvana i eretp ometković kaetosam e deset t osam
+[sample: m09060502105, WER: 81.25%, TER: 23.1579%, total WER: 84.864%, total TER: 26.4562%, progress (thread 0): 52%]
+
+|T| zatim posvuda slab do umjeren sjeverozapadni vjetar uzdah more malo do umjereno valovito sil malo svježije
+|P| tzazatim po suda slab do umjena sjeverozapadnivjetaruzah more malo do umjerenovalovito malo sježjije ah
+[sample: z09190502304, WER: 75%, TER: 19.8113%, total WER: 84.8166%, total TER: 26.4228%, progress (thread 0): 52.3333%]
+
+|T| vremenska prognoza za sutra sunčano s promjenjivom naoblakom najsunčanije na jadranu u gorskom kotaru i lici uzdah
+|P| vremenska rognoza za sutra sunčano promjenjivom naoblakomnaesunčanij na jadranu u gorskm kotaru ilici uzdah
+[sample: z06140204401, WER: 47.0588%, TER: 7.07965%, total WER: 84.6246%, total TER: 26.3198%, progress (thread 0): 52.6667%]
+
+|T| biometeorološka prognoza za sutra sil biometeorološki uzdah će utjecaj biti vrlo povoljan što će poticajno djelovati na ljude
+|P| b biometeoroška prognoza za sutra ua ah dijometeorološki će uteice bitivron po uljan uzdah o će poticeno delovatinea ljud
+[sample: sm04140105201, WER: 83.3333%, TER: 30.8943%, total WER: 84.6177%, total TER: 26.3461%, progress (thread 0): 53%]
+
+|T| uz obalu zapadni i sjeverozapadni vjetar šest do četrnaest u noći bura pet do petnaest u velebitskom kanalu do dvadeset dva čvora uzdah
+|P| uz obalu zapadni sjeverozapadni vje tara šestdo četerdnaest u naoći bura petdo etnak tu velebitskom kanalvu do dvadese dva čvora uzdah
+[sample: m10240402105, WER: 56.5217%, TER: 11.1111%, total WER: 84.4267%, total TER: 26.2503%, progress (thread 0): 53.3333%]
+
+|T| pretežito vedro s mjestimičnom sumaglicom sutra kratkotrajno umjereno naoblačenje uzdah temperatura se neće znatnije mijenjati
+|P| pretežito vedro smestijmi šal s umagticsom su prakratkjutrano umjereno na oboačenje d h te mperatura se eće zna njnnje ije nati
+[sample: m11160602207, WER: 113.333%, TER: 24.1935%, total WER: 84.5543%, total TER: 26.2385%, progress (thread 0): 53.6667%]
+
+|T| umjerena do jaka ponegdje vrlo jaka bura na otvorenom tramontana oslabjet će do kraja dana na slabu do umjerenu uzdah
+|P| umjerena do jaka ponegdje vorluo jaka bura na otvrenom tdrama n tana osladie će do kra danana slabu du umjerenu uzdah
+[sample: z07300105417, WER: 55%, TER: 11.9658%, total WER: 84.3814%, total TER: 26.1616%, progress (thread 0): 54%]
+
+|T| ne navodeći izvore svojih informacija piše da je uzrok neočekivanom povlačenju iz diplomacije upletenost bračnog para montgomeri
+|P| udahne nalodieći izvoresve hnjinvrmacie uz ah išadaeu uzaogpknemo čekivano polačinjmu izdi plonmacije u patena st pračn para maugmomeri
+[sample: sm04050204440, WER: 100%, TER: 39.3701%, total WER: 84.4587%, total TER: 26.2384%, progress (thread 0): 54.3333%]
+
+|T| pretežito sunčano i toplo potkraj subote i u noći na nedjelju prolazna naoblaka mjestimice s kratkotrajnom kišom
+|P| pmpretešži da suounčanao itoplo potkae suo t u noćir anaegdij vljuprolasza nao blaka mjestimice skratkotrajeno išao
+[sample: z11030702305, WER: 88.2353%, TER: 30.6306%, total WER: 84.4773%, total TER: 26.2606%, progress (thread 0): 54.6667%]
+
+|T| vidljivost deset do dvadeset kilometara mjestimice sumaglica na sjevernom jadranu noću i ujutro magla sil vedro
+|P| vidljvost deset do dvadeset kilometara mjestimice sumalica na sjeverom jadraunoću iujuitro maoaglva vetro
+[sample: z08190602207, WER: 62.5%, TER: 12.7273%, total WER: 84.3759%, total TER: 26.1932%, progress (thread 0): 55%]
+
+|T| proteklih je dana u zagrebu bila visoka koncentracija peluda drveća ponajviše hrasta i divljeg kestena uzdah
+|P| isptrote pi jeda u zara udila i sokakoa cendtracja prjrelu pad dr mečćia ponagviša h ra stajigdi pljjegji estedna uzdah
+[sample: z11070502201, WER: 118.75%, TER: 41.1215%, total WER: 84.5337%, total TER: 26.2652%, progress (thread 0): 55.3333%]
+
+|T| uzdah pretežito oblačno povremeno s kišom osobito poslijepodne i navečer uzdah a sunčanih razdoblja bit će uglavnom uz zapadnu obalu istre
+|P| uzda pretežito oblačno poremeno s kišomnosovjito poslij podne i navečer uzdah sunčanihirazaobljabić uglavnom uzapadndobalistere
+[sample: sm04231202201, WER: 71.4286%, TER: 15.3285%, total WER: 84.4552%, total TER: 26.1981%, progress (thread 0): 55.6667%]
+
+|T| a tijekom dana umjeren sjeverozapadnjak uzdah najniža jutarnja temperatura od minus trinaest do minus sedam stupnjeva uzdah
+|P| patjiekom danjna umjeren sjeverozapadnjak dzda najnižajutrnjeatemperatura od minus trinaest dominus sedamststupnjeva uzda
+[sample: z09230203402, WER: 70.5882%, TER: 12.5%, total WER: 84.3883%, total TER: 26.1248%, progress (thread 0): 56%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati promjenljivo oblačno mogući su pljuskovi i grmljavina ponajprije na južnom i srednjem jadranu uzdah
+|P| vmvremenska prognoza za siedećh dvanaet sati promjen ljiv blačno mo gući su pljuskoi grmeljavi na p naj ptri jena južnom i serednjem jadranu uzdah
+[sample: m10200502304, WER: 85%, TER: 14.7887%, total WER: 84.3918%, total TER: 26.0534%, progress (thread 0): 56.3333%]
+
+|T| prema posljednjim podacima poginulo je pedeset i šest osoba a dvjesto je ranjeno pri eksploziji u uredima dviju vodećih kurdskih stranaka
+|P| nsopnkn pramoa požlje njum godacima pognu aedese šestosobadvjest jranjeno pieikskvozi uredimad i uodećih u skistanaka
+[sample: sm04020204219, WER: 95.2381%, TER: 38.0597%, total WER: 84.4557%, total TER: 26.1243%, progress (thread 0): 56.6667%]
+
+|T| ujutro uglavnom slaba bura uzdah a danju slab do umjeren sjeverozapadni vjetar uzdah more malo do umjereno valovito udarac
+|P| uzdasutr oglavnom slaba bura uzdah danju slab do umjeren sjeverozapadni vjetar uzdah more malo d umjer na valovito
+[sample: m04050502208, WER: 47.3684%, TER: 14.876%, total WER: 84.259%, total TER: 26.0647%, progress (thread 0): 57%]
+
+|T| una hrvatska kostajnica sil osam devet sil osamdeset devet uzdah i neretva metković sil šest četiri sil šezdeset četiri
+|P| una hrvatska kostanica osam deret osamdesetdet ineaeretva metković šest četiri šezdeset četiri
+[sample: sm04170105168, WER: 57.8947%, TER: 24.3697%, total WER: 84.1199%, total TER: 26.0559%, progress (thread 0): 57.3333%]
+
+|T| vremenska prognoza za sutra uglavnom sunčano i toplije ponegdje umjerena naoblaka ponajprije u lici i dalmatinskome zaleđu
+|P| vremenska prognozaza sutra uglavnom sumiča no ito pilije p onegdj m jereanan naoblaka pona ejtri u li i cinda omoatinskom zaleću
+[sample: m11250602301, WER: 94.1176%, TER: 21.3115%, total WER: 84.1669%, total TER: 26.0308%, progress (thread 0): 57.6667%]
+
+|T| stanje uzdah ciklonalno polje nad jadranom sporo se popunjava sil vremenska prognoza za jadran za prvih dvanaest sati
+|P| sitstanje zdah sulo na n porenad jadranomn sporose popunnjava vremenska prognoza za jadran za prvi dvanaest sati
+[sample: z01070602202, WER: 61.1111%, TER: 17.5439%, total WER: 84.0528%, total TER: 25.989%, progress (thread 0): 58%]
+
+|T| u talijanskome gradu bolđanu uhićen je kapelan đorđo karli osumnjičen za seksualno zlostavljanje maloljetnika
+|P| utalijanskom j gradu bolvnčžeanu u vićenje ka pelan đu vorčćokatli o luničen za seksvomo zvoslavanjemaloglj ektnika
+[sample: sm04140703314, WER: 100%, TER: 34.2857%, total WER: 84.1139%, total TER: 26.0265%, progress (thread 0): 58.3333%]
+
+|T| uglavnom oblačno mjestimice kiša moguća grmljavina uzdah u obalnom pojasu sjevernog jadrana moguća susnježica uzdah
+|P| uglavnom oblačno mjestimice kiša mao gučeo grmljaevinr uzda uomlolnom porja seo sjevreno gjadrna mo guća susježeicauzdah
+[sample: z05060103401, WER: 80%, TER: 22.1239%, total WER: 84.0971%, total TER: 26.0076%, progress (thread 0): 58.6667%]
+
+|T| uzdah more dva do tri oslabit će na jedan do dva uzdah vidljivost između deset i dvadeset kilometara pretežito vedro
+|P| uzmdahm more dvado tri oslobitć na jerdando drva z i viedlljivo c zmede deseti dvadeset kilvometera petježitovetro
+[sample: z05160502404, WER: 80%, TER: 23.4783%, total WER: 84.0749%, total TER: 25.9952%, progress (thread 0): 59%]
+
+|T| najviša temperatura od trinaest do osamnaest stupnjeva u gorskom kotaru i lici malo niža
+|P| upvivn i vjarizakpemgbrapu rao t inžest o seaunljo st tubpnjra ug r tpom ko tor jeici a onjućoš pu u u
+[sample: z04050402205, WER: 150%, TER: 65.5172%, total WER: 84.3243%, total TER: 26.1409%, progress (thread 0): 59.3333%]
+
+|T| na sjevernom jadranu u početku ponegdje smanjena na oko jedan do četiri kilometra zbog sumaglice ili magle uzdah ali će se poboljšati
+|P| na sjevrom jadranu puočetku ponegdje smanjenana oko jedan do četiri kilometra zbog sumagbliceilimagle uzdah av će se poboljšati
+[sample: sm04241202402, WER: 45.4545%, TER: 8.39695%, total WER: 84.0946%, total TER: 26.043%, progress (thread 0): 59.6667%]
+
+|T| sunčano i toplo vjetar slab na jadranu u noći i ujutro slaba do umjerena bura a danju zapadnjak i sjeverozapadnjak uzdah
+|P| sunčano itoplovjetar slabna jadranu noći i ujutro slabado umjerena buradanj zapadnjaeki sjeverozapadnjak udh
+[sample: z06150502201, WER: 66.6667%, TER: 11.9658%, total WER: 83.9968%, total TER: 25.9739%, progress (thread 0): 60%]
+
+|T| vjetar južni i jugozapadni četiri do deset čvorova more jedan do dva vidljivost deset do dvadeset kilometara uzdah
+|P| vmvje a rjužni juguoza a ni i četiri do eset čvo rova mo o r e jitnando dva v id i ro st dese r dvadeset kilometarauz da
+[sample: m11200602303, WER: 133.333%, TER: 29.2035%, total WER: 84.2329%, total TER: 25.9891%, progress (thread 0): 60.3333%]
+
+|T| sava zagreb minus dva šest osam minus dvjesto šezdeset osam sava crnac minus jedan dva šest
+|P| sava zarlebve aminusz drvašestosam minu z ijesto šetde set osam savaca nac minus jedam dva šes
+[sample: z08310105157, WER: 75%, TER: 21.978%, total WER: 84.1938%, total TER: 25.974%, progress (thread 0): 60.6667%]
+
+|T| vjetar zapadni i sjeverozapadni pet do trinaest čvorova noću će okrenuti na istočni i jugoistočni četiri do deset
+|P| vjetarzapadn iseverozapadi pet do trinae t čuorova nočćutšće krejnu ti na istočni j goisaočni četiri do aest
+[sample: z08210502208, WER: 77.7778%, TER: 16.8142%, total WER: 84.1634%, total TER: 25.9311%, progress (thread 0): 61%]
+
+|T| administracija američkog predsjednika džordža buša potpisat će sporazum o otpisu iračkog duga prema sjedinjenim državama uzdah
+|P| anmnistracijameričko pretjenikadoržr buša po pizseće sporeo zum o oktki su iratkog duga prema sjedinjnim državana uzdah
+[sample: sm04171204116, WER: 87.5%, TER: 21.1382%, total WER: 84.1774%, total TER: 25.9069%, progress (thread 0): 61.3333%]
+
+|T| ujutro uglavnom slaba bura a danju slab do umjeren sjeverozapadni vjetar more malo do umjereno valovito
+|P| ujutr uglavnom slaba uradanju slab d umjeren sjeverozapadni vjetar uzd a moremalo do ujereno valovito udah
+[sample: z10050502310, WER: 62.5%, TER: 18.6275%, total WER: 84.0868%, total TER: 25.8764%, progress (thread 0): 61.6667%]
+
+|T| četiri sindikalne središnjice odlučile su uzdah ne sudjelovati u radu gospodarsko socijalnog vijeća dok vlada sporni ugovor ne otkaže
+|P| očetirisindikana seredvišnji cs dlučele suzdah nesu dielovatiuradugu svodaosko so selo kijećea do vlada s pornju govr ne ot aže
+[sample: sm04171204122, WER: 100%, TER: 28.0303%, total WER: 84.1654%, total TER: 25.888%, progress (thread 0): 62%]
+
+|T| vidljivost deset do dvadeset kilometara uzdah promjenjivo oblačno još ponegdje na južnom jadranu u početku kiša uzdah
+|P| vidivbost dese do dvadese kilomnetara uz da romenivo oblačno jež ponegdgena južne jadranu ugvočžeteku kiša
+[sample: z07290105314, WER: 82.3529%, TER: 22.6087%, total WER: 84.1574%, total TER: 25.8727%, progress (thread 0): 62.3333%]
+
+|T| polje povišenoga tlaka zadržava se iznad jadranom a oslabljena hladna fronta pomiče se preko južnog jadrana na istok
+|P| poljje e povišenogr tvakae zadržavo se i zna djadrana uzdah a ostabnje na vladno vfromnta pomvi če o prako južnog jedrana na i stok
+[sample: m11250402303, WER: 111.111%, TER: 27.193%, total WER: 84.2824%, total TER: 25.8788%, progress (thread 0): 62.6667%]
+
+|T| u noći i ujutro pretežito oblačno u unutrašnjosti ponegdje slab snijeg a uglavnom na srednjem i južnom jadranu kiša
+|P| unoći i ujiutro pretržito ogblačno unutrašnjosti ponegdjeslab snieig k ahar pa uglavno na srednjem južnom jadranu kiša
+[sample: z08310105426, WER: 68.4211%, TER: 17.6991%, total WER: 84.2051%, total TER: 25.8416%, progress (thread 0): 63%]
+
+|T| uzdah italija je ovu godinu dočekala neoubičajeno mirno iz poštovanja i solidarnosti sa stradalima u katastrofi
+|P| uzdah h i tavi jae u godinu dočekola neuobičenomierno ispoštovanje sori danosti se stralim kate strofi
+[sample: sm04010105137, WER: 100%, TER: 29.0909%, total WER: 84.2697%, total TER: 25.8559%, progress (thread 0): 63.3333%]
+
+|T| promjenljivo oblačno moguća kiša ili pljusak na sjevernom jadranu osobito u noći uzdah temperatura bez veće promjene
+|P| promieili vo oblačno mogućakiša ili prusatk na sjeverno jadranu osobitunoće udah temperatura dezečćepromjene
+[sample: z10080602203, WER: 76.4706%, TER: 15.7895%, total WER: 84.236%, total TER: 25.8102%, progress (thread 0): 63.6667%]
+
+|T| vjetar slab a u noći i ujutro duž obale još ponegdje umjerena bura uzdah najniža jutarnja temperatura od minus osam uzdah
+|P| vjetar slab a umoći ujetraogdu obgolaješ pon gdj umjerena bura h najnjiša im tara trmeratura od minus osam uzdah
+[sample: z01191202402, WER: 66.6667%, TER: 22.5%, total WER: 84.1426%, total TER: 25.7944%, progress (thread 0): 64%]
+
+|T| vremenska prognoza za sutra sil djelomice sunčano uzdah više oblaka u dalmaciji gdje mjestimice može pasti i malo kiše
+|P| vremenska prognoza za sutra i d djelomice sunčano z zah viš oblaka u al maci dje mesticemoža tpasti mal o kiše
+[sample: sm04251202301, WER: 63.1579%, TER: 17.7966%, total WER: 84.0423%, total TER: 25.7572%, progress (thread 0): 64.3333%]
+
+|T| najniža temperatura između devet i četrnaest stupnjeva u gorju od šest do deset na jadranu od sedamnaest do dvadeset dva uzdah
+|P| najniža temperaturezmeđu deveti četrnaeststupnjeva or jud šest do deset na jadranu od sedamest do dvadesetdva uzdah
+[sample: z08300602403, WER: 61.9048%, TER: 11.2%, total WER: 83.9259%, total TER: 25.6857%, progress (thread 0): 64.6667%]
+
+|T| na jadranu između uzdah devet i četrnaest stupnjeva sil vrijeme do kraja tjedna sil u petak djelomice sunčano
+|P| na jadranu z među det i četrnes supnjeva vrijemne dohraja jedna u peta djelomice sunčano
+[sample: m04251202304, WER: 66.6667%, TER: 24.0741%, total WER: 83.8485%, total TER: 25.6788%, progress (thread 0): 65%]
+
+|T| promjenljivo oblačno s više naoblake na srednjem i južnom jadranu uzdah mjestimice kiša uglavnom na južnom jadranu uzdah
+|P| promjeni vo oblačščno išae na oblakjena srednjem ijužnom javdranu mjestimice kiša udlavnom ne ijužom jadranu
+[sample: z10061202208, WER: 77.7778%, TER: 24.5763%, total WER: 83.8213%, total TER: 25.6738%, progress (thread 0): 65.3333%]
+
+|T| uzdah kupa radenci jedan jedan nula sto deset kupa karlovac jedan pet sedam sto pedeset sedam
+|P| uzdah u para encei jedan je dean ula sto deaset kupak arlovbac j jedan pe cetdam sobpedeset saedam
+[sample: m09020502107, WER: 100%, TER: 21.5054%, total WER: 83.8853%, total TER: 25.6587%, progress (thread 0): 65.6667%]
+
+|T| na jadranu većinom sunčano povremeno s umjerenom naoblakom uzdah vjetar slab u gorju i umjeren jugozapadni
+|P| na jadranu većinom sunčano povremeno sumjerenom naoblakom uzdah vjetar slab u uorju i umjeren jugozapadni uzd
+[sample: z02130103302, WER: 31.25%, TER: 5.66038%, total WER: 83.678%, total TER: 25.5768%, progress (thread 0): 66%]
+
+|T| okrenut će na sjeverozapadni vjetar četiri do dvanaest a tijekom noći uz obalu ponegdje burin četiri do deset čvorova uzdah
+|P| okrenu će nasjvrozapadni vjetar če tiri do dvanaesta ijekom noćiu u s obalu ponegdje urin četiri do deset čorova uzdah
+[sample: sm04210602207, WER: 65%, TER: 9.7561%, total WER: 83.5865%, total TER: 25.502%, progress (thread 0): 66.3333%]
+
+|T| vremenska prognoza za sutra uzdah na jadranu sunčano a u kopnenom području će se razvedriti premda će
+|P| vremenskapognoza za suta uzdah najadanu su čano a kopljenom poderuču će terasvedrieti pretedea t se
+[sample: z01181202401, WER: 82.3529%, TER: 20.7921%, total WER: 83.5814%, total TER: 25.4837%, progress (thread 0): 66.6667%]
+
+|T| vjetar južni i jugozapadni osam do šesnaest čvorova na području kornata zapadni do dvadeset čvorova oslabjet će uzdah
+|P| vjetarjužnijugoznapadi osajhdo šesnaestščvovraovana kotrlujčjmu korinma ta zapad i do dvadaset čvoro a osla bjetčćea uzdah
+[sample: m05040103301, WER: 100%, TER: 22.2222%, total WER: 83.6531%, total TER: 25.4692%, progress (thread 0): 67%]
+
+|T| vjetar slab do umjeren sjeverni i sjeveroistočni na jadranu sjeverozapadni uzdah a potkraj dana uz obalu bura
+|P| vjetar slab do umjeren sjeverni sjevromistočnji na jadranu sjeverozapadni uzdah a potraj dana uzslobalu duja
+[sample: z11100702403, WER: 41.1765%, TER: 9.17431%, total WER: 83.4785%, total TER: 25.4017%, progress (thread 0): 67.3333%]
+
+|T| na otvorenom tramontana osam do dvadeset na srednjem i južnom jadranu mjestimice dvadeset četiri do trideset čvorova
+|P| na otvorenom ramoutana osam do dvadeset na srednjem j užnom jadranu mjestimice dvadeset četiri do trideset čvorova
+[sample: z08020205345, WER: 17.6471%, TER: 3.47826%, total WER: 83.2089%, total TER: 25.3064%, progress (thread 0): 67.6667%]
+
+|T| kako doznajemo nije poznato jeli otpad tehnološki ili opasan uzdah no sigurno je riječ o nezakonitom odlaganju uzdah
+|P| kakodoznajmo nijpoznato jel otpate nološ ki ieli oplasa uzdah si u nerječko ne zakonitom podlabenju uz
+[sample: sm04310105107, WER: 100%, TER: 26.087%, total WER: 83.2814%, total TER: 25.3097%, progress (thread 0): 68%]
+
+|T| u slavoniji povremeno sunčano vjetar slab do umjeren južni i jugozapadni a na jadranu umjereno i jako jugo uzdah
+|P| u lalo nieporeveano sunčanu vietarslab do ujeren j užni jugozapad ni rana jadranu umjereno o i jako jugo uzdah
+[sample: m05050602102, WER: 68.4211%, TER: 18.75%, total WER: 83.2139%, total TER: 25.2822%, progress (thread 0): 68.3333%]
+
+|T| jutarnja temperatura u unutrašnjosti od osam do trinaest stupnjeva a na jadranu od četrnaest do dvadeset uzdah
+|P| jutanja tempevatura u unutrašnja ti r doszsam da dtrinaestupnjeva na jadranu odt četrnaest do dvadeset u uzdah
+[sample: z09040502404, WER: 70.5882%, TER: 17.757%, total WER: 83.1629%, total TER: 25.2521%, progress (thread 0): 68.6667%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati zapadni i sjeverozapadni vjetar šest do šesnaest uzdah
+|P| vremenska prognoza za jadran zaprvih dvanaest sati zapadni i sjeverozapadni vjetar šest došestnaest
+[sample: z04130502203, WER: 31.25%, TER: 8.49057%, total WER: 82.9661%, total TER: 25.186%, progress (thread 0): 69%]
+
+|T| more dva do tri vidljivost deset do dvadeset kilometara uzdah pretežno oblačno s kišom te mjestimice pljuskovima i grmljavinom
+|P| moretva do tri h vidljvoste desetdo dvadesetkilometara uz preteržnoblačnoskišom te mjestimice pljuskovim i grmljaovinom
+[sample: m09090602203, WER: 73.6842%, TER: 14.6341%, total WER: 82.9245%, total TER: 25.1379%, progress (thread 0): 69.3333%]
+
+|T| cijeloj zemlji meteoropati bi mogli patiti od glavobolje te imati poteškoća sa snom i koncentracijom uzdah
+|P| csijelom zemljnjiei meteorotpati dvi moge patiet odglavobolje ti emati po treškonšća sa suno ih koln eam raciom uzdah
+[sample: z14241204403, WER: 106.25%, TER: 26.9231%, total WER: 83.0122%, total TER: 25.1448%, progress (thread 0): 69.6667%]
+
+|T| izvješće pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda upozorenje
+|P| izvješće popolrskogmeteorlološkog centra s pit državnog hidrometeorovloškog zavoda u tpozmorenje
+[sample: z11070502301, WER: 77.7778%, TER: 11.1111%, total WER: 83.0012%, total TER: 25.0984%, progress (thread 0): 70%]
+
+|T| vremenska prognoza za poslijepodne sil većinom oblačno sil sunčano mjestimice u istočnim predjelima i u dalmaciji
+|P| vremenska prognoza za posli epordne l pvećinom oblačno sisil sunča no jestmjiceu i stočem prederi a iu dalamaci
+[sample: sm04111202101, WER: 87.5%, TER: 19.469%, total WER: 83.018%, total TER: 25.0751%, progress (thread 0): 70.3333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati jugo dvanaest do dvadeset dva čvora postupno će slabiti
+|P| vremenska prognoza zajadran za prvih dvanest sati dh ju god dvanaest do dvadesei dvačvora p ostupno e slabiti
+[sample: z10240502203, WER: 64.7059%, TER: 10.2804%, total WER: 82.9456%, total TER: 25.0173%, progress (thread 0): 70.6667%]
+
+|T| će na jadranu u noći i ujutro biti oblačno u dalmaciji sa snijegom i kišom zatim razvedravanje uzdah
+|P| se a adranu unoći i ujutrobitj oblačno u dalmaci za snijepomi kišom zatim razvebravanje uzdah
+[sample: z09280105403, WER: 72.2222%, TER: 12.1212%, total WER: 82.9008%, total TER: 24.9709%, progress (thread 0): 71%]
+
+|T| na jadranu od pet do deset udarac najviša dnevna od minus dva do tri uzdah na jadranu od osam do četrnaest stupnjeva uzdah
+|P| na jadranu petodest p ah aj iša nev na od minus lva do tri uzdah na jadranu odosam do č trmaestupnjeva zda
+[sample: m11121202404, WER: 60.8696%, TER: 20.6612%, total WER: 82.7841%, total TER: 24.9521%, progress (thread 0): 71.3333%]
+
+|T| vremenska prognoza za poslijepodne sil djelomice sunčano povremeno s umjerenom naoblakom te iznadprosječno toplo
+|P| vremenska prognoza za poslijepodmne djelomice sungano povremeno sumjerenom aoblakomn pe i zna plrosječno ptoptlo
+[sample: z08060204134, WER: 71.4286%, TER: 13.3929%, total WER: 82.7475%, total TER: 24.9054%, progress (thread 0): 71.6667%]
+
+|T| vjetar uglavnom slab u gorju umjeren sjeveroistočni i istočni na jadranu umjerena i jaka bura mjestimice s olujnim udarima
+|P| vjetruganom slabugor jumerenm se eroistoične i stočnina jadran umjerena jaka bura mjesti mi ce solu i n m uodarima
+[sample: m05081202302, WER: 100%, TER: 22.9508%, total WER: 82.8225%, total TER: 24.8968%, progress (thread 0): 72%]
+
+|T| vrijeme sutra u unutrašnjosti umjereno do znatno oblačno mjestimice s malo snijega osobito u gorskom kotaru i lici
+|P| vrjemoe sutrao unutrošž nosti u mjerenono znatnobvačnomjestimica smalogsnijeigra osobitougorskom otaru iu iciu
+[sample: m05150203401, WER: 100%, TER: 23.0088%, total WER: 82.8929%, total TER: 24.8892%, progress (thread 0): 72.3333%]
+
+|T| vremenska prognoza za jadran za prvih dvanaest sati jugozapadnjak šest do četrnaest okrenut će se na zapadnjak uzdah
+|P| vremeska prognoza za jadran za prvih dvanaest sati jugozapadnjak šestr č tonas vo revnut će sae na zapadnjak dadah
+[sample: z06080204306, WER: 44.4444%, TER: 12.2807%, total WER: 82.7359%, total TER: 24.8381%, progress (thread 0): 72.6667%]
+
+|T| na sjevernom i srednjem jadranu te u gorskom kotaru i lici pretežito oblačno s mjestimičnom kišom i grmljavinom uzdah
+|P| na sjevernom srednjem jadranu tae u gorstkom kotar ilicei petiežitov oblatčno smjestimičneomb kišami krmljavi naom zdah
+[sample: z01040502102, WER: 73.6842%, TER: 17.3913%, total WER: 82.6971%, total TER: 24.8077%, progress (thread 0): 73%]
+
+|T| predsjednik vlade ivo sanader u briselu razgovara o pripremama za početak pregovora o članstvu naše zemlje u europskoj uniji
+|P| predsjnih klad ilo sa nadežr u bdrisealu razgovarao pri premama za početaek rej kovora lo šlanstvnaše csemlje u europ skoej unjuni
+[sample: sm04170105103, WER: 94.7368%, TER: 22.7642%, total WER: 82.7485%, total TER: 24.7988%, progress (thread 0): 73.3333%]
+
+|T| prognoza za sutra umjereno do znatno oblačno mjestimice s kišom a na jadranu može biti i pljuskova s grmljavinom
+|P| prognogza za sutra umjoreno do znatno oblačno mjestimicet skišaoma na jadranu uošžebi ti pljuskovaskrmljavinaom
+[sample: z10160402201, WER: 63.1579%, TER: 14.5455%, total WER: 82.6652%, total TER: 24.7592%, progress (thread 0): 73.6667%]
+
+|T| poslijepodne na sjevernom a zatim potkraj dana i na dijelu srednjeg jadrana mjestimice kiša pljuskovi i grmljavina uzdah
+|P| poslijepodne na sjevenoma zatim podtkpredanaeji nadijelu srednjeg jadrana jestice iša rljuskovi grmljavina uzdah
+[sample: z09180502108, WER: 66.6667%, TER: 14.5299%, total WER: 82.6009%, total TER: 24.7173%, progress (thread 0): 74%]
+
+|T| sunčano uz malu do umjerenu naoblaku do kraja dana porast naoblake na sjevernom i dijelu srednjeg jadrana
+|P| sunčano uz malo doumerenunaoblaku dogkra ana pora z na o blake na sjevernom i djelu s rednjeg jadrana
+[sample: m01250402210, WER: 70.5882%, TER: 13.4615%, total WER: 82.5556%, total TER: 24.6765%, progress (thread 0): 74.3333%]
+
+|T| uz obalu vjetar zapadni i sjeverozapadni četiri do dvanaest u noći bura šest do četrnaest čvorova uzdah
+|P| uouz oba nogvje tar zapadni i sjeverozapadn četri do dvanaeist unoći burao šest do četrnae t čvorova uzdah
+[sample: z02160602303, WER: 76.4706%, TER: 12.6214%, total WER: 82.5327%, total TER: 24.6333%, progress (thread 0): 74.6667%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati uzdah na sjevernom jadranu mjestimice kiša pljuskovi i grmljavina
+|P| vremenska prognoza za slijedećih dvanaest sati uzdah sjevernom jadran u mestim ce iš pljuskovih grmljavina
+[sample: m08010702205, WER: 53.3333%, TER: 9.09091%, total WER: 82.436%, total TER: 24.5741%, progress (thread 0): 75%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati pretežito vedro slaba do umjerena bura do jutra će sasvim oslabjeti uzdah
+|P| vremenska prognoza za liedećih dvanaest sati pretežito ve dro slaba do umjerena bu ra u dreće sa sle o slabie ti uzda
+[sample: m10220602204, WER: 72.2222%, TER: 15.8333%, total WER: 82.3956%, total TER: 24.5379%, progress (thread 0): 75.3333%]
+
+|T| temperatura u unutrašnjosti od minus četiri do jedan stupanj uzdah a na jadranu od pet do deset
+|P| temperatura uenutrašnjosti o minus četieriji do jedans stupan uzah a na jadranu ot pet dodeset
+[sample: z07180203103, WER: 58.8235%, TER: 11.828%, total WER: 82.3079%, total TER: 24.4973%, progress (thread 0): 75.6667%]
+
+|T| najviša dnevna od osamnaest do dvadeset tri stupnja a u gorju i najistočnijim krajevima malo niža
+|P| najviša dnev na odo samnmest d dvadeset tristupnja ah ao u o iju i na jistdočnim kreaejivi ma malo miža
+[sample: z09040502405, WER: 93.75%, TER: 22.9167%, total WER: 82.3478%, total TER: 24.4921%, progress (thread 0): 76%]
+
+|T| zatim posvuda slab do umjeren sjeverozapadni vjetar uzdah more malo do umjereno valovito malo svježije
+|P| vnziz zatimn tposu da slabdo umieran sjeverozapadnigvjetar uzdah or malo do umjeno valobito alo siježihe
+[sample: m10190502206, WER: 86.6667%, TER: 21.5686%, total WER: 82.3619%, total TER: 24.4819%, progress (thread 0): 76.3333%]
+
+|T| pretežito oblačno povremeno s kišom osobito poslijepodne i navečer uzdah a sunčanih razdoblja bit će uglavnom uz zapadnu obalu istre
+|P| petežit oblačno orenoskišomo ća bi to posejepodnenavječe r zd h sunčanihrazdobvljrabmić glavnom uz zapadn vobal istrae
+[sample: m04231202301, WER: 90%, TER: 28.2443%, total WER: 82.395%, total TER: 24.4987%, progress (thread 0): 76.6667%]
+
+|T| ili izdići u niske oblake uzdah jutra i dalje razmjerno hladna a danju će temperatura postupno porasti
+|P| ijil it tićšhi uliskiloblake udh jutrad i deamljerazmienom load na dalu ča temperapura postubnoporasti
+[sample: z12220203405, WER: 94.1176%, TER: 31%, total WER: 82.438%, total TER: 24.5207%, progress (thread 0): 77%]
+
+|T| najniža jutarnja temperatura od minus osam do minus tri stupnja na jadranu od pet do deset uzdah
+|P| najviža ijutarnja temperatura od mijinus o o sam do minus tristupnja na jadranu od pet dr deset uzdah
+[sample: z09190103403, WER: 58.8235%, TER: 9.57447%, total WER: 82.3517%, total TER: 24.4733%, progress (thread 0): 77.3333%]
+
+|T| izvještaj pomorskog meteorološkog centra split državnog hidrometeorološkog zavoda počinje upozorenjem
+|P| izvještaj pomorskogameteološkog centra split državnoga hidrometeorološkog zavoda počinje upozorenjem
+[sample: sm04050502201, WER: 30%, TER: 4.0404%, total WER: 82.2394%, total TER: 24.4052%, progress (thread 0): 77.6667%]
+
+|T| uzdah vjetar uglavnom slab zapadni i jugozapadni uzdah najniža jutarnja temperatura od minus dva do plus tri uzdah
+|P| uzdah vjetaroglavno slab zapadn i jugozapadni uzdah najiža utrnjatemperaturaodo minus dva do plus tri uzdah
+[sample: sm04211202403, WER: 55.5556%, TER: 8.84956%, total WER: 82.1368%, total TER: 24.3463%, progress (thread 0): 78%]
+
+|T| pretežno sunčano u najzapadnijim krajevima unutrašnjosti i na sjevernome jadranu umjerena naoblaka uzdah
+|P| pretežno sunčano u naj za padnijm rejevimno u utrašnjostina sjevernome jadranu umjerena naoblakauzdah
+[sample: z09020502102, WER: 61.5385%, TER: 11.6505%, total WER: 82.0797%, total TER: 24.3026%, progress (thread 0): 78.3333%]
+
+|T| vremenska prognoza za poslijepodne u unutrašnjosti pretežno oblačno sa slabim snijegom povremeno uzdah
+|P| vremeska progno za za poslijepodne uzdah unutrašnjosti peteržno oblačno sa slabemn sjegom povremenou uzdah
+[sample: z02110203101, WER: 69.2308%, TER: 12.8713%, total WER: 82.0442%, total TER: 24.2641%, progress (thread 0): 78.6667%]
+
+|T| na sjevernom će jadranu zapuhati umjerena i jaka bura i istočnjak uzdah u dalmaciji istočnjak i jugo
+|P| na sjevenom će jadranuza puhatre umjere na jaka bura ijistočnjak uzdah u dalmaci istočnja ki ju go
+[sample: z04060103104, WER: 76.4706%, TER: 14.2857%, total WER: 82.0241%, total TER: 24.2317%, progress (thread 0): 79%]
+
+|T| krajem dana postupno smirivanje vjetar slab na jadranu ponegdje umjerena bura i sjeverozapadnjak
+|P| pkraemudana postup ozijiri vadnje vjetar slabp na jadranu ponegdje u jerena bura i sjeverozapadna
+[sample: m08280502102, WER: 61.5385%, TER: 13.8298%, total WER: 81.9679%, total TER: 24.1993%, progress (thread 0): 79.3333%]
+
+|T| najniža temperatura između jedanaest i petnaest stupnjeva na jadranu od trinaest do sedamnaest
+|P| najniža tmperatura izmeđuvjedanaesti petnaest stupnjeva na jadranuod trinest do sedamnaest uzdah
+[sample: z04090502305, WER: 61.5385%, TER: 11.828%, total WER: 81.912%, total TER: 24.1614%, progress (thread 0): 79.6667%]
+
+|T| u utorak i srijedu sunčano i postupno toplije uzdah vjetar slab do umjeren u ponedjeljak i utorak sjeveroistočni
+|P| utara i sriejedu sunčano i i postupno toplije uzdh vjetar slab do umjeren u ponevelje jutra sjeveristočni u h
+[sample: m04180502107, WER: 55.5556%, TER: 18.9189%, total WER: 81.8125%, total TER: 24.1422%, progress (thread 0): 80%]
+
+|T| istraživanje javnoga mišljenja pokazalo je da su nezadovoljni njegovim učinkom u jačanju usporenoga gospodarstva uzdah
+|P| uzoap i sreživanje javnoga mišnjenja kokazavlveda su nae zadaovoljnnjenje uv i učinkomu jačanju ustprenoga gostvodanstva
+[sample: sm04090703325, WER: 93.3333%, TER: 33.0357%, total WER: 81.8486%, total TER: 24.1749%, progress (thread 0): 80.3333%]
+
+|T| najniža jutarnja temperatura zraka između minus jedan i četiri uzdah na jadranu od šest do deset uzdah
+|P| naejnižae e ju tarnjetimperaoturazraka između minmus jedani četi zdah na jadranu o ćetdo dest uzdah
+[sample: z05221202403, WER: 82.3529%, TER: 19.802%, total WER: 81.8504%, total TER: 24.1604%, progress (thread 0): 80.6667%]
+
+|T| jedan četiri tri uzdah sto četrdeset tri sil slavonski šamac uzdah minus sil jedan jedan sil minus jedanaest
+|P| jdjedan četiri tri a stoče trdeset tri slavonski šavnac z h minus jedan jedan minusjedanaest
+[sample: sm04170105166, WER: 66.6667%, TER: 24.0741%, total WER: 81.7936%, total TER: 24.1601%, progress (thread 0): 81%]
+
+|T| na jadranu od dvadeset do dvadeset pet sil najviša dnevna od dvadeset devet do trideset četiri stupnja
+|P| na jadranu odvadeset do dvadeset pet t sa najviša dnev na od dvadeset devetet do trideset četirit stupnja
+[sample: z08150703358, WER: 47.0588%, TER: 9.90099%, total WER: 81.6715%, total TER: 24.1135%, progress (thread 0): 81.3333%]
+
+|T| vjetar većinom slab na jadranu slaba do umjerena bura i istočnjak uzdah temperatura od minus dva
+|P| vjetarvećinom slab na jadranu shlavbo d umjerena pura i i stočnjeak uzdah temperatura odminus va
+[sample: z04131202103, WER: 68.75%, TER: 10.5263%, total WER: 81.6289%, total TER: 24.0717%, progress (thread 0): 81.6667%]
+
+|T| nad jadranom se sa sjevera pruža anticiklonalni greben a nad tirenskim morem zadržava se plitka ciklona
+|P| unadjadranomn se sa sjeberao ružanticiklonalnmi g redbeana atdana tirenskim ora za dršava se pitkaciklona
+[sample: m09091202203, WER: 81.25%, TER: 23.301%, total WER: 81.6276%, total TER: 24.0692%, progress (thread 0): 82%]
+
+|T| vjetar slab do umjeren jugozapadni i južni a na jadranu umjereno u noći mjestimice jako jugo
+|P| vjetara slab do umjeren jugozapadni južnei a a jadranu umjereno u uoći estimeicse jako juiego
+[sample: m08020702403, WER: 43.75%, TER: 13.0435%, total WER: 81.5035%, total TER: 24.0366%, progress (thread 0): 82.3333%]
+
+|T| duž obale bura pet do petnaest čvorova u velebitskom kanalu i ponegdje na srednjem jadranu do dvadeset čvorova
+|P| dužuoboale bura pedopetnae t čvorova uvelebitskom kanalui ponegdjena srednjm jadranudo dvadest čvorovauzd
+[sample: m11150502105, WER: 88.8889%, TER: 13.7615%, total WER: 81.5306%, total TER: 24.0008%, progress (thread 0): 82.6667%]
+
+|T| potkraj petka i u noći na subotu mjestimice pljuskovi i grmljavina uzdah uglavnom na zapadu i sjeverozapadu zemlje
+|P| potkae petka i n oći na subgo tu mjestimicet ljuskogi g rdnavina zda uglavnou nen zapad se vrozapaduzerdnjlje
+[sample: m11190602404, WER: 83.3333%, TER: 25.2252%, total WER: 81.5372%, total TER: 24.0051%, progress (thread 0): 83%]
+
+|T| zatim posvuda slab do umjeren sjeverozapadni vjetar uzdah more malo do umjereno valovito malo svježije uzdah
+|P| dzatim pos u da slab do umjeren sjeverozapadnivjeta z h morema o umjereno valovito malo svješžje zdah
+[sample: m09190502407, WER: 75%, TER: 13.8889%, total WER: 81.516%, total TER: 23.9704%, progress (thread 0): 83.3333%]
+
+|T| plitka ciklona s južne italije premješta se na jugoistok vremenska prognoza za jadran za prvih dvanaest sati uzdah
+|P| vlitkacikro na sjiuža i ali premješta se na jugoi stobk v remenska prognoza za jadran za prvih dvanaest sati dah
+[sample: m10131202401, WER: 55.5556%, TER: 14.0351%, total WER: 81.4216%, total TER: 23.9345%, progress (thread 0): 83.6667%]
+
+|T| južno od jadrana plitka dolina premješta se na istok a sa sjeverozapada se približava dolina s frontalnim poremećajem uzdah
+|P| vivjužlodjadrana plitkadoli na premještoa senanisto kha sa severozapvada se pr bijižavadovi na sflomntkabni poreme ćaem
+[sample: m05020702302, WER: 89.4737%, TER: 29.2683%, total WER: 81.4524%, total TER: 23.9552%, progress (thread 0): 84%]
+
+|T| ostojić nije otkrio nikakve pojedinosti pa se i dalje ne zna je li blaškić bolestan i o kojoj bolesti je riječ
+|P| npi oštjični e otrje nikakvepojdino sti pa seitdaljena zna jele blački bolaestan jo koje boestierlijetč
+[sample: sm04020204313, WER: 95.2381%, TER: 31.1927%, total WER: 81.5104%, total TER: 23.98%, progress (thread 0): 84.3333%]
+
+|T| vidljivost deset do dvadeset kilometara mjestimice smanjena na četiri kilometra zbog sumaglice uzdah
+|P| vidljivost drese do dvadeset kilometara mjestimice s manjenana četiri kilometrazbog sumoatlica uzdah
+[sample: z13090204412, WER: 53.8462%, TER: 8.16327%, total WER: 81.4386%, total TER: 23.9314%, progress (thread 0): 84.6667%]
+
+|T| vremenska prognoza za sutra pretežito oblačno povremeno s kišom na jadranu ponegdje i grmljavinom uzdah
+|P| vremenska prognoza za sutra pretežit oblačno povremeno s kišom na jadtranu bonegdj i grmljavinaom uzdah
+[sample: z04301202401, WER: 33.3333%, TER: 4.90196%, total WER: 81.2948%, total TER: 23.8708%, progress (thread 0): 85%]
+
+|T| pa sutra na staru godinu svi bismo trebali biti dobro bar što se tiče biometeorološke prognoze
+|P| asmutra stare u glo denosvi rbis lu trebelibiti dodbro vašteosa ti šeae re b bi ometeorološke pro minozea
+[sample: z14301204301, WER: 112.5%, TER: 42.5532%, total WER: 81.394%, total TER: 23.9255%, progress (thread 0): 85.3333%]
+
+|T| na sjevernom jadranu djelomice sunčano vjetar uglavnom slab a na jadranu bura koja će krajem dana jačati
+|P| nasjeverom jadranu djelomice sunčano zd vjetar uglovnom slab ba na jadranu ura koja će krajem nana jačet
+[sample: z12220103302, WER: 47.0588%, TER: 10.5769%, total WER: 81.2784%, total TER: 23.8824%, progress (thread 0): 85.6667%]
+
+|T| u kopnenom području mjestimice jak razvoj naoblake te pljuskovi grmljavina i prolazno jak vjetar uzdah
+|P| ukotnarom podljrečj mjestimice jakrazvae naobla ket te pljuskobi grmljavina i ptrolaoznaijak kijetar uzdah
+[sample: z03200602405, WER: 73.3333%, TER: 19%, total WER: 81.2549%, total TER: 23.8673%, progress (thread 0): 86%]
+
+|T| vremenska prognoza za slijedećih dvanaest sati uglavnom oblačno kiša i grmljavina uzdah
+|P| puzuvapinmv vremenska prognoza za slijedeći dvanaest sati uglavno oblačno kiša i drmljavina zda
+[sample: z04050602204, WER: 41.6667%, TER: 19.7674%, total WER: 81.1614%, total TER: 23.8564%, progress (thread 0): 86.3333%]
+
+|T| zapuhat će umjeren jugozapadnjak a prema kraju dana duž većeg dijela jadrana umjereno i jako jugo
+|P| zapuva će umjeren jugozapadnjaka premakarajudana dužvećeg diela jadrana umjereno i jako jugo
+[sample: z04250402203, WER: 56.25%, TER: 8.33333%, total WER: 81.0832%, total TER: 23.8105%, progress (thread 0): 86.6667%]
+
+|T| vjetar većinom slab na jadranu će u početku puhati još umjerena do jaka u dalmaciji mjestimice i olujna bura uzdah
+|P| vjetarvećinomslab na jadrnu će početujršt pukhati umjerena do jaka u dalbmacimjestimice i volujna bura uzdah
+[sample: sm04310105127, WER: 60%, TER: 17.5439%, total WER: 81.0008%, total TER: 23.7886%, progress (thread 0): 87%]
+
+|T| no gong poziva i pripadnike manjina da se sami raspitaju o izborima u svojoj općini gradu i županiji
+|P| uzdnogomn poziva i pripadikieimaeina dase samir s pita j oizborima usojegopoćini gradu d h išžupani
+[sample: sm04050204406, WER: 88.8889%, TER: 30.303%, total WER: 81.0284%, total TER: 23.8084%, progress (thread 0): 87.3333%]
+
+|T| u zapadnom i sjeverozapadnom području mjestimice umjerene naoblaka a predvečer kratkotrajni pljuskovi i grmljavina
+|P| u zapadnom i sjeverozapanam područa mjestimice umjerena naoblaka pre kvečerp ratko drajni kljuskovi gemljavirna
+[sample: z08220602102, WER: 64.2857%, TER: 16.0714%, total WER: 80.9829%, total TER: 23.782%, progress (thread 0): 87.6667%]
+
+|T| sjeverozapadni i zapadni vjetar šest do četrnaest u noći uz obalu bura četiri do deset
+|P| vasi sjeverozapadnizapadni vjetar šest do u četrnaestu noć i u zobalru u bura četeri to deset
+[sample: z08070402203, WER: 80%, TER: 22.093%, total WER: 80.9801%, total TER: 23.7775%, progress (thread 0): 88%]
+
+|T| vjetar uglavnom slab najviša temperatura između dvadeset pet i trideset stupnjeva uzdah
+|P| mje tar uglamnom sla uz najviša tem peratura izmećđu dvadeset pet i tridese stupnjeva
+[sample: z11030702306, WER: 83.3333%, TER: 17.4419%, total WER: 80.9855%, total TER: 23.761%, progress (thread 0): 88.3333%]
+
+|T| na sjeveru jadrana i u velebitskom kanalu bura i levant u jačanju na dvanaest do dvadeset šest čvorova
+|P| na sjeverui jadrana uvelebitkom ka nalu burajelinjevan u ja čaenju na dvanaesto dvadeset š šest čvorova
+[sample: z11110402106, WER: 72.2222%, TER: 17.8218%, total WER: 80.9551%, total TER: 23.7429%, progress (thread 0): 88.6667%]
+
+|T| u mnogim tvrtkama sil poslovodstva prijete otkazima sil bez posla će možda ostati uzdah oko šezdeset tisuća zaposlenih
+|P| u nagni tvrdtkalma poslovosta pijete otkazima besposla ćev možavosta ti zp okoše zesetisuće zaposldnieh
+[sample: sm04241204421, WER: 88.8889%, TER: 29.661%, total WER: 80.9825%, total TER: 23.7639%, progress (thread 0): 89%]
+
+|T| uzdah italija je ovu godinu dočekala neoubičajeno mirno iz poštovanja i solidarnosti sa stradalima u katastrofi
+|P| uzdurdah iktalijaeje ugodirnu dočekala ne običenomirno i ožtkovanja soli darnosti sa stalimo ata strofi
+[sample: sm04010105309, WER: 87.5%, TER: 26.3636%, total WER: 81.0025%, total TER: 23.7725%, progress (thread 0): 89.3333%]
+
+|T| jutarnja temperatura u unutrašnjosti između minus dva i tri stupnja na jadranu od šest do deset
+|P| jutarnjatemperatura u unutrašnjosti izmeđuminus dva i tristup pnja na jadranuod šest do deset
+[sample: z04220103406, WER: 50%, TER: 6.52174%, total WER: 80.9079%, total TER: 23.725%, progress (thread 0): 89.6667%]
+
+|T| javnoj radioteleviziji koja je oštro napadnuta u zaključku istrage suca istražitelja brajana hakna
+|P| idihijavn raditererizi u h koj e oštranapodnou ta uzakuičkuistrarge sucaeistažit e rlja bprana hartna
+[sample: sm04050204450, WER: 107.692%, TER: 37.5%, total WER: 80.9741%, total TER: 23.7645%, progress (thread 0): 90%]
+
+|T| podno velebita s olujnim udarima a na južnom jadranu većinom umjereno i jako jugo
+|P| pnm podno velebieta s oluj nim uodarima a na južnom jadranu veći nom umjereno jako jugoao
+[sample: z04040402206, WER: 64.2857%, TER: 14.8148%, total WER: 80.9298%, total TER: 23.7429%, progress (thread 0): 90.3333%]
+
+|T| jasenovac jedan pet osam uzdah sto pedeset osam sil slavonski brod jedan šest pet sil sto šezdeset pet
+|P| idaesenovac jedan petosa z ahi stopedeset osam slavoski brot jeda šes pet sto o šezdeset pet
+[sample: sm04171204139, WER: 72.2222%, TER: 20.5882%, total WER: 80.9002%, total TER: 23.7333%, progress (thread 0): 90.6667%]
+
+|T| kod senja na početku bura na jugu jadrana levant šesnaest do dvadeset dva čvora uzdah slabjet će i prestati
+|P| kot ajenja a početku burat nao ijugujadravalevant e šesnaes do dvadese dvat čvora zd slabje ći i prestat
+[sample: m09261202202, WER: 78.9474%, TER: 19.8113%, total WER: 80.8932%, total TER: 23.721%, progress (thread 0): 91%]
+
+|T| a sutra u unutrašnjosti djelomice sunčano s promjenjivom naoblakom najviše u slavoniji i podravini uzdah
+|P| rosutra unutrašnjosti jelomice sunčamno ozpromjenivom naoblako najvišž u slavo ni podravijimnji uzdah
+[sample: z07300105401, WER: 86.6667%, TER: 19.6078%, total WER: 80.9094%, total TER: 23.7087%, progress (thread 0): 91.3333%]
+
+|T| u registru se mogu naći svi podaci o tvrtkama i djelatnostima kao i kontakt osobe adrese i financijski podaci
+|P| uorei stvu samogunaći sui bodadsijeo tortptkama i djelatnostnimaka u i koata tosou be atrae sae i hinancspi podaci
+[sample: sm04300104329, WER: 84.2105%, TER: 30.2752%, total WER: 80.9212%, total TER: 23.7297%, progress (thread 0): 91.6667%]
+
+|T| jutarnje temperature između minus osam i minus tri stupnja na jadranu od minus jedan do četiri
+|P| jetrnja temperaturjizmeđuminus osanie i ustiri stupnja na jadranu od minus jedad do četiri
+[sample: z08020205339, WER: 50%, TER: 15.2174%, total WER: 80.8288%, total TER: 23.7067%, progress (thread 0): 92%]
+
+|T| na južnom dijelu srednjeg jadrana još danas poslije podne manja mogućnost neverina a uglavnom duž obale
+|P| na južnom dijelu srednjegjadrana jvuožtana s osliepodne ma nja mućnost t ne veri na uglavnom dužobalna
+[sample: z08210502209, WER: 81.25%, TER: 21.7822%, total WER: 80.8301%, total TER: 23.7011%, progress (thread 0): 92.3333%]
+
+|T| umjerena do jaka bura danju će malo oslabiti a na sjevernom jadranu i dalje ponegdje vrlo jaka bura
+|P| okumjerena do jaka bura dalju če na lostlaobiti aro sjevenom jadranuvidaljie ponegt dijeoe toarlnojaka bura
+[sample: m05081202207, WER: 72.2222%, TER: 27.8351%, total WER: 80.8013%, total TER: 23.7128%, progress (thread 0): 92.6667%]
+
+|T| sava slavonski šamac minus jedan osam šest sil minus sto osamdeset šest
+|P| isava slavomnskišamaca minus jedanoszam šest p minus sto osamdeset šest
+[sample: z04150703152, WER: 50%, TER: 12.6761%, total WER: 80.7329%, total TER: 23.69%, progress (thread 0): 93%]
+
+|T| očekuju se mjestimice udari juga trideset do četrdeset čvorova sutra će tijekom dana oslabiti stanje uzdah
+|P| opoče ou se mjestimice u derij u ve tride st da četrdeset čvorova sutrećče tikom dana ozs abiti l stanje uzdh
+[sample: m10080502302, WER: 100%, TER: 23.8095%, total WER: 80.7898%, total TER: 23.6903%, progress (thread 0): 93.3333%]
+
+|T| a najviša dnevna između devetnaest i dvadeset četiri uzdah u dalmaciji do dvadeset sedam stupnjeva
+|P| a najviša dnev na između devetnest i dvadeset četi uzdah udalmadci dodvadeset seam stupnjeva
+[sample: z05250502304, WER: 66.6667%, TER: 10.3093%, total WER: 80.7508%, total TER: 23.6528%, progress (thread 0): 93.6667%]
+
+|T| a zatim je na trgu ispred kotorske prvostolnice kotorska mornarica izvela svoje tradicionalno kolo
+|P| uzda a zatimiratrbuispredt kotorski prlosolnice bokeskama dnaice e va svoje tradicie nalno kolo
+[sample: sm04080204432, WER: 92.8571%, TER: 33.6735%, total WER: 80.7819%, total TER: 23.6811%, progress (thread 0): 94%]
+
+|T| na otvorenom moru uglavnom slab sjeverozapadni vjetar uzdah more malo do umjereno valovito uzdah
+|P| na otvorenomem mor u glavnom slab sjevrozapdnigijetar uzdah more malo doumjerenomvalovito uzdah
+[sample: z02160602307, WER: 78.5714%, TER: 10.4167%, total WER: 80.7763%, total TER: 23.6445%, progress (thread 0): 94.3333%]
+
+|T| pojačano i vrlo jako jugo na srednjem i južnom mjestimice na udare olujno
+|P| kpojačana i darlao jako jugo zda na srednjem ijuvužnom mjestimice na u dare oluino
+[sample: z04050602210, WER: 61.5385%, TER: 19.4444%, total WER: 80.7306%, total TER: 23.6358%, progress (thread 0): 94.6667%]
+
+|T| a ranjeno je više od tisuću sto ljudi uzdah javljaju franspres i rojter pozivajući se na službene izvore
+|P| aranjen j višaot ktisuću stoljudi javljeju franspresjirojter pkoziveći sena službeana izbore
+[sample: sm04261204107, WER: 100%, TER: 24.7525%, total WER: 80.7937%, total TER: 23.639%, progress (thread 0): 95%]
+
+|T| jutarnje temperature od minus dva do tri stupnja po kotlinama gorskog kotara i like malo niža
+|P| jutrnja temperature odminus dlvado teri stupnjam pokod in mo gorsko kotara i li kemn malo niža
+[sample: z08050204449, WER: 75%, TER: 17.5824%, total WER: 80.7769%, total TER: 23.6233%, progress (thread 0): 95.3333%]
+
+|T| plitka dolina sa zapada usporeno se širi prema jadranu gdje polje povišenog tlaka polako slabi
+|P| plitka dolinasa zapada u poreno s širipremna jadranugdje polje povišano tlaka poloako slabti
+[sample: m08170502302, WER: 73.3333%, TER: 12.9032%, total WER: 80.7567%, total TER: 23.5949%, progress (thread 0): 95.6667%]
+
+|T| vjetar povremeno umjeren sjeverni na jadranu bura i sjeverozapadnjak najprije na sjevernom dijelu
+|P| vjetar povremerna umjeraenu sjeverni najadtranu bura jerverozapadnjak nejet brdijena sjevarnom djealu
+[sample: z05060702402, WER: 76.9231%, TER: 20.8333%, total WER: 80.7477%, total TER: 23.5874%, progress (thread 0): 96%]
+
+|T| stanje sa sjeverozapada prema jadranu približava se dolina s frontalnim sustavom uzdah
+|P| stanje sa sijimverozapada prema jadranu priblvjižšava se dolina flodamnim suslavom uzd
+[sample: z11020502403, WER: 50%, TER: 17.6471%, total WER: 80.6812%, total TER: 23.5731%, progress (thread 0): 96.3333%]
+
+|T| najviša dnevna od osam do trinaest na jadranu između dvanaest i šesnaest stupnjeva
+|P| an majviš a dnev na o osam go tri naest na jadranu između dvanaestvi šesnaest stupnjeva
+[sample: m08110402104, WER: 84.6154%, TER: 11.1111%, total WER: 80.6904%, total TER: 23.5445%, progress (thread 0): 96.6667%]
+
+|T| sam tijek izbora i poštivanje izbornih pravila gong će pratiti na šezdesetak mobilnih ekipa
+|P| sdsantiek izbora i poštiva iztpomnih pavilva gom kće patieti na šezde setar mobinievie kida
+[sample: sm04050204413, WER: 85.7143%, TER: 27.7778%, total WER: 80.703%, total TER: 23.5553%, progress (thread 0): 97%]
+
+|T| ponegdje kratkotrajna kiša ili lokalni pljuskovi s grmljavinom i to osobito oko utorka
+|P| mp paonegdjekradtkotajna kišae irdino panli pljuskomvi grmljavinom itaosobito o k o u toraka
+[sample: z05200402513, WER: 100%, TER: 30.9524%, total WER: 80.7479%, total TER: 23.5728%, progress (thread 0): 97.3333%]
+
+|T| uzdah zemlje članice europske unije odlučile su na službenim zgradama spustiti zastave na pola stijega
+|P| uza ze nnje čanic juopspke unea e odlu čiule suna slulžbini rardama spusti zastav na polasijijerga
+[sample: sm04010105302, WER: 106.667%, TER: 28.7129%, total WER: 80.8173%, total TER: 23.5873%, progress (thread 0): 97.6667%]
+
+|T| stanje duboka atlantska ciklona pruža dolinu prema zapadnom i srednjem sredozemlju i jadranu uzdah
+|P| stanje uzdah u o kadla ska ci kilomoa prouža doali nu prema zapadnum i stelnnjim saredoziemi jadranuzdh
+[sample: z12171202201, WER: 107.143%, TER: 33.6842%, total WER: 80.8829%, total TER: 23.6141%, progress (thread 0): 98%]
+
+|T| more jedan do dva poslije podne samo ponegdje dva do tri vidljivost deset do dvadeset uzdah
+|P| more jeda do dva poslepodnaesamo ponegdje dva do tri zda vidljivost deset do dvavreset uzdah
+[sample: z09150602203, WER: 43.75%, TER: 13.3333%, total WER: 80.7774%, total TER: 23.5883%, progress (thread 0): 98.3333%]
+
+|T| donji miholjac pet dva pedeset dva uzdah osijek sedam jedan sedamdeset jedan
+|P| doanjim h oljeac pet dva e dese dva u u ah os sije se a m jeda sedam dese jedan
+[sample: sm04100502108, WER: 133.333%, TER: 25.6757%, total WER: 80.8891%, total TER: 23.5926%, progress (thread 0): 98.6667%]
+
+|T| nezavisni sindikat zaposlenih u riječkoj luci danas je konferencijom za novinstvo obilježio šest godina
+|P| vrezalji inisindiga tz a za p slrni urijčka ludsi danasje it kov f rencie za novnistv obiljdešćijošesb godina
+[sample: sm04300104130, WER: 121.429%, TER: 39.2157%, total WER: 80.9894%, total TER: 23.6369%, progress (thread 0): 99%]
+
+|T| najviša temperatura uglavnom između dvadeset šest i uzdah trideset jedan celzijev stupanj
+|P| mnajvišatemperatura uglavom ezm ću dvade seš šest da i erideset i an ce lzele stupanj
+[sample: m11080702102, WER: 100%, TER: 25%, total WER: 81.0296%, total TER: 23.6402%, progress (thread 0): 99.3333%]
+
+|T| slaba do umjerena bura sil na srednjem i južnom jadranu umjerena do jaka ponegdje vrlo jaka bura
+|P| nslaba doumjrena bura na srednjem ijužnom jadranu umjerena d jaka ponegdje vorlo jaka bura
+[sample: z08020205352, WER: 47.0588%, TER: 10.5263%, total WER: 80.9281%, total TER: 23.6058%, progress (thread 0): 99.6667%]
+
+|T| današnji vodostaj rijeka dunav budimpešta dva četiri pet dvjesto četrdeset pet
+|P| dvdvdvdvanašnjiegvodo stejerijeka duna buodimvešta dva četiri petetr dvjesto četrdeset pet
+[sample: z02210402401, WER: 54.5455%, TER: 23.3766%, total WER: 80.8772%, total TER: 23.6053%, progress (thread 0): 100%]
+
